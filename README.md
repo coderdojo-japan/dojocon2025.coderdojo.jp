@@ -1,9 +1,10 @@
-[![Test & Deploy](https://github.com/coderdojo-japan/dojocon2023.coderdojo.jp/workflows/Test%20&%20Deploy/badge.svg)](https://github.com/coderdojo-japan/dojocon2023.coderdojo.jp/actions?query=workflow%3A%22Test+%26+Deploy%22)
+[![Test & Deploy](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/workflows/Test%20&%20Deploy/badge.svg)](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/actions?query=workflow%3A%22Test+%26+Deploy%22)
 
-# DojoCon Japan 2023 公式サイト
+# DojoCon Japan 2024 公式サイト
 
 本ページは DojoCon Japan 公式Webサイトの公開リポジトリです。   
-本READMEでは、公式Webサイトの更新方法を目的別にまとめています。
+本READMEでは、公式Webサイトの更新方法を目的別にまとめています。   
+（:octocat: [前年度](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/)からリポジトリを引き継いで再活用しています）
 
 <br>
 
