@@ -68,8 +68,8 @@ $ docker-compose up
 ### B. Docker イメージをローカルで作成する方法
 
 ```shell
-# Dockefile から dojocon-japan-2023 イメージを作成する
-$ docker build -t dojocon-japan-2023 -f Dockerfile .
+# Dockefile から dojocon-japan-2024 イメージを作成する
+$ docker build -t dojocon-japan-2024 -f Dockerfile .
 
 # 下記コマンドでローカル環境にWebサーバーが立ち上がります
 $ docker-compose up
