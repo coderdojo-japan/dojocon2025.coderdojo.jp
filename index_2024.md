@@ -6,10 +6,10 @@ layout: default
     <div class='tagline'>The Annual CoderDojo<br>Community Conference in Japan</div>
   </div>
   <div class='information'>
-    <div class="theme">Be Cool</div>
-    <img src="/img/2023/logo_640x160.svg" alt='DojoCon Japan 2023 のロゴ画像'>
+    <div class="theme">Dream Up！</div>
+    <img src="/img/2024/svg/logo-bk.svg" alt='DojoCon Japan 2024 のロゴ画像'>
     <div class="event-date-and-location">
-      <p>2023.8.27 Sun<br>at 奈良女子大学 Nara Women's University</p>
+      <p>2024.9.15 Sun<br>at 杜の街グレース貸し会議室</p>
     </div>
   </div>
   <div class="character">
@@ -82,11 +82,11 @@ layout: default
       <div class="col-md-8 offset-md-2">
         <p class="about-title">参加費</p>
         <p class="about-text">無料</p>
-        <!-- <a class="nav-item nav-link active link_button" href="/registration/" style="padding-left:30px;padding-right: 30px;color:white;font-weight: normal;">参加申し込み</a> -->
-        <div class="disable_button" style='margin-bottom: 20px;'>受付終了</div>
-	<p>
+        <a class="nav-item nav-link active link_button" href="/registration/" style="padding-left:30px;padding-right: 30px;color:white;font-weight: normal;">参加申し込み</a>
+        <!-- <div class="disable_button" style='margin-bottom: 20px;'>受付終了</div> -->
+	<!-- <p>
 	  <small>全国からご参加いただき<br>ありがとうございました!</small>
-	</p>
+	</p> -->
       </div>
     </div>
     <!-- <div class="container">
@@ -118,7 +118,7 @@ layout: default
       </a>
     </section>
   </div>
-
+  {% if site.data.countdown %}
   <div id='countdown'></div>
   <div class="container">
     <div class="row">
@@ -126,14 +126,15 @@ layout: default
         <h2 class="text-center title-text">Countdown <br class='ignore-pc'>DojoCon Japan</h2>
         <p class="text-center caption">DojoCon Japan {{ site.year }} の内容を紹介するライブ配信です。</p>
       </div>
-      {% for cd in site.data.countdown %}
-        <div class="col-md-4 p-3">
-          <iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/{{ cd.id}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <p>{{ cd.title }}<br>{{ cd.date }} ONAIR</p>
-        </div>
-      {% endfor %}
+        {% for cd in site.data.countdown %}
+          <div class="col-md-4 p-3">
+            <iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/{{ cd.id}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <p>{{ cd.title }}<br>{{ cd.date }} ONAIR</p>
+          </div>
+        {% endfor %}
    </div>
   </div>
+  {% endif %}
   <section id="contact" class="bg-main">
     <div class="section-contents container">
       <h2 class="text-center title-text">CONTACT</h2>
