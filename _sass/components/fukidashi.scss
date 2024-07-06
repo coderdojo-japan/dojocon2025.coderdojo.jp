@@ -32,4 +32,9 @@
     box-sizing: border-box;
     background-color: #333;
   }
+  img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+  }
 }
