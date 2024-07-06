@@ -62,64 +62,11 @@
 }
 
 .tag-post {
-  background-color: $light-gray;
+  background-color: var(--bs-gray-400);
   border-radius: 1em;
   display: inline-block;
   margin: 6px;
   padding: 4px 24px;
-}
-
-#session, #news, #event {
-  h2 {
-    font-size: 1.2em;
-    margin-bottom: 0.5em;
-    padding: 10px;
-    border-left: 8px solid $main-color;
-    border-bottom: 2px solid $main-color;
-}
-  h3 {
-    font-size: 1em;
-    text-decoration: underline;
-  }
-  ol {
-    li {
-      margin-bottom: 1em;
-    }
-  }
-
-  ul {
-    li {
-      margin-top: 0.5em;
-    }
-  }
-
-  /* ボタンリンク以外の anchor のスタイルを定義 */
-  :not(.framed_button) {
-    & > a {
-      color: $main-color;
-      &:hover {
-        text-decoration: underline;
-      }
-    }
-  }
-
-  .entry {
-    text-align: center;
-    margin: 6em 0;
-    a {
-      &.condition {
-        font-size: 1.4em;
-        margin: 2em 0;
-      }
-      &.button {
-        color: white;
-        font-size: 1.6em;
-      }
-      &:hover {
-        text-decoration: none;
-      }
-    }
-  }
 }
 
 .framed_button {
@@ -138,11 +85,5 @@
       color: white;
       text-decoration: underline;
     }
-  }
-}
-
-#news {
-  h2 {
-    font-size: 1.2em;
   }
 }

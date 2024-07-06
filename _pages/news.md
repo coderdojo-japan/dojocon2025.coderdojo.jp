@@ -3,19 +3,14 @@ layout: default
 permalink: /news
 ---
 
-<div class="container-fruid">
-  <section class="section-gray">
-    <div class="section-contents">
-      <h2 class="text-center title-text">NEWS</h2>
-      <p class="caption text-center">お知らせ</p>
+<div class="container" style="margin-top: 140px; margin-bottom: 140px">
+    <div class="text-center mb-4">
+        <p class="my-0"><strong>NEWS</strong></p>
+        <h2 class="my-1">お知らせ</h2>
+      </div>
       <div class="row mx-2 mx-md-0">
         {% for post in site.posts %}
         {% include articles.html %}
         {% endfor %}
       </div>
-    </div>
-    <div class="mt-4">
-      {% include back-to-top.html %}
-    </div>
-  </section>
 </div>

@@ -2,29 +2,31 @@
 layout: default
 ---
 
+<div class="container" style="margin-top: 140px; margin-bottom: 140px">
 {% if page.categories %}
-<div class="post-head">
-  <h2>{{page.categories[0] | upcase }}</h2>
-</div>
+  <div class="text-center">
+    <h2>{{page.categories[0] | upcase }}</h2>
+  </div>
 {% endif %}
 
-<div id='{{ page.categories[0] }}' class="post">
-  <h1 class="post-title">{{ page.title | liquify }}</h1>
-
-  {% if page.categories[0] == "news" %}
+  <div class="fukidashi" id='{{ page.categories[0] }}'>
+    <h1>{{ page.title | liquify }}</h1>
+    {% if page.categories[0] == "news" %}
     <p class="post-date">{{ page.date | date:"%Y.%-m.%-d" }}</p>
-  {% elsif page.categories[0] == "workshop" or page.categories[0] == "session" %}
+    {% elsif page.categories[0] == "workshop" or page.categories[0] == "session" %}
     <div class="tags">
       {% for tag in page.tags %}
-        <span class="tag-post">{{tag}}</span>
+      <span class="tag-post">{{tag}}</span>
       {% endfor %}
     </div>
     <p class="post-time">{{page.time}}</p>
-  {%endif%}
+    {%endif%}
 
-  <div class='post-content mt-5'>
     {{ content }}
-    {% include back-to-top.html %}
   </div>
-
+  <div class="text-center">
+    <img src="/img/oni/oni-red.svg" style="width: 80px"/>
+    <br>
+    <a href="/news" class="btn btn-danger btn-lg mt-3">お知らせ一覧にもどる</a>
+  </div>
 </div>

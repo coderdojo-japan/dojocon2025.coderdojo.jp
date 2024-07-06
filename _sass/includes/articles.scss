@@ -3,7 +3,7 @@
 .article {
     background-color: #fff;
     border-radius: 6px;
-    box-shadow: 0px 0px 12px rgba($gray, 0.3);
+    box-shadow: 0px 0px 12px rgba(var(--bs-gray-700), 0.3);
     //float: left; //横並び
     margin: 12px 8px;
     text-align: left;

@@ -8,20 +8,16 @@ html {
 body {
   font-family: 'Roboto', 'Noto Sans JP', sans-serif;
   margin: 0;
-  text-align: center;
-  color: black;
-  padding-top: 60px;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+  color: $text-color;
 }
 
-h1 {
+h1.h2,h3,h4,h5 {
   font-weight: bold;
 }
 
 h2 {
   margin-top: 1.6em;
+  font-weight: bold;
 }
 
 p, a, h3 {
@@ -30,12 +26,35 @@ p, a, h3 {
 }
 
 a {
-  color: inherit; //リンクの文字色を場所によって変える
+  text-decoration: none;
+  color: $red;
+  transition: all 0.3s;
   &:hover {
-    color: $secondary-color;
+    color: $blue;
   }
 }
 
+// Header {
+.header-nav {
+  background: rgba(255,255,255,0.85);
+  margin: 24px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+  padding: 8px 24px;
+  @media screen and (max-width: 992px) {
+    padding: 8px 12px;
+    margin: 12px;
+  }
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+}
+.site-logo {
+  width: 260px;
+  @media screen and (max-width: 992px) {
+    width: 200px;
+  }
+}
 //投稿、トップページの情報ごとのひとかたまり
 section {
   margin: 0 auto;
@@ -43,7 +62,7 @@ section {
   width: 100vw;
   clear: both;
   overflow: hidden;
-  
+
   .section-contents {
     margin: 0 auto;
     width: 100vw;
@@ -128,7 +147,7 @@ section {
 }
 
 .menu-second {
-  background-color: $light-gray;
+  background-color: var(--bs-gray-400);
   color: #000;
   display: none;
   list-style: none;
@@ -254,9 +273,6 @@ table thead th {
 .no-padding {
   padding: 0;
 }
-.bg-main{
-  background-color: white;
-}
 
 .ws-title{
     font-weight: bold;
@@ -275,7 +291,7 @@ table thead th {
 .badge-none{
     font-weight: bold;
     font-size: 14px;
-    background-color: $light-blue;
+    background-color: $blue;
 }
 
 .badge-ws{
@@ -305,7 +321,7 @@ table thead th {
 }
 
 .btn-secondary {
-    background-color: $light-blue;
+    background-color: $blue;
     color: white;
     border: none;
 }
@@ -491,7 +507,7 @@ table thead th {
       padding: 0;
     }
     li {
-      background-color: $light-gray;
+      background-color: var(--bs-gray-400);
       display: block;
       margin-bottom: 8px;
       padding: 10px;
@@ -503,8 +519,8 @@ table thead th {
       display: none;
     }
     h2 {
-      background-color: $light-gray;
-      color: $brown;
+      background-color: var(--bs-gray-400);
+      color: $purple;
       float: left;
       font-size: 1em;
       margin: 4px;
@@ -554,7 +570,7 @@ table thead th {
     display: block;
   }
   .table input:checked + label h2 {
-    background-color: $light-blue;
+    background-color: $blue;
     color: #fff;
   }
   @media screen and (max-width: 1000px) {
@@ -600,3 +616,15 @@ table thead th {
 }
 
 .exhibition-speaker-name a  { color: #7e2639; }
+
+.bg {
+  &-white {
+    background-color: #fff;
+  }
+  &-blue {
+    background-color: $blue;
+  }
+  &-gray200 {
+    background-color: var(--bs-gray-200);
+  }
+}

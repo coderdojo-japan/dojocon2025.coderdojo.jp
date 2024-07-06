@@ -5,12 +5,18 @@ footer {
   color: #fff;
   padding-bottom: 12px;
   margin-top: auto;
+  a {
+    color: $white;
+  }
   .share {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     a {
-      float: left;
       line-height: 60px;
       height: 60px;
-      width: 50%;
+      width: 100%;
+      display: block;
+      text-align: center;
       text-decoration-line: none;
       &:hover {
         opacity: .8;
@@ -29,8 +35,8 @@ footer {
     .share-facebook {
       background-color: $color-facebook;
     }
-    .share-twitter {
-      background-color: $color-twitter;
+    .share-x {
+      background-color: $color-x;
     }
     .share-line {
       background-color: $color-line;

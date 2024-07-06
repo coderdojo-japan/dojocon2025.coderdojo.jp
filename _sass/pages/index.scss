@@ -1,67 +1,69 @@
 /* stylesheet for `index.md` */
 .top {
-  // height: calc(100vh - 60px);
-  // margin: 0 2rem;
-  margin-top: 50px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-  padding: 0 30px;
-  .tagline-box {
-    grid-column: 1 / span 1;
-    grid-row: 1 / span 1;
-    .tagline {
-      transform: rotate(90deg);
-      transform-origin: top left;
-      text-align: left;
-      // margin: 0 0 30px 0;
-      font-size: 0.8rem;
-      margin-left: 80px;
-    }
-  }
-  .information {
-    grid-column: 1 / span 1;
-    grid-row: 2 / span 1;
+  position: relative;
+  &-information {
+    height: 60vh;
+    height: 60dvh;
+    min-height: 600px;
     text-align: left;
-    align-items: end;
-    .theme {
-      font-weight: bolder;
-      font-size: 4rem;
-      margin: 0 0 0 30px;
+    color: $white;
+    @media screen and (max-width: 992px) {
+      height: 75vh;
+      height: 75dvh;
     }
 
-    img {
-      margin-top: -3em;
+    &_date {
+      font-size: 48px;
+      font-family: "Poppins", sans-serif;
+      font-weight: 900;
+      font-style: normal;
+      @media screen and (max-width: 992px) {
+        font-size: 22px;
+      }
     }
-  
-    .event-date-and-location {
-      p {
-        font-size: 1.2rem;
-        font-weight: bold;
-        margin: 0 30px;
-        line-height: 1.6rem;
+    &_leadcopy {
+      font-size: 32px;
+      font-weight: bold;
+      @media screen and (max-width: 992px) {
+        font-size: 20px;
+      }
+    }
+    &_theme {
+      font-size: 150px;
+      font-family: "Poppins", sans-serif;
+      font-weight: 900;
+      font-style: normal;
+      line-height: 1.4;
+      @media screen and (max-width: 992px) {
+        font-size: 56px;
       }
     }
   }
-  .character {
-    grid-column: 2 / span 1;
-    grid-row: 1 / span 2;
-    img {
-      width: 100%;
-      height: auto;
+  &-videowrap {
+    position: absolute;
+    z-index: -1;/*最背面に設定*/
+    top: 0;
+    right:0;
+    left:0;
+    bottom:0;
+    overflow: hidden;
+    .video {
+      /*天地中央配置*/
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      /*縦横幅指定*/
+      width: 177.77777778vh; /* 16:9 の幅→16 ÷ 9＝ 177.77% */
+      height: 56.25vw; /* 16:9の幅 → 9 ÷ 16 = 56.25% */
+      min-height: 100%;
+      min-width: 100%;
     }
   }
 }
 
 section#contact {
-  background: $secondary-color;
   color: #ffffff;
-
-  a.button {
-    background: inherit;
-    box-shadow: none;
-    border: solid 2px #ffffff;
-  }
 }
 
 div#about {
@@ -149,195 +151,9 @@ div#about {
   margin-bottom: 30px;
 }
 
-.container {
-  // a {
-  //   color: $main-color;
-  // }
-
-  a.button {
-    color: #ffffff;
-    background: $main-color;
-  }
-}
-
-.title-text{
-    font-family: 'Noto Sans JP', sans-serif;
-    font-weight: bold;
-}
-
-.about-title{
-  font-size: 18px;
-  font-weight: bold;
-  padding: 1rem 2rem;
-  border-top: 3px solid $main-color;
-  background: #f4f4f4;
-}
 
 
-.section-colored {
-    color: #fff;
-    background-color: $main-color;
-}
 
-.section-white {
-    background-color: #fff;
-}
-
-.section-gray {
-    background-color: $light-gray;
-}
-
-// トップページの内容
-
-.comming-soon {
-  font-size: 1.2em;
-  margin-bottom: 60px;
-}
-
-$corner-radius: 30px;
-#colored_zone {
-  display: grid;
-  width: 100%;
-  grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: auto;
-  color: white;
-  text-align: left;
-  
-  .delimiter {
-    grid-column: auto;
-    grid-row: auto;
-  }
-  .title-welcome {
-    grid-column: 3 / span 8;
-    grid-row: auto;
-    order: 1;
-    color: $secondary-color;
-    font-size: 5em;
-    text-align: right;
-    margin-bottom: 0;
-    font-weight: bold;
-    margin-bottom: -0.3em;
-    margin-top: 30px;
-  }
-  .dojocon-image {
-    grid-column: 3 / span 4;
-    grid-row: auto;
-    order: 2;   
-    color: white;
-    background-color: $secondary-color;
-    border-radius: $corner-radius 0 0 0;
-    img {
-      padding-top: 60px;
-      margin-left: -20%;
-      width: 110%;
-    }
-  }
-  .about-dojocon {
-    grid-column: 7 / span 4;
-    order: 3;
-    padding-top: 60px;
-    padding-bottom: 15px;
-    background-color: $secondary-color;
-    text-align: left;
-    .short {
-      text-align: left;
-      padding: auto;
-      font-size: 2em;
-      font-weight: bold;
-    }
-    .long {
-      margin-top: 1.5em;
-      font-size: 1em;
-    }
-  }
-  .spacing1,
-  .spacing2,
-  .spacing3 {
-    grid-column: 11 / span 2;
-    background-color: $secondary-color;
-  }
-
-  .spacing1 { order: 4; }
-  .spacing2 { order: 7; }
-  .spacing3 { order: 9; }
-
-  .about-coderdojo {
-    grid-column: 3 / span 6;
-    grid-row: auto;
-    order: 5;
-    background-color: $secondary-color;
-    padding: 60px 30px 0 30px;
-    .short {
-      text-align: left;
-      padding: auto;
-      font-size: 2em;
-      font-weight: bold;
-    }
-    .long {
-      margin-top: 1.5em;
-      font-size: 1em;
-      .annotation {
-        font-size: 0.8em;
-      }
-    }
-  }
-  .coderdojo-logo {
-    grid-column: 9 / span 2;
-    grid-row: auto;
-    order: 6;
-    background-color: $secondary-color;
-    text-align: right;
-    padding-top: 60px;
-    img {
-      border-radius: 15px;
-      width: 100%;
-    }
-  }
-  .about-dojocon-this-year {
-    grid-column: 3 / span 8;
-    grid-row: auto;
-    order: 8;
-    background-color: $secondary-color;
-    border-radius: 0 0 0 $corner-radius;
-    padding: 60px 15px 60px 30px;
-    .short {
-      text-align: left;
-      padding: auto;
-      font-size: 2em;
-      font-weight: bold;
-    }
-    .long {
-      margin-top: 1.5em;
-      font-size: 1em;
-      .annotation {
-        font-size: 0.8em;
-      }
-    }
-  }
-}
-
-.map {
-  img {
-    width: 100%;
-    height: auto;
-  }
-}
-
-#staff {
-  padding: auto;
-  ul {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    flex-direction: row;
-    list-style-type: none;
-    padding: 0;
-    li {
-      display: flex;
-      flex-direction: column;
-    }
-  }
-}
 
 // タブレット
 @media screen and (max-width: 800px) {
@@ -384,51 +200,6 @@ $corner-radius: 30px;
     display: none;
   }
 
-  .top {
-    display: grid;
-    grid-template-columns: 30% 70%;
-    grid-template-rows: 1fr 1fr;
-    padding: 0 0;
-    .tagline-box {
-      grid-column: 1 / span 1;
-      grid-row: 1 / span 1;
-      .tagline {
-        transform: rotate(90deg);
-        transform-origin: top left;
-        text-align: left;
-        // margin: 0 0 30px 0;
-        font-size: 0.65rem;
-        margin-left: 50px;
-        width: 300%;
-      }
-    }
-    .information {
-      grid-column: 1 / span 2;
-      grid-row: 2 / span 1;
-      text-align: left;
-      align-items: end;
-      .theme {
-        font-weight: bolder;
-        font-size: 2rem;
-        margin: 0 0 30px 20px;
-      }
-  
-      img {
-        margin-top: -4em;
-      }
-    
-      .event-date-and-location {
-      }
-    }
-    .character {
-      grid-column: 2 / span 1;
-      grid-row: 1 / span 1;
-      overflow-x: hidden;
-      img {
-        width: 110%;
-      }
-    }
-  }
 
   #colored_zone {
     .about-dojocon {
@@ -465,9 +236,6 @@ $corner-radius: 30px;
   }
 }
 
-#news {
-  padding: 0 0 3rem 0;  
-}
 
 #sponsors_index {
   display: flex;

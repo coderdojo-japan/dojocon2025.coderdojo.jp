@@ -1,7 +1,7 @@
 /* stylesheet for `_includes/sessions.html` */
 
 .session-tag {
-    background-color: $light-gray;
+    background-color: var(--bs-gray-400);
     margin-bottom: 8px;
     padding: 12px;
     text-align: center;
