@@ -1,0 +1,71 @@
+.staff {
+  background: #FBF6FA;
+  padding: 48px 0;
+  &-inner {
+    margin: 48px 24px;
+    padding: 60px;
+    border-radius: 40px;
+    background: #fff;
+    @media screen and (max-width: 992px) {
+      padding: 30px;
+      border-radius: 20px;
+    }
+  }
+  &-list {
+    margin: 24px 0 0 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 48px;
+    li {
+      width: 120px;
+      position: relative;
+      text-align: center;
+      &.hone-single {
+        &:after {
+          content: "";
+          position: absolute;
+          top: -15px;
+          left: calc(50% - 10px);
+          display: block;
+          width: 20px;
+          height: 31px;
+          background: url("/img/oni/hone-single.svg") center top no-repeat;
+        }
+      }
+      &.hone-double {
+        &:after {
+          content: "";
+          position: absolute;
+          top: -15px;
+          left: calc(50% - 34px);
+          display: block;
+          width: 68px;
+          height: 33px;
+          background: url("/img/oni/hone-double.svg") center top no-repeat;
+        }
+      }
+
+      img {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        object-fit: cover;
+        border:5px solid #ccc;
+        position: relative;
+        transition: all 0.3s;
+      }
+      a {
+        text-decoration: none;
+        &:hover {
+          img {
+            border: 5px solid $red;
+            transition: all 0.3s;
+          }
+        }
+      }
+    }
+  }
+}
