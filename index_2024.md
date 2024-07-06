@@ -1,291 +1,333 @@
 ---
 layout: default
 ---
-<div class="top">
-  <div class="tagline-box">
-    <div class='tagline'>The Annual CoderDojo<br>Community Conference in Japan</div>
-  </div>
-  <div class='information'>
-    <div class="theme">Dream Up！</div>
-    <img src="/img/2024/svg/logo-bk.svg" alt='DojoCon Japan 2024 のロゴ画像'>
-    <div class="event-date-and-location">
-      <p>2024.9.15 Sun<br>at 杜の街グレース貸し会議室</p>
-    </div>
-  </div>
-  <div class="character">
-    <img src="/img/2023/mv-fumanara.png" alt='Icon Character FUMA Nara'>
-  </div>
-</div>
-
-
-<img src="/img/2023/deco.svg" alt='Transition from Cover to Contents'>
-<div id='colored_zone'>
-  <h2 class="title-welcome">WELCOME TO</h2>
-  <div></div>
-  <div class='dojocon-image'>
-    <img src="/img/2023/52554972726_b2da260763_o.jpg" alt='DojoCon Japan 2022 の様子（写真）'>
-  </div>
-  <div class="about-dojocon">
-    <div class='short'>
-      CoderDojoコミュニティの<br class='ignore-sp'>カンファレンスイベント
-    </div>
-    <div class='long'>
-      <p>DojoCon Japanとは日本の CoderDojo コミュニティメンバーが全国から集まる、年に1度のカンファレンスイベント (CoderDojo Conference) です。</p>
-      <p>2016年に始まり、2023年は奈良女子大学にて開催します。</p>
-    </div>
-  </div>
-  <div class='spacing1'></div>
-
-  <div class='about-coderdojo'>
-    <div class='short'>CoderDojoとは</div>
-    <div class='long'>
-      <p>子ども達にプログラミングを学ぶ場を提供する、ボランティア主導の世界的な非営利活動です。</p>
-      <p>CoderDojo は2011年にアイルランドから始まり、現在は世界100カ国に2,000以上の道場があり、日本国内でも全国215以上の道場で毎年1,000回以上 (*1) 開催されています。CoderDojo はエンジニアやデザイナー、各地域の保護者や学生、研究者や経営者など（メンター）と子どもが出会える場にもなっています。</p>
-      <div class='annotation'>
-          *1 統計情報: <a href='https://coderdojo.jp/stats' target='_blank'>https://coderdojo.jp/stats</a>
+<section class="top">
+ <div class="container-fluid px-lg-5">
+    <div class="row align-items-end top-information">
+      <div class="col">
+        <p class="top-information_date">2024.09.15 OKAYMA</p>
+        <p class="top-information_leadcopy">CoderDojoコミュニティのカンファレンスイベント</p>
+        <div class="top-information_description">
+          <p>DojoCon Japanとは日本の CoderDojo コミュニティメンバーが全国から集まる、年に1度のカンファレンスイベント(CoderDojo Conference) です。</p>
+          <p>2016年に始まり、2024年は岡山市にて開催します。</p>
+        </div>
+        <p class="top-information_theme">Dream Up!</p>
       </div>
     </div>
   </div>
-  <div class='coderdojo-logo'>
-    <img src="/img/2023/coderdojo_logo.jpg" alt='CoderDojo の公式ロゴ画像'>
+  <div class="top-videowrap">
+    <iframe class="video " src="https://player.vimeo.com/video/840844853?background=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   </div>
-  <div class='spacing2'></div>
-  <div class='about-dojocon-this-year'>
-      <div class='short'>
-        DojoCon Japan 2023について
-      </div>
-      <div class='long'>
-        <p>2012年に日本で最初のCoderDojoが始まって昨年で10年が経ち、現在では多くの企業や組織から支援を受けられるようになりました。これはCoderDojoが任意かつ自律的な活動であるにも関わらず信頼を得られている証だと考えられます。</p>
-        <p>これからの10年もCoderDojoが信頼される"Cool"な活動であり続けられるように、DojoCon Japan 2023ではそのきっかけを作っていきます。</p>
-      </div>
-  </div>
-  <div class='spacing3'></div>
-</div>
+</section>
 
-  <div id='ticket' class="container" style='margin-top: 50px; margin-bottom: 100px;'>
-    <div class="row" id="outline">
-      <div class="col-md-6 offset-md-3">
-        <h2 class="text-center title-text">ABOUT</h2>
-        <p class="caption">開催概要</p>
-      </div>
-      <div class="col-md-8 offset-md-2">
-        <p class="about-title">開催日</p>
-        <p class="about-text">{{ site.date_event }}</p>
-      </div>
-      <div class="col-md-8 offset-md-2">
-        <p class="about-title">場所</p>
-        <p class="about-text">{{ site.venue }} （<a href='{{ site.map }}' target='blank'>Google Maps</a> )</p>
-        <div class='map'>
-          <img src='/img/{{ site.year }}/top/map.png' alt='最寄駅から会場へのアクセス方法'>
+<!-- CoderDojoについて -->
+<section id="about-coderdojo" class="aboutcoderdojo">
+  <div class="aboutcoderdojo-content container">
+    <div class="aboutcoderdojo-inner">
+   <hgroup>
+      <h2 class="aboutcoderdojo-headline-en">About CoderDojo</h2>
+      <h3 class="aboutcoderdojo-headline-jp">CoderDojoとは</h3>
+    </hgroup>
+    <img src="img/coderdojo_logo.jpg" class="aboutcoderdojo-logo">
+    <p>子ども達にプログラミングを学ぶ場を提供する、ボランティア主導の世界的な非営利活動です。</p>
+    <p>CoderDojo は2011年にアイルランドから始まり、現在は世界100カ国に2,000以上の道場があり、日本国内でも全国215以上の道場で毎年1,000回以上 (*1) 開催されています。CoderDojo はエンジニアやデザイナー、各地域の保護者や学生、研究者や経営者など（メンター）と子どもが出会える場にもなっています。</p>
+    <p><small>*1 統計情報:<a href="https://coderdojo.jp/stats" target="_blank">https://coderdojo.jp/stats</a></small></p>
+    </div>
+  </div>
+  <div class="aboutcoderdojo-slider">
+    <div class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="img/slider/slide01.jpg" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+          <img src="img/slider/slide02.jpg" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+          <img src="img/slider/slide03.jpg" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+          <img src="img/slider/slide04.jpg" class="d-block w-100">
         </div>
       </div>
-      <div class="col-md-8 offset-md-2">
-        <p class="about-title">参加費</p>
-        <p class="about-text">無料</p>
-        <a class="nav-item nav-link active link_button" href="/registration/" style="padding-left:30px;padding-right: 30px;color:white;font-weight: normal;">参加申し込み</a>
-        <!-- <div class="disable_button" style='margin-bottom: 20px;'>受付終了</div> -->
-	<!-- <p>
-	  <small>全国からご参加いただき<br>ありがとうございました!</small>
-	</p> -->
-      </div>
     </div>
-    <!-- <div class="container">
-      <div class="row">
-        <div class="col-md-8 offset-md-2 mb-5">
-          <div class="disable_button">参加申し込みをする</div>
+  </div>
+</section>
+
+<!-- DojoConについて -->
+<section class="aboutdojocon">
+  <div class="container">
+    <div class="aboutdojocon-bg">
+      <div class="row justify-content-end">
+        <div class="col-lg-6">
+          <div class="aboutdojocon-content">
+            <h3>DojoCon Japan 2024について</h3>
+            <h4>テーマ：「Dream Up!」</h4>
+            <p>2016から始まったDojoCon Japanも数えること今回で9回を迎えます。</p>
+            <p>今年のDojoCon Japanは、チャンピオン、メンターのお祭りに終わらせず、ワークショップ、セッションを通してCoderDojoコミュニティに繋がる人の 「夢」 を大切にしたいと考えています。<br>
+            また、CoderDojoに関わっている人だけでなく、「関わりたいと思っている」人の為にも参加していただきたいです。</p>
+            <p><strong>「Dream Up!」</strong> には、「新たなアイデアや計画を思いつく、または創造する」という意味があり、独創的な「夢」を実現するという意味も込めました。<br>
+            DojoCon Japan2024が参加者のみなさんがそれぞれの 「夢」 を 「見つけ」 て、その先の 「実現」 に繋げていただくきっかけになればと考えています。</p>
+          </div>
         </div>
       </div>
-    </div> -->
+    </div>
   </div>
+</section>
 
-  <div class="container-fruid">
-    <section class="section-gray">
-      <img src="/img/2023/deco.svg" alt='Transition from Contents to News'>
-      <div class="section-contents">
-        <h2 class="text-center title-text">NEWS</h2>
-        <p class="caption text-center">お知らせ</p>
-        <div class="row mx-2 mx-md-0">
+<!-- 開催概要 -->
+<section id="overview">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-2 text-center text-lg-start mb-4">
+        <p class="my-0"><strong>OVERCVIEW</strong></p>
+        <h2 class="my-1">開催概要</h2>
+      </div>
+      <div class="col-lg-7">
+        <div class="row align-items-center mb-4">
+          <div class="col-md-2 col-3 text-end">
+            <p>日　時</p>
+          </div>
+          <div class="col-md-10 col-9">
+            <p class="h3 pb-3"><strong>2024年9月15日(日)</strong></p>
+          </div>
+        </div>
+        <div class="row align-items-center mb-4">
+          <div class="col-md-2 col-3 text-end">
+            <p>会　場</p>
+          </div>
+          <div class="col-md-10 col-9">
+            <p class="h3"><strong>杜の街グレース</strong></p>
+            <p>岡山県岡山市北区下石井二丁目10番8号 [<a href="https://www.morinomachi-grace.jp/access/" target="_blank">アクセス詳細</a>] </p>
+          </div>
+        </div>
+        <div class="row align-items-center mb-4">
+          <div class="col-md-2 col-3 text-end">
+            <p>参加費</p>
+          </div>
+          <div class="col-md-10 col-9">
+            <p>無　料</p>
+          </div>
+        </div>
+        <div class="row align-items-center mb-4">
+          <div class="col-md-2 col-3 text-end">
+            <p>対　象</p>
+          </div>
+          <div class="col-md-10 col-9">
+            <p>どなたでも</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ratio ratio-16x9">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4026.342453255084!2d133.91436685593482!3d34.66075094690766!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355407b1a01ee73f%3A0x9e34e4af1072de1d!2z44CSNzAwLTA5MDcg5bKh5bGx55yM5bKh5bGx5biC5YyX5Yy65LiL55-z5LqV77yS5LiB55uu77yR77yQ4oiS77yR77yQ!5e0!3m2!1sja!2sjp!4v1720245692149!5m2!1sja!2sjp" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+</section>
+
+<!-- お知らせ -->
+<section id="news" class="container py-5">
+  <div class="fukidashi">
+    <div class="row justify-content-center">
+      <div class="col-lg-3 text-center text-lg-start mb-4">
+        <p class="my-0"><strong>NEWS</strong></p>
+        <h2 class="my-1">お知らせ</h2>
+      </div>
+      <div class="col-lg-9">
           {% for post in site.posts limit:6 %}
             {% include articles.html %}
           {% endfor %}
-        </div>
       </div>
-      <a href="/news"
-        class="nav-item nav-link active link_button mt-4"
-        style="padding-left:30px;padding-right: 30px;color:white;font-weight: normal;"
-        >
-        もっと見る
-      </a>
-    </section>
+    </div>
   </div>
-  {% if site.data.countdown %}
-  <div id='countdown'></div>
+  <div class="text-center">
+    <img src="/img/oni/oni-red.svg" style="width: 80px"/>
+    <br>
+    <a href="/news" class="btn btn-danger btn-lg mt-3">お知らせをもっと見る</a>
+  </div>
+</section>
+
+<!-- Youtube -->
+<section id="live" class="bg-gray200">
   <div class="container">
+    <div class="text-center">
+      <p class="my-0"><strong>COUNTDOWN DOJOCON JAPAN</strong></p>
+      <h2 class="my-1">ライブ配信</h2>
+      <p>DojoCon Japan 2024 の内容を紹介するライブ配信です。</p>
+    </div>
     <div class="row">
-      <div class="col-md-8 offset-md-2">
-        <h2 class="text-center title-text">Countdown <br class='ignore-pc'>DojoCon Japan</h2>
-        <p class="text-center caption">DojoCon Japan {{ site.year }} の内容を紹介するライブ配信です。</p>
-      </div>
-        {% for cd in site.data.countdown %}
-          <div class="col-md-4 p-3">
+      {% for cd in site.data.countdown %}
+        <div class="col-12 col-md-6 col-lg-4 p-3">
+          <div class="bg-white p-3 rounded">
             <iframe width="100%" height="250" src="https://www.youtube-nocookie.com/embed/{{ cd.id}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <p>{{ cd.title }}<br>{{ cd.date }} ONAIR</p>
+            <p class="text-center py-0">{{ cd.title }}<br>{{ cd.date }} ONAIR</p>
           </div>
-        {% endfor %}
+        </div>
+      {% endfor %}
    </div>
   </div>
-  {% endif %}
-  <section id="contact" class="bg-main">
-    <div class="section-contents container">
-      <h2 class="text-center title-text">CONTACT</h2>
-      <p class="caption text-center">お問い合わせ</p>
-      <p class="caption">DojoCon Japan {{ site.year }} についてのお問い合わせは以下のリンク先（Googleフォーム）よりお願いいたします。</p>
-      <a href="{{ site.contact }}" class="button" target="_blank" rel="noopener">お問い合わせする</a>
-    </div>
-  </section>
+</section>
 
+<!-- お問合せ -->
+<section id="contact" class="bg-blue text-color-white">
+  <div class="section-contents container">
+    <div class="text-center">
+      <p class="my-0"><strong>CONTACT</strong></p>
+      <h2 class="my-1">お問合せ</h2>
+      <p>DojoCon Japan {{ site.year }} についてのお問い合わせは以下のリンク先（Googleフォーム）よりお願いいたします。</p>
+
+    <a href="{{ site.contact }}" class="btn btn-outline-light btn-lg mt-3" target="_blank" rel="noopener">お問い合わせする</a>
+    </div>
+  </div>
+</section>
+
+<!-- スポンサー -->
 {% assign platinum_sponsors   = site.data.sponsors | where: "type", "platinum"   %}
 {% assign gold_sponsors       = site.data.sponsors | where: "type", "gold"       %}
 {% assign silver_sponsors     = site.data.sponsors | where: "type", "silver"     %}
 {% assign bronze_sponsors     = site.data.sponsors | where: "type", "bronze"     %}
 {% assign inkind_sponsors     = site.data.sponsors | where: "type", "inkind"     %}
 {% assign individual_sponsors = site.data.sponsors | where: "type", "individual" %}
-<div id="sponsors_index">
-  <h2 class="text-center title-text">SPONSORS</h2>
-
+<section id="sponsors" class="py-5">
+<div class="container">
+    <div class="text-center">
+      <img src="/img/oni/oni-blue.svg" style="width: 80px"/>
+      <p class="mb-0 mt-3"><strong>SPONSORS</strong></p>
+      <h2 class="my-1">スポンサー</h2>
+    </div>
   {% if platinum_sponsors != empty %}
-    <div class="sponsors-container">
       <h3 class="text-center caption">Platinum Sponsor</h3>
       <div class="sponsor-logo-container">
         <div id="platinum-sponsors">
         {% for sponsor in platinum_sponsors %}
-          <a href="{{ sponsor.link }}" target="_blank">
-            <img class="sponsor-logo" src="/img/{{ site.year }}/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
-          </a>
+          <div class="col-6 col-md-4 col-lg-3 p-4">
+            <a href="{{ sponsor.link }}" target="_blank" style="display: block;">
+                <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+            </a>
+          </div>
         {% endfor %}
         </div>
       </div>
-    </div>
+      <hr>
   {% endif %}
 
-  {% if gold_sponsors != empty %}
-    <div class="sponsors-container">
-      <h3 class="text-center caption">Gold Sponsor</h3>
-      <div class="sponsor-logo-container">
-        <div id="gold-sponsors">
-        {% for sponsor in gold_sponsors %}
-          <a href="{{ sponsor.link }}" target="_blank">
-            <img class="sponsor-logo" src="/img/{{ site.year }}/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
-          </a>
-        {% endfor %}
-        </div>
-      </div>
+{% if gold_sponsors != empty %}
+<h3 class="text-center caption">Gold Sponsor</h3>
+<div class="row justify-content-center align-items-center">
+{% for sponsor in gold_sponsors %}
+<div class="col-6 col-md-4 col-lg-3 p-4">
+<a href="{{ sponsor.link }}" target="_blank" style="display: block;">
+<img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+</a>
+</div>
+{% endfor %}
+</div>
+<hr>
+{% endif %}
+
+{% if silver_sponsors != empty %}
+<h3 class="text-center caption">Silver Sponsor</h3>
+  <div class="row justify-content-center align-items-center">
+    {% for sponsor in silver_sponsors %}
+    <div class="col-6 col-md-4 col-lg-3 p-4">
+        <a href="{{ sponsor.link }}" target="_blank" class="p-4 text-center" style="display: block;">
+        <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+      </a>
     </div>
+    {% endfor %}
+  </div>
+  <hr>
   {% endif %}
 
-  {% if silver_sponsors != empty %}
-    <div class="sponsors-container">
-      <h3 class="text-center caption">Silver Sponsor</h3>
-      <div class="sponsor-logo-container">
-        <div id="silver-sponsors">
-        {% for sponsor in silver_sponsors %}
-          <a href="{{ sponsor.link }}" target="_blank">
-            <img class="sponsor-logo" src="/img/{{ site.year }}/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
-          </a>
-        {% endfor %}
-        </div>
-      </div>
-    </div>
+{% if bronze_sponsors != empty %}
+<h3 class="text-center caption">Bronze Sponsor</h3>
+<div class="row justify-content-center align-items-center">
+{% for sponsor in bronze_sponsors %}
+<div class="col-6 col-md-4 col-lg-3 p-4">
+<a href="{{ sponsor.link }}" target="_blank" class="p-4 text-center" style="display: block;">
+<img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+</a>
+</div>
+{% endfor %}
+</div>
+  <hr>
   {% endif %}
-
-  {% if bronze_sponsors != empty %}
-    <div class="sponsors-container">
-      <h3 class="text-center caption">Bronze Sponsor</h3>
-      <div class="sponsor-logo-container">
-        <div id="bronze-sponsors">
-        {% for sponsor in bronze_sponsors %}
-          <a href="{{ sponsor.link }}" target="_blank">
-            <img class="sponsor-logo" src="/img/{{ site.year }}/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
-          </a>
-        {% endfor %}
-        </div>
-      </div>
-    </div>
-  {% endif %}
-
   {% if inkind_sponsors != empty %}
     <div class="sponsors-container">
       <h3 class="text-center caption">In-kind Sponsor</h3>
-      <div class="sponsor-logo-container">
-        <div id="in-kind-sponsors">
+        <div class="row justify-content-center align-items-center">
         {% for sponsor in inkind_sponsors %}
-          <div>
-            <a href="{{ sponsor.link }}" target="_blank">
-              <img class="sponsor-logo" src="/img/{{ site.year }}/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+        <div class="col-6 col-md-4 col-lg-3">
+            <a href="{{ sponsor.link }}" target="_blank" class="p-4 text-center" style="display: block;">
+                <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+                <p class="text-center py-1">{{ sponsor.message }}</p>
             </a>
-            <p style="margin-top:0.5em; font-size:0.8em;">{{ sponsor.message }}</p>
-          </div>
+        </div>
         {% endfor %}
         </div>
-      </div>
     </div>
+  <hr>
   {% endif %}
 
-  {% if individual_sponsors != empty %}
-    <div class="sponsors-container">
-      <h3 class="text-center caption">Individual Sponsor</h3>
-      <div class="sponsor-logo-container">
-        <div id="individual-sponsors">
-        {% for sponsor in individual_sponsors %}
-          <div class="individual-sponsor-name">
-            {% if sponsor.link %}
-            <a href="{{ sponsor.link }}" target='_blank' rel='noopener' style='text-decoration: underline;'>
-            {% endif %}
-              {{ sponsor.name }}
-            {% if sponsor.link %}
-            </a>
-            {% endif %}
-          </div>
-        {% endfor %}
-        </div>
-      </div>
-    </div>
-  {% endif %}
-
+{% if individual_sponsors != empty %}
+<h3 class="text-center caption">Individual Sponsor</h3>
+<div class="row">
+{% for sponsor in individual_sponsors %}
+<div class="col-lg-3 col-md-4 col-6 p-2 text-center">
+{% if sponsor.link %}
+<a href="{{ sponsor.link }}" target="_blank" style="display: block;">
+{% endif %}
+{{ sponsor.name }}
+{% if sponsor.link %}
+</a>
+{% endif %}
 </div>
+{% endfor %}
+</div>
+{% endif %}
+</div>
+</section>
 
-  <section id="organizedBy" class="section-gray top-contents">
-    <div class="section-contents">
-      <h2 class="text-center title-text">Organized by</h2>
-      <p class="text-center">DojoCon Japan {{ site.year }} 実行委員会</p>
-      <p class="text-center"><a href="https://coderdojo.jp/" target="_blank" rel="noopener">一般社団法人 CoderDojo Japan</a></p>
-
-      <div id='staff'>
-        <h2 class="text-center title-text">STAFF</h2>
-        <ul>
+<!-- スタッフ -->
+<section id="staff" class="staff">
+    <div class="container">
+        <div class="text-center">
+          <p class="my-0"><strong>Organized by</strong></p>
+          <h2 class="my-1">DojoCon Japan {{ site.year }} 実行委員会<br><a href="https://coderdojo.jp/" target="_blank" rel="noopener">一般社団法人 CoderDojo Japan</a></h2>
+        </div>
+        <div class="text-center">
+            <img src="/img/oni/oni-blue.svg" style="width: 80px"/>
+            <img src="/img/oni/oni-red.svg" style="width: 80px; margin: 0 16px"/>
+            <img src="/img/oni/oni-purple.svg" style="width: 80px"/>
+        </div>
+   </div>
+    <div class="staff-inner">
+        <h3 class="text-center">STAFF</h3>
+        <ul class="staff-list">
+        {% assign classes = "hone-double,hone-single" | split: "," %}
           {% for member in site.data.members %}
-          <li class="member">
+            {% assign random_class = classes | sample %}
+            <li class="member {{ random_class }}">
             {% if member.site %}
             <a href="{{ member.site }}" target="_blank" rel="noopener">
             {% endif %}
             <div class="member-image">
-              {% if member.img %}<img src="/img/{{ site.year }}/members/{{ member.img }}" alt="{{ member.name }}" loading="lazy">
-              {% else %}<img src="/img/{{ site.year }}/members/staff-dummy.png" alt="{{ member.name }}" loading="lazy">
+              {% if member.img %}<img src="/img/staff/{{ member.img }}" alt="{{ member.name }}" loading="lazy">
+              {% else %}<img src="/img/staff/staff-dummy.png" alt="{{ member.name }}" loading="lazy">
               {% endif %}
             </div>
             <p>{{ member.name }}</p>{% if member.site %}</a>{% endif %}
           </li>
           {% endfor %}
-          <li class="member"></li>
-          <li class="member"></li>
-          <li class="member"></li>
-          <li class="member"></li>
-          <li class="member"></li>
         </ul>
-      </div>
-
-      <h2 class="text-center title-text">Supported by</h2>
-      <p class="caption text-center">後援</p>
-      <p class="text-center"><a href="https://coderdojo.com/" target="_blank" rel="noopener">CoderDojo Foundation</a></p>
     </div>
-  </section>
+
+</section>
+
+
+
+<section>
+  <h2 class="text-center title-text">Supported by</h2>
+  <p class="caption text-center">後援</p>
+  <p class="text-center"><a href="https://coderdojo.com/" target="_blank" rel="noopener">CoderDojo Foundation</a></p>
+</section>
