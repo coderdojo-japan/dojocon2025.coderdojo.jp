@@ -304,7 +304,7 @@ layout: default
     <div class="staff-inner">
         <h3 class="text-center">STAFF</h3>
         <ul class="staff-list">
-        {% assign classes = "hone-double,hone-single" | split: "," %}
+        {% assign classes = "horn-double,horn-single" | split: "," %}
           {% for member in site.data.members %}
             {% assign random_class = classes | sample %}
             <li class="member {{ random_class }}">

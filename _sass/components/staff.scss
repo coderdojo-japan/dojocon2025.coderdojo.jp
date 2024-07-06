@@ -23,7 +23,7 @@
       width: 120px;
       position: relative;
       text-align: center;
-      &.hone-single {
+      &.horn-single {
         &:after {
           content: "";
           position: absolute;
@@ -32,10 +32,10 @@
           display: block;
           width: 20px;
           height: 31px;
-          background: url("/img/oni/hone-single.svg") center top no-repeat;
+          background: url("/img/oni/horn-single.svg") center top no-repeat;
         }
       }
-      &.hone-double {
+      &.horn-double {
         &:after {
           content: "";
           position: absolute;
@@ -44,7 +44,7 @@
           display: block;
           width: 68px;
           height: 33px;
-          background: url("/img/oni/hone-double.svg") center top no-repeat;
+          background: url("/img/oni/horn-double.svg") center top no-repeat;
         }
       }
 
