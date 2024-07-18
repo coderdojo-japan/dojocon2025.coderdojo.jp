@@ -16,7 +16,7 @@ layout: default
     </div>
   </div>
   <div class="top-videowrap">
-    <iframe class="video " src="https://player.vimeo.com/video/840844853?background=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    <iframe class="video " src="https://player.vimeo.com/video/984275409?background=1" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   </div>
 </section>
 
@@ -141,7 +141,7 @@ layout: default
     </div>
   </div>
   <div class="text-center">
-    <img src="/img/oni/oni-red.svg" style="width: 80px"/>
+    <img src="/img/momotaro/inu.svg" style="width: 80px"/>
     <br>
     <a href="/news" class="btn btn-danger btn-lg mt-3">お知らせをもっと見る</a>
   </div>
@@ -191,7 +191,7 @@ layout: default
 <section id="sponsors" class="py-5">
 <div class="container">
     <div class="text-center">
-      <img src="/img/oni/oni-blue.svg" style="width: 80px"/>
+      <img src="/img/momotaro/saru.svg" style="width: 80px"/>
       <p class="mb-0 mt-3"><strong>SPONSORS</strong></p>
       <h2 class="my-1">スポンサー</h2>
     </div>
@@ -296,29 +296,28 @@ layout: default
           <h2 class="my-1">DojoCon Japan {{ site.year }} 実行委員会<br><a href="https://coderdojo.jp/" target="_blank" rel="noopener">一般社団法人 CoderDojo Japan</a></h2>
         </div>
         <div class="text-center">
-            <img src="/img/oni/oni-blue.svg" style="width: 80px"/>
-            <img src="/img/oni/oni-red.svg" style="width: 80px; margin: 0 16px"/>
-            <img src="/img/oni/oni-purple.svg" style="width: 80px"/>
+            <img src="/img/momotaro/inu.svg" style="width: 80px"/>
+            <img src="/img/momotaro/saru.svg" style="width: 80px; margin: 0 16px"/>
+            <img src="/img/momotaro/kiji.svg" style="width: 80px"/>
         </div>
    </div>
     <div class="staff-inner">
         <h3 class="text-center">STAFF</h3>
         <ul class="staff-list">
-        {% assign classes = "horn-double,horn-single" | split: "," %}
-          {% for member in site.data.members %}
-            {% assign random_class = classes | sample %}
-            <li class="member {{ random_class }}">
-            {% if member.site %}
-            <a href="{{ member.site }}" target="_blank" rel="noopener">
-            {% endif %}
-            <div class="member-image">
-              {% if member.img %}<img src="/img/staff/{{ member.img }}" alt="{{ member.name }}" loading="lazy">
-              {% else %}<img src="/img/staff/staff-dummy.png" alt="{{ member.name }}" loading="lazy">
-              {% endif %}
-            </div>
-            <p>{{ member.name }}</p>{% if member.site %}</a>{% endif %}
-          </li>
-          {% endfor %}
+         {% for member in site.data.members %}
+           {% assign random_class = classes | sample %}
+           <li class="member {{ random_class }}">
+           {% if member.site %}
+           <a href="{{ member.site }}" target="_blank" rel="noopener">
+           {% endif %}
+           <div class="member-image">
+             {% if member.img %}<img src="/img/staff/{{ member.img }}" alt="{{ member.name }}" loading="lazy">
+             {% else %}<img src="/img/staff/staff-dummy.png" alt="{{ member.name }}" loading="lazy">
+             {% endif %}
+           </div>
+           <p>{{ member.name }}</p>{% if member.site %}</a>{% endif %}
+         </li>
+         {% endfor %}
         </ul>
     </div>
     
