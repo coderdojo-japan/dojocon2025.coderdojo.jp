@@ -1,3 +1,6 @@
+- name: Jun1
+  site: https://coderdojokibi.connpass.com/
+  img: junichiwakabayashi.jpg
 - name: 吉川圭太
   site: https://coderdojo-tonami.org/
   img: yoshikawa.jpg
@@ -7,9 +10,6 @@
 - name: 村地 隆幸
   site: https://coderdojo-konan.jp/
   img: meisei-school-logo.png
-- name: 田村 丈
-  site: https://vimeo.com/oneminutevideo
-  img: tamura_takeru.jpg
 - name: 遠藤 雅敬
   site: https://flyby.jp/
 - name: 井上 一
