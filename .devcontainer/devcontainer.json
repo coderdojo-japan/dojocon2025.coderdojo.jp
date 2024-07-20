@@ -2,7 +2,7 @@
 // Format details: https://aka.ms/devcontainer.json
 // Config options: https://github.com/microsoft/vscode-dev-containers/tree/main/containers/ruby
 {
-  "name": "dojocon2023.coderdojo.jp",
+  "name": "dojocon2024.coderdojo.jp",
 
   // Universal is well-customized image for Codespaces:
   // https://hub.docker.com/_/microsoft-devcontainers-universal
