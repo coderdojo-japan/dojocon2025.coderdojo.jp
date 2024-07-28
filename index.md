@@ -5,7 +5,7 @@ layout: default
  <div class="container-fluid px-lg-5">
     <div class="row align-items-end top-information">
       <div class="col">
-        <p class="top-information_date">2024.09.15 OKAYMA</p>
+        <p class="top-information_date">2024.09.15 OKAYAMA</p>
         <p class="top-information_leadcopy">CoderDojoコミュニティのカンファレンスイベント</p>
         <div class="top-information_description">
           <p>DojoCon Japanとは日本の CoderDojo コミュニティメンバーが全国から集まる、年に1度のカンファレンスイベント(CoderDojo Conference) です。</p>
