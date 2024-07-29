@@ -1,6 +1,11 @@
 - name: Jun1
   site: https://coderdojokibi.connpass.com/
   img: junichiwakabayashi.jpg
+- name: 千葉聖人
+  site: https://www.facebook.com/share/HoqtRjgfHd1vzz89/?mibextid=LQQJ4d
+  img: seitochiba_senzai.jpg
+- name: あったかい
+  site: https://coderdojo-koga.hyasynth.com/
 - name: 吉川圭太
   site: https://coderdojo-tonami.org/
   img: yoshikawa.jpg
@@ -18,6 +23,10 @@
 - name: 濱田 康
   img: hamada.jpg
 - name: たくや
+  img: takuya.jpg
+- name: いかけん
+  site: https://coderdojo-mito.com/
+  img: ikaken.jpg
 - name: 渕崎愛
   site: https://coderdojo-tonami.org/
   img: fuchizaki.jpg
