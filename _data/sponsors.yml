@@ -6,51 +6,18 @@
 #   message:  スポンサー紹介文
 
 ## Platinum sponsors
-#- id: example1
-#  name: Example1
-#  logo: sample.png
-#  link: https://example.com
-#  type: platinum
-#  message: |
-#    Example message.
+- id: example
+  name: Example
+  logo: sample.png
+  link: https://example.com
+  type: platinum
+  message: |
+    Example message.
 
-## Gold sponsors
-#- id: example2
-#  name: Example2
-#  logo: sample.png
-#  link: https://example.com
-#  type: gold
-#  message: |
-#    Example message.
 ## Silver sponsors
-#- id: example3
-#  name: Example3
-#  logo: sample.png
-#  link: https://example.com
-#  type: silver
-#  message: |
-#    Example message.
+
 ## Bronze sponsors
-#- id: example4
-#  name: Example4
-#  logo: sample.png
-#  link: https://example.com
-#  type: bronze
-#  message: |
-#    Example message.
+
 ## In-kind sponsors
-#- id: example5
-#  name: Example5
-#  logo: sample.png
-#  link: https://example.com
-#  type: inkind
-#  message: |
-#    Example message.
+
 ## Individual sponsors
-#- id: example6
-#  name: Example6
-#  logo: sample.png
-#  link: https://example.com
-#  type: individual
-#  message: |
-#    Example message.
