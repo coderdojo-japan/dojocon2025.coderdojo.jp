@@ -15,9 +15,34 @@
     Example message.
 
 ## Silver sponsors
-
+- id: example
+  name: Example
+  logo: sample.png
+  link: https://example.com
+  type: platinum
+  message: |
+    Example message.
 ## Bronze sponsors
-
+- id: example
+  name: Example
+  logo: sample.png
+  link: https://example.com
+  type: platinum
+  message: |
+    Example message.
 ## In-kind sponsors
-
+- id: example
+  name: Example
+  logo: sample.png
+  link: https://example.com
+  type: platinum
+  message: |
+    Example message.
 ## Individual sponsors
+- id: example
+  name: Example
+  logo: sample.png
+  link: https://example.com
+  type: platinum
+  message: |
+    Example message.
