@@ -6,8 +6,8 @@
 #   message:  スポンサー紹介文
 
 ## Platinum sponsors
-- id: example
-  name: Example
+- id: example1
+  name: Example1
   logo: sample.png
   link: https://example.com
   type: platinum
@@ -15,32 +15,32 @@
     Example message.
 
 ## Silver sponsors
-- id: example
-  name: Example
+- id: example2
+  name: Example2
   logo: sample.png
   link: https://example.com
   type: Silver
   message: |
     Example message.
 ## Bronze sponsors
-- id: example
-  name: Example
+- id: example3
+  name: Example3
   logo: sample.png
   link: https://example.com
   type: Bronze
   message: |
     Example message.
 ## In-kind sponsors
-- id: example
-  name: Example
+- id: example4
+  name: Example4
   logo: sample.png
   link: https://example.com
   type: In-kind
   message: |
     Example message.
 ## Individual sponsors
-- id: example
-  name: Example
+- id: example5
+  name: Example5
   logo: sample.png
   link: https://example.com
   type: Individual
