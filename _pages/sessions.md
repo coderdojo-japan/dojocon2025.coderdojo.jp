@@ -43,17 +43,17 @@ permalink: /sessions
       </p>
       {% if session.archive-link %}
       <p>
-      	<a href="{{ session.archive-link }}" target="_blank" rel="noopener" class="btn btn-main btn-sm"><i class="fab fa-youtube"></i> YouTube で見る</a>
+      	<a href="{{ session.archive-link }}" target="_blank" rel="noopener" class="btn btn-danger btn-sm"><i class="fab fa-youtube"></i> YouTube で見る</a>
       </p>
       {% endif %}
       {% if session.slides %}
       <p>
-      	<a href="{{ session.slides }}" target="_blank" rel="noopener" class="btn btn-main btn-sm"><i class="fas fa-scroll"></i> スライド資料を見る</a>
+      	<a href="{{ session.slides }}" target="_blank" rel="noopener" class="btn btn-danger btn-sm"><i class="fas fa-scroll"></i> スライド資料を見る</a>
       </p>
       {% endif %}
       {% if session.profile-text or session.speakers %}
       <p>
-      	<a href="#{{ profile_id }}" role="button" data-toggle="collapse" class="btn btn-main btn-sm"><i class="fas fa-angle-down"></i> 登壇者情報を見る</a>
+      	<a href="#{{ profile_id }}" role="button" data-bs-toggle="collapse" data-bs-target="#{{ profile_id }}" data-toggle="collapse" class="btn btn-danger btn-sm"><i class="fas fa-angle-down"></i> 登壇者情報を見る</a>
       </p>
       {% endif %}
       <div class="collapse mt-3" id="{{ profile_id }}">
