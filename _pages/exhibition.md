@@ -1,13 +1,13 @@
 ---
 layout: default
-title: ニンジャ大博覧会
-permalink: /exhibition
+title: title:  ニンジャ作品展示
+permalink: /exhibition/
 ---
 <div class="container mt-5 mb-5">
   <div class="row">
     <div class="col-md-6 offset-md-3 col-12" style='margin: 70px auto 30px;'>
-      <h1>ニンジャ大博覧会</h1>
-      <p>各地の<a href='https://nara-coderdojo.github.io/#coderdojo%E3%81%A7%E5%AD%90%E3%81%A9%E3%82%82%E3%81%9F%E3%81%A1%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8:~:text=%E3%80%8C%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%80%8D' style='color: #7e2639;'>ニンジャ</a>による作品のオンライン展示です</p>
+      <h1>ニンジャ作品展示</h1>
+      <p>各地のニンジャによる作品の展示です</p>
     </div>
   </div>
 
@@ -36,7 +36,7 @@ permalink: /exhibition
       </p>
 
       <p>
-	<a href='/expo/{{ project.id }}' class='btn btn-main btn-sm'>
+	<a href='/expo/{{ project.id }}' class='btn btn-danger btn-sm'>
 	  <i class='fas fa-scroll'></i> 詳細を見る
 	</a>
       </p>

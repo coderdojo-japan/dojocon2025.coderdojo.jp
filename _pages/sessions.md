@@ -36,7 +36,7 @@ permalink: /sessions
       <p>
 	{{ session.text | markdownify }}
 	{% if session.news-link %}
-	<a class='btn btn-main btn-sm' href='{{ session.news-link }}'>
+	<a class='btn btn-danger btn-sm' href='{{ session.news-link }}'>
 	  <i class='fas fa-scroll'></i> 詳細を見る
 	</a>
 	{% endif %}
