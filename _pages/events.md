@@ -33,7 +33,7 @@ permalink: /events
         <p>{{ event.text }}</p>
         {% if event.url %}
         <p>
-	  <a class='btn btn-main btn-sm' href='{{ event.url }}'>
+	  <a class='btn btn-danger btn-sm' href='{{ event.url }}'>
 	    <i class='fas fa-scroll'></i> 詳細を見る
 	  </a>
 	</p>

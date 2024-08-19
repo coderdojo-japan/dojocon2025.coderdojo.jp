@@ -36,7 +36,7 @@ permalink: /exhibition/
       </p>
 
       <p>
-	<a href='/expo/{{ project.id }}' class='btn btn-main btn-sm'>
+	<a href='/expo/{{ project.id }}' class='btn btn-danger btn-sm'>
 	  <i class='fas fa-scroll'></i> 詳細を見る
 	</a>
       </p>
