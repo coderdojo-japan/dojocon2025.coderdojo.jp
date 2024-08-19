@@ -189,101 +189,131 @@ layout: default
 {% assign inkind_sponsors     = site.data.sponsors | where: "type", "inkind"     %}
 {% assign individual_sponsors = site.data.sponsors | where: "type", "individual" %}
 <section id="sponsors" class="py-5">
-<div class="container">
+<div id="sponsors_index" class="container">
     <div class="text-center">
       <img src="/img/momotaro/saru.svg" style="width: 80px"/>
       <p class="mb-0 mt-3"><strong>SPONSORS</strong></p>
-      <h2 class="my-1">スポンサー</h2>
+      <h2 class="text-center title-text my-1">スポンサー</h2>
     </div>
   {% if platinum_sponsors != empty %}
-      <h3 class="text-center caption">Platinum Sponsor</h3>
-      <div class="sponsor-logo-container">
-        <div id="platinum-sponsors">
-        {% for sponsor in platinum_sponsors %}
-          <div class="col-6 col-md-4 col-lg-3 p-4">
-            <a href="{{ sponsor.link }}" target="_blank" style="display: block;">
-                <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
-            </a>
+      <div class="sponsors-container">
+         <h3 class="text-center caption">Platinum Sponsor</h3>
+        <div class="sponsor-logo-container">
+          <div id="platinum-sponsors">
+          {% for sponsor in platinum_sponsors %}
+            <div class="col-6 col-md-4 col-lg-3 p-4">
+              <a href="{{ sponsor.link }}" target="_blank" style="display: block;">
+                  <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+              </a>
+            </div>
+          {% endfor %}
           </div>
-        {% endfor %}
         </div>
       </div>
       <hr>
   {% endif %}
 
   {% if gold_sponsors != empty %}
-    <h3 class="text-center caption">Gold Sponsor</h3>
-        <div class="row justify-content-center align-items-center">
-        {% for sponsor in gold_sponsors %}
-            <div class="col-6 col-md-4 col-lg-3 p-4">
-                <a href="{{ sponsor.link }}" target="_blank" style="display: block;">
-                    <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
-                </a>
-            </div>
-        {% endfor %}
+    <div class="sponsors-container">
+      <h3 class="text-center caption">Gold Sponsor</h3>
+      <div class="sponsor-logo-container">
+        <div id="gold-sponsors">
+          <div class="row justify-content-center align-items-center">
+          {% for sponsor in gold_sponsors %}
+              <div class="col-6 col-md-4 col-lg-3 p-4">
+                  <a href="{{ sponsor.link }}" target="_blank" style="display: block;">
+                      <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+                  </a>
+              </div>
+          {% endfor %}
+          </div>
         </div>
+      </div>
+    </div>
     <hr>
   {% endif %}
 
   {% if silver_sponsors != empty %}
-  <h3 class="text-center caption">Silver Sponsor</h3>
-  <div class="row justify-content-center align-items-center">
-    {% for sponsor in silver_sponsors %}
-    <div class="col-6 col-md-4 col-lg-3 p-4">
-        <a href="{{ sponsor.link }}" target="_blank" class="p-4 text-center" style="display: block;">
-        <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
-      </a>
+    <div class="sponsors-container">
+      <h3 class="text-center caption">Silver Sponsor</h3>
+      <div class="sponsor-logo-container">
+        <div id="silver-sponsors">
+          <div class="row justify-content-center align-items-center">
+            {% for sponsor in silver_sponsors %}
+            <div class="col-6 col-md-4 col-lg-3 p-4">
+                <a href="{{ sponsor.link }}" target="_blank" class="p-4 text-center" style="display: block;">
+                <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+              </a>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
     </div>
-    {% endfor %}
-  </div>
   <hr>
   {% endif %}
 
   {% if bronze_sponsors != empty %}
-    <h3 class="text-center caption">Bronze Sponsor</h3>
-    <div class="row justify-content-center align-items-center">
-        {% for sponsor in bronze_sponsors %}
-        <div class="col-6 col-md-4 col-lg-3 p-4">
-            <a href="{{ sponsor.link }}" target="_blank" class="p-4 text-center" style="display: block;">
-                <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
-            </a>
+    <div class="sponsors-container">
+      <h3 class="text-center caption">Bronze Sponsor</h3>
+      <div class="sponsor-logo-container">
+        <div id="bronze-sponsors">
+          <div class="row justify-content-center align-items-center">
+              {% for sponsor in bronze_sponsors %}
+              <div class="col-6 col-md-4 col-lg-3 p-4">
+                  <a href="{{ sponsor.link }}" target="_blank" class="p-4 text-center" style="display: block;">
+                      <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+                  </a>
+              </div>
+              {% endfor %}
+          </div>
         </div>
-        {% endfor %}
+      </div>
     </div>
   <hr>
   {% endif %}
   {% if inkind_sponsors != empty %}
     <div class="sponsors-container">
       <h3 class="text-center caption">In-kind Sponsor</h3>
-        <div class="row justify-content-center align-items-center">
-        {% for sponsor in inkind_sponsors %}
-        <div class="col-6 col-md-4 col-lg-3">
-            <a href="{{ sponsor.link }}" target="_blank" class="p-4 text-center" style="display: block;">
-                <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
-                <p class="text-center py-1">{{ sponsor.message }}</p>
-            </a>
+      <div class="sponsor-logo-container">
+        <div id="in-kind-sponsors">
+          <div class="row justify-content-center align-items-center">
+          {% for sponsor in inkind_sponsors %}
+          <div class="col-6 col-md-4 col-lg-3">
+              <a href="{{ sponsor.link }}" target="_blank" class="p-4 text-center" style="display: block;">
+                  <img class="img-fluid" src="/img/sponsor/{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+                  <p class="text-center py-1">{{ sponsor.message }}</p>
+              </a>
+          </div>
+          {% endfor %}
+          </div>
         </div>
-        {% endfor %}
-        </div>
+      </div>
     </div>
   <hr>
   {% endif %}
 
   {% if individual_sponsors != empty %}
+    <div class="sponsors-container">
       <h3 class="text-center caption">Individual Sponsor</h3>
-        <div class="row">
-        {% for sponsor in individual_sponsors %}
-          <div class="col-lg-3 col-md-4 col-6 p-2 text-center">
-            {% if sponsor.link %}
-                <a href="{{ sponsor.link }}" target="_blank" style="display: block;">
-            {% endif %}
-              {{ sponsor.name }}
-            {% if sponsor.link %}
-             </a>
-            {% endif %}
+      <div class="sponsor-logo-container">
+        <div id="individual-sponsors">
+          <div class="row">
+          {% for sponsor in individual_sponsors %}
+            <div class="col-lg-3 col-md-4 col-6 p-2 text-center">
+              {% if sponsor.link %}
+                  <a href="{{ sponsor.link }}" target="_blank" style="display: block;">
+              {% endif %}
+                {{ sponsor.name }}
+              {% if sponsor.link %}
+              </a>
+              {% endif %}
+            </div>
+          {% endfor %}
           </div>
-        {% endfor %}
         </div>
+      </div>
+    </div>
   {% endif %}
 </div>
 </section>
