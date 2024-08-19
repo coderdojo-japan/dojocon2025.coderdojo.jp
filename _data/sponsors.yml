@@ -35,5 +35,17 @@
 ## Bronze sponsors
 
 ## In-kind sponsors
+- id: yasslab
+  name: YassLab 株式会社
+  logo: yasslab.png
+  link: https://yasslab.jp/ja/
+  type: inkind
+  message: Doorkeeper スポンサーシップのご提供
 
+- id: esa
+  name: 合同会社 esa
+  logo: esa-logo__whitebg--transparent.png
+  link: https://esa.io/
+  type: inkind
+  message: ドキュメント共有サービスのご提供
 ## Individual sponsors
