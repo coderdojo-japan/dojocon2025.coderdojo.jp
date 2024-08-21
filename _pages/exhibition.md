@@ -1,7 +1,7 @@
 ---
 layout: default
-title: title:  ニンジャ作品展示
-permalink: /expo/exhibition/
+title:  ニンジャ作品展示
+permalink: /exhibition/
 ---
 <div class="container mt-5 mb-5">
   <div class="row">
