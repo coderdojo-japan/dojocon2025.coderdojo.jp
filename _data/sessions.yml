@@ -24,6 +24,20 @@
   slides: 
   archive-link: 
 
+- title: CoderDojo Foundation & CoderDojo Japan 合同活動報告 - これからの10年に向けて
+  text: アイルランドに本部を置く『CoderDojo Foundation (CoderDojo 財団)』と公式日本法人『一般社団法人 CoderDojo Japan』は、ラズベリーパイ財団や Code Club など、協力関係にある方々と協議を重ね、これからの10年に向けて様々な準備を進めてきました。<br> 本セッションではこの1年で行った活動実績をお伝えすると共に、これまで通り、これからの10年も、CoderDojo が今後も変わらず継続的に活動できるよう進めてきた準備について、皆さんと共有したいなと考えています。
+  tag: スピーカーセッション
+  speaker: Sonja Bienert, 安川 要平, 宮島 衣瑛
+  affiliation:
+  news-link:
+  links:
+    - https://twitter.com/CoderDojo
+    - https://twitter.com/CoderDojoJapan
+  profile-img: coderdojo-japan.png
+  profile-text: CoderDojo は子どものためのプログラミング道場です。2011年にアイルランドから始まった国際的な非営利活動で、日本には約200ヶ所の道場があります。 https://map.coderdojo.jp/world <br> 2012年に下北沢オープンソース Cafe のメンバーを中心に日本初の CoderDojo が立ち上がり、2016年には公式日本法人『CoderDojo Japan』が設立されました。当時から現在に到るまで、CoderDojo コミュニティがより活動しやすくなるための法人連携や周知活動、システム開発やドキュメント整備などを続けています。 https://coderdojo.jp/about-coderdojo-japan
+  slides: 
+  archive-link: 
+
 - title: 地域のNinjaが世界と繋がるためのWeb活用術
   text: 他のDojoのNinjaの活動や作品をもっと知りたいな。私の作った作品をもっと見てもらいたいな。など、ローカルNinjaのお悩みについて、covid19の時の経験からWeb上での共有を提案したいと思います。protopediaは年齢制限がなくソフト、ハードどちらでも作品紹介が可能で、いろいろな制作物の投稿や子供でも参加できるイベントもあるのでお勧めしたいです。
   tag: スピーカーセッション
@@ -37,15 +51,15 @@
   slides: 
   archive-link: 
 
-- title: マインクラフトで街づくり
-  text: マインクラフトを使って高梁市の市街地を再現しました。現在はこの市街地マップを利用して防災教育の支援や街づくりに関するイベントを行っています。今回はこの経験をお話しさせていただきます。
-  tag: スピーカーセッション
-  speaker: 高梁市街地立体観光マップ作製プロジェクト
-  affiliation: 
-  news-link:
-  links:
-  profile-img: kibikokusai.jpg
-  profile-text: 私たちは吉備国際大学 社会科学部 経営社会学科の学生プロジェクトです。2021年よりマインクラフトで高梁市を再現するプロジェクトを始め、現在は倉敷市真備でマインクラフトを用いた防災教育支援なども行っています。
+- title: みんなのセッション
+  text: みんなのセッションは、スピーカーさんの話を聞くのではなく、みなさんが体験したこと、やってみたこと、感じたことをシェアする場で、これからのCoderDojo活動に活かせるヒントやアイデアを得られる機会になることと思います。
+  tag: みんなのセッション
+  # speaker: 
+  # affiliation: 
+  news-link: /posts/minna-no-session/
+  # links: 
+  profile-img: minnano-session.jpg
+  # profile-text: 
   slides: 
   archive-link: 
 
@@ -63,6 +77,18 @@
   slides: 
   archive-link: 
 
+- title: マインクラフトで街づくり
+  text: マインクラフトを使って高梁市の市街地を再現しました。現在はこの市街地マップを利用して防災教育の支援や街づくりに関するイベントを行っています。今回はこの経験をお話しさせていただきます。
+  tag: スピーカーセッション
+  speaker: 高梁市街地立体観光マップ作製プロジェクト
+  affiliation: 
+  news-link:
+  links:
+  profile-img: kibikokusai.jpg
+  profile-text: 私たちは吉備国際大学 社会科学部 経営社会学科の学生プロジェクトです。2021年よりマインクラフトで高梁市を再現するプロジェクトを始め、現在は倉敷市真備でマインクラフトを用いた防災教育支援なども行っています。
+  slides: 
+  archive-link: 
+
 - title: "中四国Dojo座談会"
   text: 中四国でまとめて語られるこの地域ですが、移動手段的にかなり距離があり、なかなかコラボしにくかったりします。DojoConの場を使って地方のDojoについて「ゆるく」語り合う。
   tag: 座談会
@@ -75,30 +101,3 @@
   slides: 
   archive-link: 
 
-
-# - title: みんなのセッション
-#   text: みんなのセッションは、スピーカーさんの話を聞くのではなく、みなさんが体験したこと、やってみたこと、感じたことをシェアする場で、これからのCoderDojo活動に活かせるヒントやアイデアを得られる機会になることと思います。
-#   tag: みんなのセッション
-#   # speaker: 
-#   # affiliation: 
-#   news-link: /posts/minna-no-session/
-#   # links: 
-#   profile-img: minnnano-session-image.png
-#   # profile-text: 
-#   slides: 
-#   archive-link: 
-
-# - title: CoderDojo Japan 活動報告
-#   text: 2016年に公式日本法人『[一般社団法人 CoderDojo Japan](https://coderdojo.jp/about-coderdojo-japan)』を設立し、様々な取り組みを実施して来ました。本セッションでは CoderDojo Japan がこの１年で行った活動実績をお伝えすると共に、次の１年に向けて CoderDojo コミュニティをもっと楽しい場にしていくためのアイデアを皆さんと議論・共有したいなと考えています。
-#   tag: スピーカーセッション
-#   speaker: 安川 要平
-#   affiliation: 一般社団法人 CoderDojo Japan
-#   news-link: /posts/annual-report-by-coderdojo-japan/
-#   links:
-#     - https://twitter.com/CoderDojoJapan
-#     - https://github.com/coderdojo-japan
-#     - https://youtube.com/CoderDojoJapan
-#   profile-img: coderdojo-japan.png
-#   profile-text: 2012年に下北沢オープンソース Cafe のメンバーと共に日本初の CoderDojo を立ち上げました。当時から現在に到るまで、CoderDojo コミュニティがより活動しやすくなるための[法人連携](https://news.coderdojo.jp/category/press/)や[周知活動](https://www.youtube.com/CoderDojoJapan)、[システム開発](https://github.com/coderdojo-japan)や[ドキュメント整備](https://coderdojo.jp/kata)などを続けています。2012年度 IPA 認定[未踏](https://www.ipa.go.jp/jinzai/mitou/about.html)スーパークリエータ。
-#   slides: 
-#   archive-link: 
