@@ -32,6 +32,6 @@ permalink: /saikyou-coderdojo/
 **内容は変更となる場合があります。**
 
 <div class='framed_button'>
-    <a href='TODO' target='_blank'>参加申し込みはこちら</a>
+    <a href='https://dojocon-japan.doorkeeper.jp/events/177223' target='_blank'>参加申し込みはこちら</a>
 </div>
 
