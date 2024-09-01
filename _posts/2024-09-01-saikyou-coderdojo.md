@@ -7,6 +7,8 @@ thumbnail: /img/2024/event/saikyo-coderdojo.png
 permalink: /saikyou-coderdojo/
 ---
 
+![](/img/2024/event/saikyo-coderdojo.png)
+
 理想のCoderDojoをみんなで考えるワークショップです。<br />
 ワークシートに自分が考える理想のCoderDojoを書いて、他の参加者とシェアしましょう。<br />
 
