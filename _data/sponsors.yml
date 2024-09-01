@@ -40,7 +40,7 @@
   type: bronze
   message: |-
     CoderDojo池袋
-    https://coderdojo-ikebukuro.connpass.com/
+    <a href="https://coderdojo-ikebukuro.connpass.com/" target="_blank">https://coderdojo-ikebukuro.connpass.com/</a>
     参加者、メンター共に募集中です！
     マンガやアニメといったサブカルチャーの発信地、池袋から自分のプログラミングを世界に発信しよう！！
 - id: amulet_bronze
