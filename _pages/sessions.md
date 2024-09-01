@@ -7,7 +7,7 @@ permalink: /sessions
   <div class="row text-left">
     {% for session in site.data.sessions %}
       {% assign profile_id = 'profile-' | append: forloop.index %}
-    <div class="col-md-6 col-12 p-3" id="{{data.title}}">
+    <div class="col-md-6 col-12 p-3" id="{{forloop.index}}">
       {% if session.news-link %}
       <a href='{{ session.news-link }}'>
       {% endif %}
