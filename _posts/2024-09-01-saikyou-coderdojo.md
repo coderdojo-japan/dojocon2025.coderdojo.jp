@@ -31,5 +31,3 @@ permalink: /saikyou-coderdojo/
     <a href='TODO' target='_blank'>参加申し込みはこちら</a>
 </div>
 
-
-s
