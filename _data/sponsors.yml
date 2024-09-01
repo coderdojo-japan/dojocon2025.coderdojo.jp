@@ -33,6 +33,44 @@
 
 
 ## Bronze sponsors
+- id: unique-i-net
+  name: ユニーク・アイネット株式会社
+  logo: Unique-i-net.png
+  link: https://www.unique-inet.co.jp/
+  type: bronze
+  message: |-
+    CoderDojo池袋
+    https://coderdojo-ikebukuro.connpass.com/
+    参加者、メンター共に募集中です！
+    マンガやアニメといったサブカルチャーの発信地、池袋から自分のプログラミングを世界に発信しよう！！
+- id: amulet_bronze
+  name: アミュレット株式会社
+  logo: AMULET_LOGO_for_enterprise01-.jpg.webp
+  link: https://www.amulet.co.jp/
+  type: bronze
+  message: |-
+    弊社は秋葉原で創業し、パソコン周辺機器の取り扱いのほか、サーバ構築・保守・IT 関連サービス などを提供しております。ネットワークや映像通信技術を応用した、会議や集会・プレゼンテーション等に最適で導入も簡単な映像・音声転送システム等を取り扱っております。また、CoderDojo末広町のスポンサーとして、小中学生がプログラミングに触れる機会を提供しています。
+- id: paloaltonetworks
+  name: パロアルトネットワークス株式会社
+  logo: paloaltonetworks.webp
+  link: https://www.paloaltonetworks.jp/
+  type: bronze
+  message: |-
+    パロアルトネットワークスは、サイバーセキュリティの時代をリードする次世代セキュリティ企業で、世界中の数万もの組織をサイバー攻撃から保護し、アプリケーションの安全な稼働を支援しています。その先進的なセキュリティプラットフォームは、高度かつ独自のサイバー脅威防御機能で、日々の業務や企業の最も価値ある財産を保護します。
+- id: sunnyside-sys
+  name: サニーサイドシステムズ合同会社
+  logo: LOGO_Sunnyside_systems_PNG_2.png
+  link: https://sunnyside-sys.com/
+  type: bronze
+  message: |-
+    サニーサイドシステムズは、アプリケーションが安定して動作するためのサーバやネットワークといったITインフラの設計・構築を行っています。ITインフラは皆さんの目に留まらない縁の下の存在ですが、こういったITインフラがあることを知ってもらえると嬉しいです。我々は縁の下の力持ちであることに誇りをもって、これからも沢山のITインフラを作り出していきます。
+- id: minoru-sangyo
+  name: みのるグループ
+  logo: minoru.jpg
+  link: https://www.minoru-sangyo.co.jp/
+  type: bronze
+  message: |-
+    みのるグループは、農業機械の「みのる産業」、プラスチック成型の「みのる化成」、ゴルフ練習場の「みのるゴルフセンター」、18ホールのゴルフコースの「後楽ゴルフ」、苗生産や造園の「みのるガーデンセンター」、岡山駅近くの「後楽ホテル」、北海道の農業を推進する「北海道みのる販売」で構成される岡山の企業です。柔軟な発想でお客様のかゆいトコロに手が届く、モノづくりからコトづくりまで必要なものを作り出します。
 
 ## In-kind sponsors
 - id: yasslab
@@ -48,4 +86,12 @@
   link: https://esa.io/
   type: inkind
   message: ドキュメント共有サービスのご提供
+
+- id: amulet_in-kind
+  name: アミュレット株式会社
+  logo: AMULET_LOGO_for_enterprise01-.jpg.webp
+  link: https://www.amulet.co.jp/
+  type: inkind
+  message: リモートHDMI機器のご提供
+
 ## Individual sponsors
