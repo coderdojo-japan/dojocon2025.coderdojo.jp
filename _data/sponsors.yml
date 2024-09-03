@@ -12,7 +12,10 @@
   link: https://jcdpgstadium.jp/
   type: gold
   message: |-
-    初心者向けのScratchコンテストを実施しています。合言葉は「ようこそ！はじめまして」と銘打ち、コンテストに並行して全国を行脚するワークショップキャラバンを実行しているコンテストです。
+    “合言葉は『ようこそ！はじめまして』”<br>
+    私たちは初心者から気軽に参加できるScratchコンテストの事務局です。<br>
+    プログラミングへの第一歩を楽しく踏み出してもらえるよう、全国ワークショップなども実施しています。<br>
+    DojoCon Japan 2024では初出し情報も準備しています！お楽しみに！！
 
 ## Silver sponsors
 - id: ponos
@@ -28,7 +31,7 @@
   link: https://www.sakura.ad.jp/
   type: silver
   message: |-
-    「やりたいこと」を「できる」に変える
+    「やりたいこと」を「できる」に変える<br>
     新たなアイデアの創出に強い熱意と情熱を持って挑戦するすべての人たちのために、さくらインターネットは ―「やりたいこと」を「できる」に変える― あらゆるアプローチを “インターネット” を通じて提供します。
 
 
@@ -39,9 +42,9 @@
   link: https://www.unique-inet.co.jp/
   type: bronze
   message: |-
-    CoderDojo池袋
+    CoderDojo池袋<br>
     <a href="https://coderdojo-ikebukuro.connpass.com/" target="_blank">https://coderdojo-ikebukuro.connpass.com/</a>
-    参加者、メンター共に募集中です！
+    参加者、メンター共に募集中です！<br>
     マンガやアニメといったサブカルチャーの発信地、池袋から自分のプログラミングを世界に発信しよう！！
 - id: amulet_bronze
   name: アミュレット株式会社
