@@ -17,6 +17,12 @@ DojoCon Japan 2024では、会場を１フロアにし、どこにいても全�
 </div>
 
 <div style="margin: 3em auto;">
+    <a href='/img/2024/event/GuideMap.svg' target='_blank'>
+        <img src="/img/2024/event/GuideMap.jpg" alt="画像をクリック／タップで拡大します" style="margin-bottom: 1em; max-width:none;">
+        <p style="text-align:center;">画像をクリック／タップで拡大します</p>
+    </a>
+</div>
+<div style="margin: 3em auto;">
     <a href='/img/2024/event/TimeTable.svg' target='_blank'>
         <img src="/img/2024/event/timetable_rgb1900.jpg" alt="画像をクリック／タップで拡大します" style="margin-bottom: 1em; max-width:none;">
         <p style="text-align:center;">画像をクリック／タップで拡大します</p>
