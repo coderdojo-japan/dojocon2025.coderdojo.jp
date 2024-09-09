@@ -22,8 +22,8 @@ projects.each.with_index(0) do |project, index|
     ---
     layout: default
     title: "#{project[:title]}"
-    thumbnail: /img/2023/exhibition/#{project[:thumbnail]}
-    permalink: /expo/#{project[:id]}
+    thumbnail: /img/exhibition/#{project[:thumbnail]}
+    permalink: /exhibition/#{project[:id]}
     description: #{project[:description]}
     ---
     <h1 style="padding-top: 100px; padding-bottom: 30px; ">#{project[:title]}</h1>
@@ -56,11 +56,11 @@ projects.each.with_index(0) do |project, index|
         <i class="fas fa-scroll"></i>
         作品を見る
       </a>
-      <a href="https://twitter.com/intent/tweet?text={{ page.title | replace: '&', '%26' }}+%7C+ニンジャ大博覧会&hashtags=DojoConJapan,CoderDojo&url={{ site.url }}/expo/#{project[:id]}&lang=jp&related=DojoConJapan" target="_blank" rel="noopener" class="button" style="margin: 50px auto;">
+      <a href="https://twitter.com/intent/tweet?text={{ page.title | replace: '&', '%26' }}+%7C+ニンジャ大博覧会&hashtags=DojoConJapan,CoderDojo&url={{ site.url }}/exhibition/#{project[:id]}&lang=jp&related=DojoConJapan" target="_blank" rel="noopener" class="button" style="margin: 50px auto;">
         <i class="fab fa-twitter"></i>
         作品を共有する
       </a>
-      <a href="https://www.facebook.com/share.php?u={{ site.url }}/expo/#{project[:id]}" target="_blank" rel="noopener" class="button">
+      <a href="https://www.facebook.com/share.php?u={{ site.url }}/exhibition/#{project[:id]}" target="_blank" rel="noopener" class="button">
         <i class="fab fa-facebook"></i>
         作品を共有する
       </a>
@@ -74,12 +74,12 @@ projects.each.with_index(0) do |project, index|
     </div>
 
     <div class="article-navigation" style="margin-bottom: 100px;">
-      <a href="/expo/#{project_prev[:id]}" title="#{project_prev[:title]}" style="margin-right: 20px;">
+      <a href="/exhibition/#{project_prev[:id]}" title="#{project_prev[:title]}" style="margin-right: 20px;">
         <i class="fas fa-arrow-left"></i>
         前の作品へ<br>
         <span style="font-size: 8px;">#{t.truncate project_prev[:title], max_length: 11}</span>
       </a>
-      <a href="/expo/#{project_next[:id]}" title="#{project_next[:title]}" style="margin-left: 20px;">
+      <a href="/exhibition/#{project_next[:id]}" title="#{project_next[:title]}" style="margin-left: 20px;">
         次の作品へ
         <i class="fas fa-arrow-right"></i><br>
         <span style="font-size: 8px;">#{t.truncate project_next[:title], max_length: 11}</span>

@@ -21,7 +21,7 @@ permalink: /exhibition/
         {% if project.local %}<span class="badge badge-ws">{{ project.local }}</span>{% endif %}
       </p>
       <div class="my-3">
-        <a href="/expo/{{ project.id }}">
+        <a href="/exhibition/{{ project.id }}">
           <img class="w-100 px-5" alt="サムネイル"
 	       {% if project.thumbnail %}
 	       src="/img/2023/exhibition/{{ project.thumbnail }}" {% else  %}
@@ -36,7 +36,7 @@ permalink: /exhibition/
       </p>
 
       <p>
-	<a href='/expo/{{ project.id }}' class='btn btn-danger btn-sm'>
+	<a href='/exhibition/{{ project.id }}' class='btn btn-danger btn-sm'>
 	  <i class='fas fa-scroll'></i> 詳細を見る
 	</a>
       </p>
