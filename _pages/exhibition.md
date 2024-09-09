@@ -5,10 +5,11 @@ permalink: /exhibition/
 ---
 <div class="container mt-5 mb-5">
   <div class="row">
-    <div class="col-md-6 offset-md-3 col-12" style='margin: 70px auto 30px;'>
-      <h1>ニンジャ作品展示</h1>
-      <p>各地のニンジャによる作品の展示です</p>
-    </div>
+  <div class="row justify-content-center">
+      <div class="col-md-6 col-12 text-center" style="margin: 70px auto 30px;padding-top: 20px;">
+          <h1 style="font-weight: bold;">ニンジャ作品展示</h1>
+          <p>各地のニンジャによる作品の展示です</p>
+      </div>
   </div>
 
   <div class="air"></div>
@@ -24,8 +25,8 @@ permalink: /exhibition/
         <a href="/exhibition/{{ project.id }}">
           <img class="w-100 px-5" alt="サムネイル"
 	       {% if project.thumbnail %}
-	       src="/img/2023/exhibition/{{ project.thumbnail }}" {% else  %}
-	       src="/img/2023/dummy.jpg"
+	       src="/img/exhibition/{{ project.thumbnail }}" {% else  %}
+	       src="/img/ogp.jpg"
                {% endif %}
 	  >
         </a>
