@@ -17,21 +17,21 @@ projects.each.with_index(0) do |project, index|
   project_next = projects.rotate(index + 1).first
   # DEBUG: ナビゲーション用の簡易デバッグプリント
   #print "#{project_prev[:id]} <---> #{project_next[:id]}\t"
-  path = "./_pages/exhibition/2023-#{project[:id]}.md"
+  path = "./_pages/exhibition/2024-#{project[:id]}.md"
   page = <<~PROJECT_PAGE
     ---
     layout: default
     title: "#{project[:title]}"
-    thumbnail: /img/2023/exhibition/#{project[:thumbnail]}
+    thumbnail: /img/exhibition/#{project[:thumbnail]}
     permalink: /expo/#{project[:id]}
     description: #{project[:description]}
     ---
-    <h1 style="padding-top: 100px; padding-bottom: 30px; ">#{project[:title]}</h1>
+    <h1 style="padding-top: 150px; padding-bottom: 30px; text-align: center; font-weight: bold;">#{project[:title]}</h1>
     <div class="main_content">
       <a href="#{project[:url]}" target="_blank" rel="noopener" >
         <img class='top-img lazyload' loading='lazy' alt='サムネイル画像'
              style='margin-bottom: 10px; border-radius: 6px;width: 100%;'
-             src='/img/2023/exhibition/#{project[:thumbnail]}' />
+             src='/img/exhibition/#{project[:thumbnail]}' />
       </a>
       <p>
         作者: #{project[:creator]}
