@@ -97,4 +97,11 @@
   type: inkind
   message: リモートHDMI機器のご提供
 
+- id: stellalink
+  name: 株式会社ステラリンク
+  logo: stellalink.png
+  link: https://www.stellalink.co.jp/
+  type: inkind
+  message: 会場ネットワークのご提供
+
 ## Individual sponsors
