@@ -4,7 +4,7 @@
 
 本ページは DojoCon Japan 公式Webサイトの公開リポジトリです。   
 本READMEでは、公式Webサイトの更新方法を目的別にまとめています。   
-（:octocat: [前年度](https://github.com/coderdojo-japan/dojocon2023.coderdojo.jp/)からリポジトリを引き継いで再活用しています）
+( :octocat: [前年度のリポジトリ](https://github.com/coderdojo-japan/dojocon2023.coderdojo.jp/)を引き継いで再活用しています)
 
 <br>
 
