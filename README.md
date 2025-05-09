@@ -1,6 +1,8 @@
 [![Test & Deploy](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/workflows/Test%20&%20Deploy/badge.svg)](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/actions?query=workflow%3A%22Test+%26+Deploy%22)
 
-# [:yin_yang:](#readme) DojoCon Japan 2024 公式サイト
+<div id='dojocon-japan'></div>
+
+# [:yin_yang:](#dojocon-japan) DojoCon Japan 2024 公式サイト
 
 本ページは DojoCon Japan 公式Webサイトの公開リポジトリです。   
 本READMEでは、公式Webサイトの更新方法を目的別にまとめています。   
