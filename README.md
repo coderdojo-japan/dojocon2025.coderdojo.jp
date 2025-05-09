@@ -1,6 +1,6 @@
 [![Test & Deploy](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/workflows/Test%20&%20Deploy/badge.svg)](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/actions?query=workflow%3A%22Test+%26+Deploy%22)
 
-# DojoCon Japan 2024 公式サイト
+# [:yin_yang:](#readme) DojoCon Japan 2024 公式サイト
 
 本ページは DojoCon Japan 公式Webサイトの公開リポジトリです。   
 本READMEでは、公式Webサイトの更新方法を目的別にまとめています。   
@@ -9,8 +9,9 @@
 
 <br>
 
+<div id='how-to'></div>
 
-## :white_check_mark: （共通）ブラウザで情報修正を提案できます
+## [:white_check_mark:](how-to) （共通）ブラウザで情報修正を提案できます
 
 どこを更新するにせよ **Webブラウザが一番簡単** だと思います...!! 😆
 
@@ -23,8 +24,9 @@
 
 <br>
 
+<div id='how-to-develop'></div>
 
-## :memo: Webサイトの更新方法
+## [:memo:](#how-to-update) Webサイトの更新方法
 
 [`_data`](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/tree/main/_data) フォルダ内に `ファイル名.yml` という YAML ファイルがあり、このファイルを修正すると Session 情報や Member 情報などを更新できます。
 
@@ -52,8 +54,9 @@
 
 <br>
 
+<div id='how-to-develop'></div>
 
-## :hammer_and_wrench: Webサイトを制作したい
+## [:hammer_and_wrench:](#how-to-develop) Webサイトを制作したい
 
 ローカル環境でWebサイトを修正・確認したい場合は **以下のいずれかの方法** でローカルサーバーを立ち上げてください。
 
@@ -142,7 +145,9 @@ $ bundle exec rake test
 
 <br>
 
-## ♻️ License
+<div id='license'></div>
+
+## [♻️](#license) License
 
 <details>
   <summary><strong>Check out each license</strong></summary>
@@ -174,7 +179,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 <br>
 
+<div id='copyright'></div>
 
-## ☯️️ Copyright
+## [©](#copyright) Copyright
 
 DojoCon Japan 2024 実行委員会 & 一般社団法人 CoderDojo Japan ([@coderdojo-japan](https://github.com/coderdojo-japan)).
