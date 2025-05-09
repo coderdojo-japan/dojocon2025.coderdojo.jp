@@ -126,8 +126,9 @@ $ bundle exec rake test
 
 <br>
 
+<div id='references'></div>
 
-## :octocat: 関連リポジトリ
+## [:octocat:](#references) 関連リポジトリ
 
 - [coderdojo-japan/dojocon2023.coderdojo.jp](https://github.com/coderdojo-japan/dojocon2023.coderdojo.jp)
 - :memo: 2022年は [WordPress で構築](https://dojocon2022.coderdojo.jp/)されているため GitHub リポジトリは無し
