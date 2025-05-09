@@ -11,7 +11,7 @@
 
 <div id='how-to'></div>
 
-## [:white_check_mark:](how-to) （共通）ブラウザで情報修正を提案できます
+## [:white_check_mark:](#how-to) （共通）ブラウザで情報修正を提案できます
 
 どこを更新するにせよ **Webブラウザが一番簡単** だと思います...!! 😆
 
