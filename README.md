@@ -24,7 +24,7 @@
 
 <br>
 
-<div id='how-to-develop'></div>
+<div id='how-to-update'></div>
 
 ## [:memo:](#how-to-update) Webサイトの更新方法
 
@@ -114,8 +114,9 @@ $ bundle exec jekyll server
 
 <br>
 
+<div id='how-to-test'></div>
 
-### :robot: リンク切れはテストで検知できます
+## [:robot:](#how-to-test) リンク切れはテストで検知できます
 
 内部リンクのミスや `alt` 属性の記入忘れなどは次のコマンドでテストできます。([修正例を見る](https://github.com/coderdojo-japan/dojocon2023.coderdojo.jp/pull/105))
 
