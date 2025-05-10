@@ -33,7 +33,8 @@ jobs:
         JEKYLL_ENV=production bundle exec jekyll build
         JEKYLL_ENV=production bundle exec jekyll doctor
         # SKIP_BUILD=true       bundle exec rake test
-        # TODO: サイトが出来上がったら上記テストも走らせると吉
+        # NOTE: サイトが仕上がったら、上記テストを走らせると自動検知できる。
+        #       ただ初期は自動検知の通知が多すぎるので手動で実行するのが吉。
 
   # Deploy job is triggered only pushed to main branch && CI passed
   deploy:
@@ -61,23 +62,23 @@ jobs:
       run: |
         JEKYLL_ENV=production bundle exec jekyll build
 
-    - name: 🤖 Generate individual pages by projects.yml data
-      run: |
-        bundle exec rake upsert_project_pages_by_data
-        if [ -n "$(git status ./_pages --porcelain)" ]; then
-          if ( ruby -ryaml -e "p YAML.unsafe_load(STDIN.read)" < _data/projects.yml > /dev/null ); then
-            git config --global user.name  "takusandayooo"
-            git config --global user.email "takusandayooo@users.noreply.github.com"
-            git checkout main
-            git add _pages/exhibition
-            git add Gemfile.lock
-            git commit -m '🤖 Upsert project page(s) by GitHub Actions'
-            # git push origin
-            git push origin main
-          else
-            echo "Detect syntax error in '_data/projects.yml' file, check its syntax."
-          fi
-        fi
+    #- name: 🤖 Generate individual pages by projects.yml data
+    #  run: |
+    #    bundle exec rake upsert_project_pages_by_data
+    #    if [ -n "$(git status ./_pages --porcelain)" ]; then
+    #      if ( ruby -ryaml -e "p YAML.unsafe_load(STDIN.read)" < _data/projects.yml > /dev/null ); then
+    #        # デフォルトでは内情に詳しい @yasulab としていますが、適宜ユーザー名を変えてください。
+    #        git config --global user.name  "yasulab"
+    #        git config --global user.email "yohei@yasslab.jp"
+    #        git checkout main
+    #        git add _pages/exhibition
+    #        git add Gemfile.lock
+    #        git commit -m '🤖 Upsert project page(s) by GitHub Actions'
+    #        git push origin main
+    #      else
+    #        echo "Detect syntax error in '_data/projects.yml' file, check its syntax."
+    #      fi
+    #    fi
 
     - name: 🚀 Deploy to GitHub Pages
       if:   github.ref == 'refs/heads/main' && job.status == 'success'
