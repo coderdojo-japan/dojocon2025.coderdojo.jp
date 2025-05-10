@@ -62,28 +62,19 @@
 
 ローカル環境でWebサイトを修正・確認したい場合は **以下のいずれかの方法** でローカルサーバーを立ち上げてください。
 
-### A. Docker イメージをリモートで構築する方法
+### A. Docker で立ち上げる (要: [Docker](https://www.docker.com/ja-jp/get-started/))
 
 ```shell
+# Dockefile から dojocon-japan-2025 イメージを作成する
+$ docker build -t dojocon-japan-2025 -f Dockerfile .
+
 # 下記コマンドでローカル環境にWebサーバーが立ち上がります
-$ docker-compose up
+$ docker compose up
 ```
 
 無事にローカルサーバーが立ち上がったら、[http://localhost:4000/](http://localhost:4000/) にアクセスしてWebサイトを修正・確認します。
 
-### B. Docker イメージをローカルで構築する方法
-
-```shell
-# Dockefile から dojocon-japan-2024 イメージを作成する
-$ docker build -t dojocon-japan-2024 -f Dockerfile .
-
-# 下記コマンドでローカル環境にWebサーバーが立ち上がります
-$ docker-compose up
-```
-
-無事にローカルサーバーが立ち上がったら、[http://localhost:4000/](http://localhost:4000/) にアクセスしてWebサイトを修正・確認します。
-
-### C. Ruby をインストールして構築する方法
+### B. Ruby をインストールして立ち上げる
 
 エラーなどで困ったら [Rails Girls インストール・レシピ](https://railsgirls.jp/install)を見るのがオススメです。  
 Ruby がインストールできれば十分で、 **Rails のインストールは不要** です。
