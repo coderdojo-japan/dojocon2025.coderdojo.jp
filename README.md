@@ -90,6 +90,9 @@ $ sudo apt install rbenv   # Debian, Ubuntu 系のディストリビューショ
 # Windows の場合: 以下の Rails Girls インストール・レシピに沿ってインストール
 # https://railsgirls.jp/install 
 
+## ↑ ココまで OS 個別の準備
+## ↓ ココから OS 共通の準備
+
 # Ruby 3.4.3 をインストール
 $ rbenv install 3.4.3
 
