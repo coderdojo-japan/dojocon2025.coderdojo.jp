@@ -1,8 +1,8 @@
-[![Test & Deploy](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/workflows/Test%20&%20Deploy/badge.svg)](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/actions?query=workflow%3A%22Test+%26+Deploy%22)
+[![Test & Deploy](https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/workflows/Test%20&%20Deploy/badge.svg)](https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/actions?query=workflow%3A%22Test+%26+Deploy%22)
 
 <div id='dojocon-japan'></div>
 
-# [:yin_yang:](#dojocon-japan) DojoCon Japan 2024 公式サイト
+# [:yin_yang:](#dojocon-japan) DojoCon Japan 2025 公式サイト
 
 本ページは DojoCon Japan 公式Webサイトの公開リポジトリです。   
 本READMEでは、公式Webサイトの更新方法を目的別にまとめています。   
@@ -30,7 +30,7 @@
 
 ## [:memo:](#how-to-update) Webサイトの更新方法
 
-[`_data`](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/tree/main/_data) フォルダ内に `ファイル名.yml` という YAML ファイルがあり、このファイルを修正すると Session 情報や Member 情報などを更新できます。
+[`_data`](https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/tree/main/_data) フォルダ内に `ファイル名.yml` という YAML ファイルがあり、このファイルを修正すると Session 情報や Member 情報などを更新できます。
 
 なおそれぞれの YAML ファイルは次のような形式で書かれています。
 
@@ -47,12 +47,12 @@
 
 追加・修正したい箇所に応じて、下記リンク先を[上記の修正手順](#white_check_mark-共通ブラウザで情報修正を提案できます)に沿って更新できます。
 
-- [`events.yml`](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/blob/main/_data/events.yml): イベント情報を更新したい
-- [`members.yml`](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/blob/main/_data/members.yml): スタッフ情報を更新したい
-- [`sessions.yml`](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/blob/main/_data/sessions.yml): セッション情報を更新したい
-- [`sponsors.yml`](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/tree/main/_data/sponsors.yml): スポンサー情報を更新したい
-- [`workshops.yml`](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/blob/main/_data/workshops.yml): ワークショップ情報を更新したい
-- [`projects.yml`](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/blob/main/_data/projects.yml): ニンジャ大博覧会の作品情報を更新したい
+- [`events.yml`](https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/blob/main/_data/events.yml): イベント情報を更新したい
+- [`members.yml`](https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/blob/main/_data/members.yml): スタッフ情報を更新したい
+- [`sessions.yml`](https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/blob/main/_data/sessions.yml): セッション情報を更新したい
+- [`sponsors.yml`](https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/tree/main/_data/sponsors.yml): スポンサー情報を更新したい
+- [`workshops.yml`](https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/blob/main/_data/workshops.yml): ワークショップ情報を更新したい
+- [`projects.yml`](https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/blob/main/_data/projects.yml): ニンジャ大博覧会の作品情報を更新したい
 
 <br>
 
@@ -127,9 +127,9 @@ $ bundle exec jekyll server
 $ bundle exec rake test
 ```
 
-テスト内容の詳細は [`Rakefile`](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/blob/main/Rakefile) をご参照ください。
+テスト内容の詳細は [`Rakefile`](https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/blob/main/Rakefile) をご参照ください。
 
-上記テストは [GitHub Actions](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/actions) 上でも動いています。GitHub Actionsで動かしているタスクは [`.github/workflows`](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/tree/main/.github/workflows) ディレクトリから確認できます :eyes: :white_check_mark: 
+上記テストは [GitHub Actions](https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/actions) 上でも動いています。GitHub Actionsで動かしているタスクは [`.github/workflows`](https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/tree/main/.github/workflows) ディレクトリから確認できます :eyes: :white_check_mark: 
 
 <br>
 
@@ -137,6 +137,7 @@ $ bundle exec rake test
 
 ## [:octocat:](#references) 関連リポジトリ
 
+- [coderdojo-japan/dojocon2024.coderdojo.jp](https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp)
 - [coderdojo-japan/dojocon2023.coderdojo.jp](https://github.com/coderdojo-japan/dojocon2023.coderdojo.jp)
 - :memo: 2022年は [WordPress で構築](https://dojocon2022.coderdojo.jp/)されているため GitHub リポジトリは無し
 - [coderdojo-japan/dojocon2021.coderdojo.jp](https://github.com/coderdojo-japan/dojocon2021.coderdojo.jp)
@@ -170,7 +171,7 @@ The source codes, such as HTML/CSS/JavaScript and Ruby codes not declared before
 
 <hr>
          
-<a href='https://github.com/coderdojo-japan/dojocon2024.coderdojo.jp/blob/main/LICENSE.md'>The MIT License</a>
+<a href='https://github.com/coderdojo-japan/dojocon2025.coderdojo.jp/blob/main/LICENSE.md'>The MIT License</a>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -186,4 +187,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## [©](#copyright) Copyright
 
-DojoCon Japan 2024 実行委員会 & 一般社団法人 CoderDojo Japan ([@coderdojo-japan](https://github.com/coderdojo-japan)).
+DojoCon Japan 実行委員会 & 一般社団法人 CoderDojo Japan ([@coderdojo-japan](https://github.com/coderdojo-japan)).
