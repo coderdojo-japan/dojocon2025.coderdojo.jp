@@ -1,5 +1,7 @@
 /* the definition of the common style */
 
+@use 'variables' as *;
+
 html {
   scroll-behavior: smooth;
 }

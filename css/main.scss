@@ -1,40 +1,34 @@
 ---
-
 ---
 
-$navbar: 60px;
+@use 'sass:math';
+@use 'global/variables' as *;
+@use 'global/base';
+@use 'global/tablet';
+@use 'global/mobile';
 
+@use 'includes/articles';
+@use 'includes/sessions' as includesSessions;
+
+@use 'layouts/default';
+@use 'layouts/page';
+@use 'layouts/post';
+
+@use 'pages/events';
+@use 'pages/index';
+@use 'pages/sessions' as pagesSessions;
+@use 'pages/workshop';
+@use 'pages/sponsors';
+
+@use 'includes/navbar';
+@use 'includes/footer';
+@use 'custom';
+
+@use 'components/aboutcoderdojo';
+@use 'components/aboutdojocon';
+@use 'components/fukidashi';
+@use 'components/staff';
 
 //Webフォント読み込み
 @import url('https://fonts.googleapis.com/css?family=Concert+One|Noto+Sans+JP:400,900|Roboto:400,900|M+PLUS+Rounded+1c:400,800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;900&display=swap');
-
-@import 'global/variables';
-@import 'global/base';
-@import 'global/tablet';
-@import 'global/mobile';
-
-
-@import 'includes/articles';
-@import 'includes/sessions';
-
-@import 'layouts/default';
-@import 'layouts/page';
-@import 'layouts/post';
-
-@import 'pages/events';
-@import 'pages/index';
-@import 'pages/sessions';
-@import 'pages/workshop';
-@import 'pages/sponsors';
-
-
-@import 'includes/navbar';
-@import 'includes/footer';
-@import 'custom';
-
-
-@import 'components/aboutcoderdojo';
-@import 'components/aboutdojocon';
-@import 'components/fukidashi';
-@import 'components/staff';
