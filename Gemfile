@@ -10,7 +10,6 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-include-cache'
   gem 'jekyll-sitemap'
-  gem 'jekyll-minifier'
   gem 'jekyll-liquify'
 
   # No need this gem because we build by GitHub Actions and serve on Pages.
