@@ -77,8 +77,8 @@ $ docker compose up
 
 ### B. Ruby をインストールして立ち上げる
 
-エラーなどで困ったら [Rails Girls インストール・レシピ](https://railsgirls.jp/install)を見るのがオススメです。  
-Ruby がインストールできれば十分で、 **Rails のインストールは不要** です。
+[Rails Girls インストール・レシピ](https://railsgirls.jp/install)に沿って準備するのがオススメです。  
+なお Ruby がインストールできれば十分で、 **Rails のインストールは不要** です。
 
 ```shell
 # macOS の場合: Homebrew ( https://brew.sh/index_ja ) 経由がオススメ
