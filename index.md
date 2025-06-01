@@ -28,7 +28,7 @@ layout: default
       <h2 class="aboutcoderdojo-headline-en">About CoderDojo</h2>
       <h3 class="aboutcoderdojo-headline-jp">CoderDojoとは</h3>
     </hgroup>
-    <img src="img/coderdojo_logo.jpg" alt="CoderDojo Logo" class="aboutcoderdojo-logo">
+    <img src="/img/coderdojo_logo.jpg" alt="CoderDojo Logo" class="aboutcoderdojo-logo">
     <p>子ども達にプログラミングを学ぶ場を提供する、ボランティア主導の世界的な非営利活動です。</p>
     <p>CoderDojo は2011年にアイルランドから始まった<a href='https://map.coderdojo.jp/world'>国際的な非営利活動</a>で、日本には200以上の道場があります。日本国内では毎年1,200回以上 (*1) 開催され、CoderDojo はエンジニアやデザイナー、各地域の保護者や学生、研究者や経営者など（メンター）と子どもが出会える場にもなっています。</p>
     <p><small>*1 統計情報:<a href="https://coderdojo.jp/stats" target="_blank">https://coderdojo.jp/stats</a></small></p>
@@ -38,16 +38,16 @@ layout: default
     <div class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="img/slider/slide01.jpg" alt="FIXME: add proper description" class="d-block w-100">
+          <img src="/img/slider/slide01.jpg" alt="FIXME: add proper description" class="d-block w-100">
         </div>
         <div class="carousel-item">
-          <img src="img/slider/slide02.jpg" alt="FIXME: add proper description" class="d-block w-100">
+          <img src="/img/slider/slide02.jpg" alt="FIXME: add proper description" class="d-block w-100">
         </div>
         <div class="carousel-item">
-          <img src="img/slider/slide03.jpg" alt="FIXME: add proper description" class="d-block w-100">
+          <img src="/img/slider/slide03.jpg" alt="FIXME: add proper description" class="d-block w-100">
         </div>
         <div class="carousel-item">
-          <img src="img/slider/slide04.jpg" alt="FIXME: add proper description" class="d-block w-100">
+          <img src="/img/slider/slide04.jpg" alt="FIXME: add proper description" class="d-block w-100">
         </div>
       </div>
     </div>

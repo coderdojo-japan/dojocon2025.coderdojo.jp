@@ -26,7 +26,7 @@ permalink: /sessions
         {% if session.news-link %}
         <a href='{{ session.news-link }}'>
         {% endif %}
-        <img src="img/{{ site.year }}/session/{{ session.profile-img }}" class="w-100 px-5" alt="プロフィール画像">
+        <img src="/img/{{ site.year }}/session/{{ session.profile-img }}" class="w-100 px-5" alt="プロフィール画像">
         {% if session.news-link %}
         </a>
         {% endif %}
