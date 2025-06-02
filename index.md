@@ -28,7 +28,7 @@ layout: default
       <h2 class="aboutcoderdojo-headline-en">About CoderDojo</h2>
       <h3 class="aboutcoderdojo-headline-jp">CoderDojoとは</h3>
     </hgroup>
-    <img src="img/coderdojo_logo.jpg" class="aboutcoderdojo-logo">
+    <img src="/img/coderdojo_logo.jpg" alt="CoderDojo Logo" class="aboutcoderdojo-logo">
     <p>子ども達にプログラミングを学ぶ場を提供する、ボランティア主導の世界的な非営利活動です。</p>
     <p>CoderDojo は2011年にアイルランドから始まった<a href='https://map.coderdojo.jp/world'>国際的な非営利活動</a>で、日本には200以上の道場があります。日本国内では毎年1,200回以上 (*1) 開催され、CoderDojo はエンジニアやデザイナー、各地域の保護者や学生、研究者や経営者など（メンター）と子どもが出会える場にもなっています。</p>
     <p><small>*1 統計情報:<a href="https://coderdojo.jp/stats" target="_blank">https://coderdojo.jp/stats</a></small></p>
@@ -38,16 +38,16 @@ layout: default
     <div class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="img/slider/slide01.jpg" class="d-block w-100">
+          <img src="/img/slider/slide01.jpg" alt="FIXME: add proper description" class="d-block w-100">
         </div>
         <div class="carousel-item">
-          <img src="img/slider/slide02.jpg" class="d-block w-100">
+          <img src="/img/slider/slide02.jpg" alt="FIXME: add proper description" class="d-block w-100">
         </div>
         <div class="carousel-item">
-          <img src="img/slider/slide03.jpg" class="d-block w-100">
+          <img src="/img/slider/slide03.jpg" alt="FIXME: add proper description" class="d-block w-100">
         </div>
         <div class="carousel-item">
-          <img src="img/slider/slide04.jpg" class="d-block w-100">
+          <img src="/img/slider/slide04.jpg" alt="FIXME: add proper description" class="d-block w-100">
         </div>
       </div>
     </div>
@@ -141,7 +141,7 @@ layout: default
     </div>
   </div>
   <div class="text-center">
-    <img src="/img/momotaro/inu.svg" style="width: 80px"/>
+    <img src="/img/momotaro/inu.svg" alt="FIXME: add proper description" style="width: 80px"/>
     <br>
     <a href="/news" class="btn btn-danger btn-lg mt-3">お知らせをもっと見る</a>
   </div>
@@ -302,34 +302,32 @@ layout: default
           <h2 class="my-1">DojoCon Japan {{ site.year }} 実行委員会<br><a href="https://coderdojo.jp/" target="_blank" rel="noopener">一般社団法人 CoderDojo Japan</a></h2>
         </div>
         <div class="text-center">
-            <img src="/img/momotaro/inu.svg" style="width: 80px"/>
-            <img src="/img/momotaro/saru.svg" style="width: 80px; margin: 0 16px"/>
-            <img src="/img/momotaro/kiji.svg" style="width: 80px"/>
+            <img src="/img/momotaro/inu.svg" alt="FIXME: add proper description" style="width: 80px"/>
+            <img src="/img/momotaro/saru.svg" alt="FIXME: add proper description" style="width: 80px; margin: 0 16px"/>
+            <img src="/img/momotaro/kiji.svg" alt="FIXME: add proper description" style="width: 80px"/>
         </div>
-   </div>
+    </div>
     <div class="staff-inner">
         <h3 class="text-center">STAFF</h3>
         <ul class="staff-list">
-         {% for member in site.data.members %}
-           {% assign random_class = classes | sample %}
-           <li class="member {{ random_class }}">
-           {% if member.site %}
-           <a href="{{ member.site }}" target="_blank" rel="noopener">
-           {% endif %}
-           <div class="member-image">
-             {% if member.img %}<img src="/img/staff/{{ member.img }}" alt="{{ member.name }}" loading="lazy">
-             {% else %}<img src="/img/staff/staff-dummy.png" alt="{{ member.name }}" loading="lazy">
-             {% endif %}
-           </div>
-           <p>{{ member.name }}</p>{% if member.site %}</a>{% endif %}
-         </li>
-         {% endfor %}
+            {% for member in site.data.members %}
+                {% assign random_class = classes | sample %}
+                <li class="member {{ random_class }}">
+                    {% if member.site %}<a href="{{ member.site }}" target="_blank" rel="noopener">{% endif %}
+                    <div class="member-image">
+                        {% if member.img %}
+                            <img src="/img/staff/{{ member.img }}" alt="{{ member.name }}" loading="lazy">
+                        {% else %}
+                            <img src="/img/staff/staff-dummy.png" alt="{{ member.name }}" loading="lazy">
+                        {% endif %}
+                    </div>
+                    <p>{{ member.name }}</p>
+                    {% if member.site %}</a>{% endif %}
+                </li>
+            {% endfor %}
         </ul>
     </div>
-    
 </section>
-
-
 
 <section>
   <h2 class="text-center title-text">Supported by</h2>
