@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-06-02T17:07:31+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">タイムテーブルと全プログラムのご案内</title><link href="https://dojocon2025.coderdojo.jp/event-summary/" rel="alternate" type="text/html" title="タイムテーブルと全プログラムのご案内" /><published>2024-09-08T00:00:00+09:00</published><updated>2024-09-08T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/event-summary</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/event-summary/"><![CDATA[<p>お待たせいたしました。当日のタイムテーブルとすべてのプログラムの概要をご案内します。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-07-15T21:44:56+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">タイムテーブルと全プログラムのご案内</title><link href="https://dojocon2025.coderdojo.jp/event-summary/" rel="alternate" type="text/html" title="タイムテーブルと全プログラムのご案内" /><published>2024-09-08T00:00:00+09:00</published><updated>2024-09-08T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/event-summary</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/event-summary/"><![CDATA[<p>お待たせいたしました。当日のタイムテーブルとすべてのプログラムの概要をご案内します。</p>
 
 <p>DojoCon Japan 2024では、会場を１フロアにし、どこにいても全体を見渡せる会場構成を意識しており、参加するみなさんの一体感を大事に考えております。</p>
 
@@ -376,7 +376,7 @@ M5Stackを使うとマイコンボードとセンサ類を簡単に接続して�
 <strong>応募期限：2024年9月2日23:59</strong></li>
   <li>応募すると、作品提出用フォームのURLが記載されたメールが届きます。作品を完成させたら、そのフォームから提出してください。<br />
 <strong>提出期限：2024年9月9日（金）23:59</strong></li>
-  <li>作品提出後、内容を確認の上DojoCon Japan 2024サイト上に掲載します。掲載までにお時間をいただくことがありますので、ご了承ください。</li>
+  <li>作品提出後、内容を確認の上DojoCon Japan 2025サイト上に掲載します。掲載までにお時間をいただくことがありますので、ご了承ください。</li>
   <li>現地展示については、ひとりあたりの展示時間について、応募状況によって調整しますので、決定次第、メールでご連絡します。</li>
 </ol>
 
@@ -384,7 +384,7 @@ M5Stackを使うとマイコンボードとセンサ類を簡単に接続して�
 <h3 id="応募資格">応募資格</h3>
 <ul>
   <li>CoderDojoに参加したことのあるニンジャ</li>
-  <li>2024年4月1日現在で満6歳～17歳の方（小学1年生～高校3年生）</li>
+  <li>2025年4月1日現在で満6歳～17歳の方（小学1年生～高校3年生）</li>
   <li>保護者の同意を得ていること</li>
 </ul>
 
@@ -429,7 +429,7 @@ M5Stackを使うとマイコンボードとセンサ類を簡単に接続して�
         
           <li id="jcdpgstadium">
             <a href="https://jcdpgstadium.jp/" target="_blank">
-              <img src="/img/2024/sponsor/jcdpgstadium.png" alt="株式会社JTBコミュニケーションデザイン／プログラミングスタジアム実行委員会" />
+              <img src="/img/2025/sponsor/jcdpgstadium.png" alt="株式会社JTBコミュニケーションデザイン／プログラミングスタジアム実行委員会" />
             </a>
             <p class="name">株式会社JTBコミュニケーションデザイン／プログラミングスタジアム実行委員会</p>
             <p class="message">“合言葉は『ようこそ！はじめまして』”<br />
@@ -447,7 +447,7 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
         
           <li id="ponos">
             <a href="https://www.ponos.jp/" target="_blank">
-              <img src="/img/2024/sponsor/Ponos.png" alt="ポノス株式会社" />
+              <img src="/img/2025/sponsor/Ponos.png" alt="ポノス株式会社" />
             </a>
             <p class="name">ポノス株式会社</p>
             <p class="message">ポノスは、1990年の創業以来ゲームを通してエンターテインメントという文化の発展に貢献してまいりました。【求められるモノは創らない、それ以上を創り出す。】を掲げ、自分たちしか創れない価値をプラスしていくことを大切にしています。現在は、オリジナルゲーム開発を核に事業を展開し、代表タイトル『にゃんこ大戦争』は、累計DL8,200万を（2023年5月現在）超え、多くのお客様に楽しんでいただいております。</p>
@@ -455,7 +455,7 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
           
           <li id="sakura_internet">
             <a href="https://www.sakura.ad.jp/" target="_blank">
-              <img src="/img/2024/sponsor/Sakura_Internet.png" alt="さくらインターネット株式会社" />
+              <img src="/img/2025/sponsor/Sakura_Internet.png" alt="さくらインターネット株式会社" />
             </a>
             <p class="name">さくらインターネット株式会社</p>
             <p class="message">「やりたいこと」を「できる」に変える<br />
@@ -471,7 +471,7 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
         
           <li id="unique-i-net">
             <a href="https://www.unique-inet.co.jp/" target="_blank">
-              <img src="/img/2024/sponsor/Unique-i-net.png" alt="ユニーク・アイネット株式会社" />
+              <img src="/img/2025/sponsor/Unique-i-net.png" alt="ユニーク・アイネット株式会社" />
             </a>
             <p class="name">ユニーク・アイネット株式会社</p>
             <p class="message">CoderDojo池袋<br />
@@ -482,7 +482,7 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
           
           <li id="amulet_bronze">
             <a href="https://www.amulet.co.jp/" target="_blank">
-              <img src="/img/2024/sponsor/AMULET_LOGO_for_enterprise01-.jpg.webp" alt="アミュレット株式会社" />
+              <img src="/img/2025/sponsor/AMULET_LOGO_for_enterprise01-.jpg.webp" alt="アミュレット株式会社" />
             </a>
             <p class="name">アミュレット株式会社</p>
             <p class="message">弊社は秋葉原で創業し、パソコン周辺機器の取り扱いのほか、サーバ構築・保守・IT 関連サービス などを提供しております。ネットワークや映像通信技術を応用した、会議や集会・プレゼンテーション等に最適で導入も簡単な映像・音声転送システム等を取り扱っております。また、CoderDojo末広町のスポンサーとして、小中学生がプログラミングに触れる機会を提供しています。</p>
@@ -490,7 +490,7 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
           
           <li id="paloaltonetworks">
             <a href="https://www.paloaltonetworks.jp/" target="_blank">
-              <img src="/img/2024/sponsor/paloaltonetworks.webp" alt="パロアルトネットワークス株式会社" />
+              <img src="/img/2025/sponsor/paloaltonetworks.webp" alt="パロアルトネットワークス株式会社" />
             </a>
             <p class="name">パロアルトネットワークス株式会社</p>
             <p class="message">パロアルトネットワークスは、サイバーセキュリティの時代をリードする次世代セキュリティ企業で、世界中の数万もの組織をサイバー攻撃から保護し、アプリケーションの安全な稼働を支援しています。その先進的なセキュリティプラットフォームは、高度かつ独自のサイバー脅威防御機能で、日々の業務や企業の最も価値ある財産を保護します。</p>
@@ -498,7 +498,7 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
           
           <li id="sunnyside-sys">
             <a href="https://sunnyside-sys.com/" target="_blank">
-              <img src="/img/2024/sponsor/LOGO_Sunnyside_systems_PNG_2.png" alt="サニーサイドシステムズ合同会社" />
+              <img src="/img/2025/sponsor/LOGO_Sunnyside_systems_PNG_2.png" alt="サニーサイドシステムズ合同会社" />
             </a>
             <p class="name">サニーサイドシステムズ合同会社</p>
             <p class="message">サニーサイドシステムズは、アプリケーションが安定して動作するためのサーバやネットワークといったITインフラの設計・構築を行っています。ITインフラは皆さんの目に留まらない縁の下の存在ですが、こういったITインフラがあることを知ってもらえると嬉しいです。我々は縁の下の力持ちであることに誇りをもって、これからも沢山のITインフラを作り出していきます。</p>
@@ -506,7 +506,7 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
           
           <li id="minoru-sangyo">
             <a href="https://www.minoru-sangyo.co.jp/" target="_blank">
-              <img src="/img/2024/sponsor/minoru.jpg" alt="みのるグループ" />
+              <img src="/img/2025/sponsor/minoru.jpg" alt="みのるグループ" />
             </a>
             <p class="name">みのるグループ</p>
             <p class="message">みのるグループは、農業機械の「みのる産業」、プラスチック成型の「みのる化成」、ゴルフ練習場の「みのるゴルフセンター」、18ホールのゴルフコースの「後楽ゴルフ」、苗生産や造園の「みのるガーデンセンター」、岡山駅近くの「後楽ホテル」、北海道の農業を推進する「北海道みのる販売」で構成される岡山の企業です。柔軟な発想でお客様のかゆいトコロに手が届く、モノづくりからコトづくりまで必要なものを作り出します。</p>
@@ -521,7 +521,7 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
         
           <li id="yasslab">
             <a href="https://yasslab.jp/ja/" target="_blank">
-              <img src="/img/2024/sponsor/yasslab.png" alt="YassLab 株式会社" />
+              <img src="/img/2025/sponsor/yasslab.png" alt="YassLab 株式会社" />
             </a>
             <p class="name">YassLab 株式会社</p>
             <p class="message">Doorkeeper スポンサーシップのご提供</p>
@@ -529,7 +529,7 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
           
           <li id="esa">
             <a href="https://esa.io/" target="_blank">
-              <img src="/img/2024/sponsor/esa-logo__whitebg--transparent.png" alt="合同会社 esa" />
+              <img src="/img/2025/sponsor/esa-logo__whitebg--transparent.png" alt="合同会社 esa" />
             </a>
             <p class="name">合同会社 esa</p>
             <p class="message">ドキュメント共有サービスのご提供</p>
@@ -537,7 +537,7 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
           
           <li id="amulet_in-kind">
             <a href="https://www.amulet.co.jp/" target="_blank">
-              <img src="/img/2024/sponsor/AMULET_LOGO_for_enterprise01-.jpg.webp" alt="アミュレット株式会社" />
+              <img src="/img/2025/sponsor/AMULET_LOGO_for_enterprise01-.jpg.webp" alt="アミュレット株式会社" />
             </a>
             <p class="name">アミュレット株式会社</p>
             <p class="message">リモートHDMI機器のご提供</p>
@@ -545,18 +545,18 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
           
           <li id="stellalink">
             <a href="https://www.stellalink.co.jp/" target="_blank">
-              <img src="/img/2024/sponsor/stellalink.png" alt="株式会社ステラリンク" />
+              <img src="/img/2025/sponsor/stellalink.png" alt="株式会社ステラリンク" />
             </a>
             <p class="name">株式会社ステラリンク</p>
             <p class="message">会場ネットワークのご提供</p>
           </li>
           
         </ul>
-    </div>]]></content><author><name></name></author><category term="sponsors" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">当日お手伝いしてくださる方を募集します</title><link href="https://dojocon2025.coderdojo.jp/posts/staff/" rel="alternate" type="text/html" title="当日お手伝いしてくださる方を募集します" /><published>2024-08-09T16:00:00+09:00</published><updated>2024-08-09T16:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/posts/staff</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/posts/staff/"><![CDATA[<h2 id="dojocon-japan-2024の当日スタッフを募集します">DojoCon Japan 2024の当日スタッフを募集します！</h2>
+    </div>]]></content><author><name></name></author><category term="sponsors" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">当日お手伝いしてくださる方を募集します</title><link href="https://dojocon2025.coderdojo.jp/posts/staff/" rel="alternate" type="text/html" title="当日お手伝いしてくださる方を募集します" /><published>2024-08-09T16:00:00+09:00</published><updated>2024-08-09T16:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/posts/staff</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/posts/staff/"><![CDATA[<h2 id="dojocon-japan-2025の当日スタッフを募集します">DojoCon Japan 2025の当日スタッフを募集します！</h2>
 
-<p>DojoCon Japan 2024のお手伝いをしたい！という方はおられませんか？</p>
+<p>DojoCon Japan 2025のお手伝いをしたい！という方はおられませんか？</p>
 
-<p>DojoCon Japan 2024実行委員会ではこのような方のご参加をお待ちしております。</p>
+<p>DojoCon Japan 2025実行委員会ではこのような方のご参加をお待ちしております。</p>
 <ul>
   <li>CoderDojo の活動に興味のある方</li>
   <li>参加しているニンジャの保護者の方</li>
@@ -583,7 +583,7 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
 <h2 id="参加条件">参加条件</h2>
 <ul>
   <li>Discordでやり取りができること</li>
-  <li>CoderDojoの活動にご賛同いただけること、<a href="https://dojocon2024.coderdojo.jp/code-of-conduct/" target="_blank">行動規範</a>に同意いただけること</li>
+  <li>CoderDojoの活動にご賛同いただけること、<a href="https://dojocon2025.coderdojo.jp/code-of-conduct/" target="_blank">行動規範</a>に同意いただけること</li>
   <li>未成年者の方は、保護者の同意が必要です</li>
 </ul>
 
@@ -608,7 +608,7 @@ DojoCon Japan 2024では初出し情報も準備しています！お楽しみ�
   <li><a href="https://dojocon2019.coderdojo.jp/">https://dojocon2018.coderdojo.jp/</a></li>
   <li><a href="https://dojocon2019.coderdojo.jp/">https://dojocon2017.coderdojo.jp/</a></li>
   <li><a href="https://dojocon2019.coderdojo.jp/">https://dojocon2016.coderdojo.jp/</a></li>
-</ul>]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[DojoCon Japan 2024の当日スタッフを募集します！]]></summary></entry><entry><title type="html">参加受付を開始しました</title><link href="https://dojocon2025.coderdojo.jp/registration/" rel="alternate" type="text/html" title="参加受付を開始しました" /><published>2024-08-02T16:00:00+09:00</published><updated>2024-08-02T16:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/registration</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/registration/"><![CDATA[<p>大変お待たせしました、参加受付を開始しました。以下の内容をお読みの上「参加申し込み」を押して参加申し込みフォーム（Doorkeeper）へお進みください。</p>
+</ul>]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[DojoCon Japan 2025の当日スタッフを募集します！]]></summary></entry><entry><title type="html">参加受付を開始しました</title><link href="https://dojocon2025.coderdojo.jp/registration/" rel="alternate" type="text/html" title="参加受付を開始しました" /><published>2024-08-02T16:00:00+09:00</published><updated>2024-08-02T16:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/registration</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/registration/"><![CDATA[<p>大変お待たせしました、参加受付を開始しました。以下の内容をお読みの上「参加申し込み」を押して参加申し込みフォーム（Doorkeeper）へお進みください。</p>
 
 <h2 id="お読みください">お読みください</h2>
 <p>保険加入の関係で1人1チケットが必要となっております。</p>
