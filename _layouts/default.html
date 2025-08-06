@@ -9,10 +9,12 @@
 <html lang="ja" dir="ltr">
   {% include head.html %}
   <body>
-    {% include navbar.html %}
-    {{ content }}
+    <div class="bg-linear-106 from-[#9d1e29] to-[#d4932a] absolute size-full">
+      <div class="bg-white absolute inset-[15px] rounded-2xl">
+      {{ content }}
 
-    <div id="page-top"><a href="#top"><img src="/img/svg/up.svg" alt="Up" width="24px" /></a></div>
-    {% include footer.html %}
+      {% include footer.html %}
+      </div>
+    </div>
   </body>
 </html>
