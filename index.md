@@ -5,6 +5,8 @@ layout: default
 
 {% include top/sections/navbar.html %}
 
+{% include top/sections/outline.html %}
+
 {% include top/sections/about-coderdojo.html %}
 
 {% include top/sections/inspire-next.html %}
