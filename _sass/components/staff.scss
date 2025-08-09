@@ -1,49 +1,15 @@
 @use '../global/variables' as *;
 
-.staff {
-  background: #FBF6FA;
-  padding: 48px 0;
-  &-inner {
-    margin: 48px 24px;
-    padding: 60px;
-    border-radius: 40px;
-    background: #fff;
-    @media screen and (max-width: 992px) {
-      padding: 30px;
-      border-radius: 20px;
-    }
-  }
-  &-list {
-    margin: 24px 0 0 0;
-    padding: 0;
-    list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 48px;
-    li {
-      width: 120px;
-      position: relative;
-      text-align: center;
+// 1, 2, 3, 4
+//  5, 6, 7
+// 8, 9, 10, 11
+//  12, 13, 14
+// 15, 16, 17, 18
+//  19, 20, 21
 
-      img {
-        width: 120px;
-        height: 120px;
-        border-radius: 50%;
-        object-fit: cover;
-        border:5px solid #ccc;
-        position: relative;
-        transition: all 0.3s;
-      }
-      a {
-        text-decoration: none;
-        &:hover {
-          img {
-            border: 5px solid $red;
-            transition: all 0.3s;
-          }
-        }
-      }
-    }
+.staff {
+  li:nth-child(7n+5) {
+    margin-left: 120px
   }
+
 }
