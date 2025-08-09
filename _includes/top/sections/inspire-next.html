@@ -1,10 +1,9 @@
 <!-- デスクトップの場合 -->
 <div class="hidden xl:flex mt-48">
-  <div class="w-[45%] -mt-10 mx-auto absolute pr-16 right-0">
+  <div class="w-[45%] -mt-10 mx-auto absolute z-1 pr-16 right-0">
     <h2>
       <img src="/img/2025/top/Inspire NEXT.png" alt="Inspire NEXT ～好奇心に火をつけよう～" />
     </h2>
-
     <div class="mt-9 max-w-3xl">
       今年のDojoCon Japanのテーマは「Inspire NEXT〜好奇心に火をつけよう〜」です。<br />
       この言葉には、「次の一歩をふみ出すきっかけになるようなひらめきや刺激を届けたい」という思いがこめられています。プログラミングやテクノロジーの世界は、AIなど新しいことがどんどん出てきて、変わり続けています。でも、子どもたちの「やってみたい！」「知りたい！」という好奇心は、いつの時代も変わりません。<br />
@@ -15,7 +14,12 @@
   </div>
 
   <div class="flex items-center -mx-4 mt-18 justify-between w-full">
-    <div class="w-2/3"><img class="w-full" src="/img/2025/top/inspire-next-image.png" /></div>
+    <div class="w-2/3 relative">
+      <!-- 写真にかぶっても視認性を確保するためのオーバーレイ -->
+      <div class="bg-linear-to-r from-transparent from-70% to-white hidden top-0 xl:block absolute size-full">
+      </div>
+      <img class="w-full" src="/img/2025/top/inspire-next-image.png" />
+    </div>
     <div class="w-1/4 -mt-48"><img class="w-full" src="/img/2025/top/fire-light.png" /></div>
   </div>
 </div>
