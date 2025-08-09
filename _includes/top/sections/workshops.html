@@ -18,6 +18,7 @@
   </div>
 
   <ul class="flex flex-wrap gap-x-6 gap-y-12 lg:-mt-16 lg:w-3/5 *:flex-1 *:min-w-64">
+    {% for i in (1..6) %}
     <li>
       <img class="w-full" src="https://placehold.jp/1920x1080.png" alt="セッションのイメージ">
       <p class="mt-2">セッションタイトル。2行ぐらいあるかも</p>
@@ -26,51 +27,6 @@
         登壇者：仮の団体名・仮の登壇者の氏名<br />
         所属：仮の所属名</p>
     </li>
-
-    <li>
-      <img class="w-full" src="https://placehold.jp/1920x1080.png" alt="セッションのイメージ">
-      <p class="mt-2">セッションタイトル。2行ぐらいあるかも</p>
-      <p class="text-xs mb-2">セッションの説明です。最大2行ぐらいまで許容しそうな雰囲気</p>
-      <p class="text-xs text-gray-400">
-        登壇者：仮の団体名・仮の登壇者の氏名<br />
-        所属：仮の所属名</p>
-    </li>
-
-    <li>
-      <img class="w-full" src="https://placehold.jp/1920x1080.png" alt="セッションのイメージ">
-      <p class="mt-2">セッションタイトル。2行ぐらいあるかも</p>
-      <p class="text-xs mb-2">セッションの説明です。最大2行ぐらいまで許容しそうな雰囲気</p>
-      <p class="text-xs text-gray-400">
-        登壇者：仮の団体名・仮の登壇者の氏名<br />
-        所属：仮の所属名</p>
-    </li>
-
-    <li>
-      <img class="w-full" src="https://placehold.jp/1920x1080.png" alt="セッションのイメージ">
-      <p class="mt-2">セッションタイトル。2行ぐらいあるかも</p>
-      <p class="text-xs mb-2">セッションの説明です。最大2行ぐらいまで許容しそうな雰囲気</p>
-      <p class="text-xs text-gray-400">
-        登壇者：仮の団体名・仮の登壇者の氏名<br />
-        所属：仮の所属名</p>
-    </li>
-
-    <li>
-      <img class="w-full" src="https://placehold.jp/1920x1080.png" alt="セッションのイメージ">
-      <p class="mt-2">セッションタイトル。2行ぐらいあるかも</p>
-      <p class="text-xs mb-2">セッションの説明です。最大2行ぐらいまで許容しそうな雰囲気</p>
-      <p class="text-xs text-gray-400">
-        登壇者：仮の団体名・仮の登壇者の氏名<br />
-        所属：仮の所属名</p>
-    </li>
-
-
-    <li>
-      <img class="w-full" src="https://placehold.jp/1920x1080.png" alt="セッションのイメージ">
-      <p class="mt-2">セッションタイトル。2行ぐらいあるかも</p>
-      <p class="text-xs mb-2">セッションの説明です。最大2行ぐらいまで許容しそうな雰囲気</p>
-      <p class="text-xs text-gray-400">
-        登壇者：仮の団体名・仮の登壇者の氏名<br />
-        所属：仮の所属名</p>
-    </li>
+    {% endfor %}
   </ul>
 </div>

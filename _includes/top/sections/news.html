@@ -7,31 +7,13 @@
  それのマークアップとスタイルをいじって作るとよい -->
 <div class="m-6 flex flex-col items-center">
   <ul class="border-y divide-y max-w-7xl mx-auto mb-12">
+    {% for i in (1..5) %}
     <li class="text-sm flex items-center py-4 flex-wrap sm:flex-nowrap gap-y-1">
       <time class="block min-w-24">2025.06.20</time>
       <span class="block min-w-24 text-center mr-6 px-4 py-px rounded-xs bg-[#cb8a32] text-white">レポート</span>
       DojoCon Japan 2025開催のお知らせ　今年のテーマは「Inspire NEXT〜好奇心に火をつけよう〜」
     </li>
-    <li class="text-sm flex items-center py-4 flex-wrap sm:flex-nowrap gap-y-1">
-      <time class="block min-w-24">2025.06.20</time>
-      <span class="block min-w-24 text-center mr-6 px-4 py-px rounded-xs bg-[#cb8a32] text-white">レポート</span>
-      DojoCon Japan 2025開催のお知らせ　今年のテーマは「Inspire NEXT〜好奇心に火をつけよう〜」
-    </li>
-    <li class="text-sm flex items-center py-4 flex-wrap sm:flex-nowrap gap-y-1">
-      <time class="block min-w-24">2025.06.20</time>
-      <span class="block min-w-24 text-center mr-6 px-4 py-px rounded-xs bg-[#cb8a32] text-white">レポート</span>
-      DojoCon Japan 2025開催のお知らせ　今年のテーマは「Inspire NEXT〜好奇心に火をつけよう〜」
-    </li>
-    <li class="text-sm flex items-center py-4 flex-wrap sm:flex-nowrap gap-y-1">
-      <time class="block min-w-24">2025.06.20</time>
-      <span class="block min-w-24 text-center mr-6 px-4 py-px rounded-xs bg-[#cb8a32] text-white">レポート</span>
-      DojoCon Japan 2025開催のお知らせ　今年のテーマは「Inspire NEXT〜好奇心に火をつけよう〜」
-    </li>
-    <li class="text-sm flex items-center py-4 flex-wrap sm:flex-nowrap gap-y-1">
-      <time class="block min-w-24">2025.06.20</time>
-      <span class="block min-w-24 text-center mr-6 px-4 py-px rounded-xs bg-[#cb8a32] text-white">レポート</span>
-      DojoCon Japan 2025開催のお知らせ　今年のテーマは「Inspire NEXT〜好奇心に火をつけよう〜」
-    </li>
+    {% endfor %}
   </ul>
 
   <a href="#" class="block border rounded-full py-5 px-25 text-lg inset-shadow-md" target="_blank"
