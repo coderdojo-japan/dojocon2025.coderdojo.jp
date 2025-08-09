@@ -2,9 +2,15 @@
   実行員紹介
   <span class="block mt-5 text-2xl">STAFF</span>
 </h2>
-<div class="relative">
-  <div class="flex flex-wrap">
-    <img src="https://placehold.jp/320x320" alt="スタッフの写真"
-      style="clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);">
-  </div>
+<div class="max-w-7xl mx-auto mt-9 mb-40">
+  <ul class="flex flex-wrap justify-center gap-6">
+    {% for i in (1..40) %}
+    <li>
+      <div class="aspect-[1/cos(30deg)] w-50 overflow-hidden flex items-center justify-center"
+        style="clip-path: polygon(50% -50%,100% 50%,50% 150%,0 50%);">
+        <img class="w-full" src="https://placehold.jp/320x320.png" alt="スタッフの写真">
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
 </div>
