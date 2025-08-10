@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-<!-- 仮で配置 --->
-{% include top/sections/staff.html %}
-
 {% include top/sections/top.html %}
 
 {% include top/sections/navbar.html %}
