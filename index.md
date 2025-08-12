@@ -5,4 +5,6 @@ layout: top
   {% include header.html %}
 
   {% include top/sections/hero.html %}
+
+  {% include navbar.html %}
 </div>
