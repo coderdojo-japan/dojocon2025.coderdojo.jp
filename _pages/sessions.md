@@ -4,6 +4,119 @@ title: SESSION
 subtitle: セッション
 permalink: /sessions
 ---
+<h2 id="outline" class="text-4xl text-center mb-8 pt-20">
+  セッション
+  <span class="block mt-5 text-2xl">SESSIONS</span>
+</h2>
+
+<div class="max-w-7xl mx-auto flex flex-wrap justify-between">
+  {% for session in site.data.sessions %}
+    {% assign profile_id = 'profile-' | append: forloop.index %}
+    <div class="w-[48%]" id="{{forloop.index}}">
+      {% if session.news-link %}
+        <a href='{{ session.news-link }}'>
+      {% endif %}
+
+      <h3 class="text-2xl mb-2">{{ session.title }}</h3>
+
+      {% if session.news-link %}
+        </a>
+      {% endif %}
+
+      <p>
+        {{ session.time }}
+
+        {% if session.tag %}
+          <span class="min-w-24 text-center mr-6 px-4 mb-4 py-px rounded-xs bg-[#cc8f2e] text-white">{{ session.tag }}</span>
+        {% endif %}
+      </p>
+
+      {% if session.profile-img %}
+        <div>
+          {% if session.news-link %}
+            <a href='{{ session.news-link }}'>
+          {% endif %}
+
+          <img src="https://placehold.jp/512x512.png" alt="プロフィール画像">
+          {% if session.news-link %}
+            </a>
+          {% endif %}
+        </div>
+      {% endif %}
+
+      <p>
+        {{ session.speaker }}
+
+        {% if session.affiliation %}
+          （{{ session.affiliation }}）
+        {% endif %}
+      </p>
+
+      <p>
+        {{ session.text | markdownify }}
+        {% if session.news-link %}
+          <a href='{{ session.news-link }}'>
+            <i class='fas fa-scroll'></i> 詳細を見る
+          </a>
+        {% endif %}
+      </p>
+
+      {% if session.archive-link %}
+        <p>
+          <a href="{{ session.archive-link }}" target="_blank"><i class="fab fa-youtube"></i> YouTube で見る</a>
+        </p>
+      {% endif %}
+
+      {% if session.slides %}
+        <p>
+          <a href="{{ session.slides }}" target="_blank"><i class="fas fa-scroll"></i> スライド資料を見る</a>
+        </p>
+      {% endif %}
+
+      {% if session.profile-text or session.speakers %}
+        <p>
+          <a href="#{{ profile_id }}" role="button" data-bs-toggle="collapse" data-bs-target="#{{ profile_id }}" data-toggle="collapse" class="btn btn-danger btn-sm">
+            <i class="fas fa-angle-down"></i>
+            登壇者情報を見る
+          </a>
+        </p>
+      {% endif %}
+
+      <div id="{{ profile_id }}">
+        {% if session.tag == "パネルディスカッション" %}
+          {% for speaker in session.speakers %}
+            <p>
+              {{ speaker.name }}（{{ speaker.affiliation }}）
+              <span>{{ speaker.role }}</span>
+            </p>
+
+            <p>{{ speaker.text | markdownify }}</p>
+
+            <ul>
+              {% for link in speaker.links %}
+                <li>
+                  <a href="{{ link }}" target="_blank">
+                    {{ link | remove_first: 'https://' | remove_first: 'http://' }}
+                  </a>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endfor %}
+        {% else %}
+          <p>{{ session.profile-text | markdownify }}</p>
+
+          <ul>
+            {% for link in session.links %}
+              <li><a href="{{ link }}" target="_blank">{{ link | remove_first: 'https://' | remove_first: 'http://' }}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<!--
 <div>
   {% for session in site.data.sessions %}
     {% assign profile_id = 'profile-' | append: forloop.index %}
@@ -78,4 +191,4 @@ permalink: /sessions
     </div>
   </div>
   {% endfor %}
-</div>
+</div> -->
