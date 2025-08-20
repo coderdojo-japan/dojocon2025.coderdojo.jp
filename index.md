@@ -35,11 +35,13 @@ layout: top
   <img class="w-full" src="/img/top/background3.webp" />
 </div>
 
-{% include top/sections/sponsor.html %}
+{% comment %} {% include top/sections/sponsor.html %} {% endcomment %}
 
-<div class="-mx-4">
-  <img class="w-full" src="/img/top/background4.webp" />
-</div>
+{% comment %}
+  <div class="-mx-4">
+    <img class="w-full" src="/img/top/background4.webp" />
+  </div>
+{% endcomment %}
 
 {% include top/sections/contact.html %}
 
@@ -48,4 +50,4 @@ layout: top
 </div>
 
 {% include top/sections/organized-by.html %}
-{% include top/sections/staff.html %}
+{% comment %} {% include top/sections/staff.html %} {% endcomment %}
