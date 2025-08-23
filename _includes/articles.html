@@ -1,0 +1,11 @@
+<a href="{{ post.url }}">
+  <div>
+    {% if post.thumbnail %}
+    <img src="{{ post.thumbnail }}" alt="{{ post.title }} のサムネイル" loading="lazy">
+    {% else %}
+    <img src="/img/common/footer-logo.webp" alt="{{ post.title }} のサムネイル" loading="lazy">
+    {% endif %}
+  </div>
+    <time class="text-sm text-gray-600">{{ post.date | date:"%Y.%-m.%-d" }}</time>
+    <p><strong>{{ post.title }}</strong></p>
+</a>
