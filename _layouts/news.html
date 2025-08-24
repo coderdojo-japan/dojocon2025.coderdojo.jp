@@ -1,17 +1,19 @@
 ---
 layout: default
 ---
-<div class="text-center mt-20 mb-4">
+<div class="text-center mt-20 mb-2">
   <h2>NEWS</h2>
 </div>
-<h2 class="text-4xl text-center mb-2">
+
+<h2 class="max-w-4xl mx-auto text-4xl text-center mb-2">
   {{ page.title }}
 </h2>
+
 <p class="text-center">
   <time>{{ page.date | date:"%Y.%-m.%-d" }}</time>
 </p>
 
-<div class="max-w-7xl mx-auto px-8 post-content my-8">
+<div class="max-w-4xl mx-auto px-8 post-content my-8">
   {{ content | markdownify }}
 </div>
 
