@@ -35,13 +35,11 @@ layout: top
   <img class="w-full" src="/img/top/background3.webp" />
 </div>
 
-{% comment %} {% include top/sections/sponsor.html %} {% endcomment %}
+{% include top/sections/sponsor.html %}
 
-{% comment %}
   <div class="-mx-4">
     <img class="w-full" src="/img/top/background4.webp" />
   </div>
-{% endcomment %}
 
 {% include top/sections/contact.html %}
 
