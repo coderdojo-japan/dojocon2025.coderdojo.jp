@@ -1,17 +1,25 @@
 ---
 layout: default
 ---
+{% if override-title == '' %}
 <div class="text-center mt-20 mb-2">
   <h2>NEWS</h2>
 </div>
+{% endif %}
 
 <h2 class="max-w-4xl mx-auto text-4xl text-center mb-2">
-  {{ page.title }}
+  {% if override-title == '' %}
+    {{ page.title }}
+  {% else %}
+    {{ page.override-title }}
+  {% endif %}
 </h2>
 
+{% if override-title == false %}
 <p class="text-center">
   <time>{{ page.date | date:"%Y.%-m.%-d" }}</time>
 </p>
+{% endif %}
 
 <div class="max-w-4xl mx-auto px-8 post-content my-8">
   {{ content | markdownify }}
