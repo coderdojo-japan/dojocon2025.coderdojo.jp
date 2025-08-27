@@ -1,10 +1,10 @@
 ---
 layout: post
 title: ぼくのかんがえたさいきょうのCoderDojoワークショップ
-date: 2025-09-01T00:00:00 UTC+9
+date: 2025-08-28T00:00:00 UTC+09:00
 categories: news
 thumbnail: /img/events/saikyo-coderdojo.png
-permalink: /saikyou-coderdojo/
+permalink: /events/saikyo-coderdojo/
 ---
 
 # ぼくのかんがえたさいきょうのCoderDojoワークショップ
@@ -20,6 +20,6 @@ permalink: /saikyou-coderdojo/
 ワークシートに自分が考える理想のCoderDojoを書いて、他の参加者とシェアしましょう。
 
 ## 持ち物・必要スキル
-CoderDojoに対する熱い思い！
-手ぶらで参加できます。
+CoderDojoに対する熱い思い！<br />
+手ぶらで参加できます。<br />
 ※ワークシートや筆記用具はこちらで準備します。

@@ -1,6 +1,7 @@
 ---
-layout: news
+layout: post
 title: 『DojoCon Japan 2025 プログラミングコンテスト』の募集要項を掲載しました
+override-title: DojoCon Japan 2025 プログラミングコンテスト 募集要項
 date: 2025-07-21T12:00:00 UTC+9
 categories: news
 # thumbnail:
@@ -88,8 +89,7 @@ permalink: contests/
 </p>
 
 <a href="https://protopedia.net/" target="_blank">
-  <img src="/img/protopedia-logotype.png" alt="ProtoPedia Logotype" title="ProtoPedia Logotype"
-    class="protopedia-logotype">
+  <img src="/img/sponsors/ProtoPedia.png" alt="ProtoPedia のロゴ" />
 </a>
 
 <p>

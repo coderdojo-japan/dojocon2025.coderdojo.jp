@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: post
 title: 『DojoCon Japan 2025 プログラミングコンテスト』の開催が決定しました！
 date: 2025-07-05T00:00:00 UTC+9
 categories: news

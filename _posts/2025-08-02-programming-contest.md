@@ -1,10 +1,9 @@
 ---
-layout: news
+layout: post
 title: DojoCon Japan 2025 プログラミングコンテスト 応募方法を公開しました
 override-title: DojoCon Japan 2025 プログラミングコンテスト 応募方法
 date: 2025-08-02T01:00:00 UTC+9
 categories: news
-# thumbnail:
 permalink: contests/how-to-apply.html
 ---
 <h1>コンテスト応募方法</h1>
