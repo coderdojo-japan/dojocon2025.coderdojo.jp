@@ -9,9 +9,9 @@ permalink: /sessions
   <span class="block mt-5 text-2xl">SESSIONS</span>
 </h2>
 
-<ul class="max-w-7xl px-8 mx-auto flex flex-wrap justify-between gap-y-16">
+<ul class="max-w-7xl px-4 sm:px-8 mx-auto flex flex-wrap justify-between gap-y-16">
   {% for session in site.data.sessions %}
-    <li class="w-[46%]">
+    <li class="w-full sm:w-[46%] sm:min-w-[500px] mx-auto">
       {% if session.news-link %}
         <a href='{{ session.news-link }}'>
           <h3 class="text-2xl mb-2">{{ session.title }}</h3>
