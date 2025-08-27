@@ -1,30 +1,13 @@
 ---
 layout: default
 ---
-{% if page.categories %}
-  <div class="text-center">
-    <h2>{{page.categories[0] | upcase }}</h2>
-  </div>
-{% endif %}
+{% include navbar.html %}
 
-<h2 class="text-4xl text-center mb-8 pt-20">
+<h2 class="max-w-4xl mx-auto text-4xl text-center mb-2 mt-30 px-8 xl:mt-15">
   {{ page.title }}
+  <span class="block mt-5 text-2xl">{{ page.subtitle | upcase }}</span>
 </h2>
 
-{% if page.categories[0] == "news" %}
-  <time>{{ page.date | date:"%Y.%-m.%-d" }}</time>
-{% elsif page.categories[0] == "workshop" or page.categories[0] == "session" %}
-  <div class="tags">
-    {% for tag in page.tags %}
-    <span class="tag-post">{{tag}}</span>
-    {% endfor %}
-  </div>
-  <p class="post-time">{{page.time}}</p>
-{% endif %}
-
-{{ content }}
-<div class="text-center">
-  <img src="/img/momotaro/inu.svg" style="width: 80px"/>
-  <br>
-  <a href="/news" class="btn btn-danger btn-lg mt-3">お知らせ一覧にもどる</a>
+<div class="max-w-4xl mx-auto px-4 sm:px-8 post-content my-8">
+  {{ content | markdownify }}
 </div>
