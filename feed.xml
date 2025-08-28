@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-08-29T01:50:01+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-08-29T02:55:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">ぼくのかんがえたさいきょうのCoderDojoワークショップ</title><link href="https://dojocon2025.coderdojo.jp/events/saikyo-coderdojo/" rel="alternate" type="text/html" title="ぼくのかんがえたさいきょうのCoderDojoワークショップ" /><published>2025-08-28T00:00:00+09:00</published><updated>2025-08-28T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/saikyo-coderdojo</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/saikyo-coderdojo/"><![CDATA[<h2 id="対象者">対象者</h2>
+<ul>
+  <li>CoderDojoの運営に口を出せる人（チャンピオン、メンター、その他協力者）</li>
+  <li>これからCoderDojoを立ち上げたいと思っている人</li>
+  <li>理想のCoderDojoについて熱く語りたい人</li>
+</ul>
+
+<h2 id="内容">内容</h2>
+<p>理想のCoderDojoをみんなで考えるワークショップです。<br />
+ワークシートに自分が考える理想のCoderDojoを書いて、他の参加者とシェアしましょう。</p>
+
+<h2 id="持ち物必要スキル">持ち物・必要スキル</h2>
+<p>CoderDojoに対する熱い思い！<br />
+手ぶらで参加できます。<br />
+※ワークシートや筆記用具はこちらで準備します。<br />
+<br /></p>
+
+<p><img src="/img/events/saikyo-coderdojo.webp" alt="" /></p>]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[対象者 CoderDojoの運営に口を出せる人（チャンピオン、メンター、その他協力者） これからCoderDojoを立ち上げたいと思っている人 理想のCoderDojoについて熱く語りたい人]]></summary></entry></feed>
