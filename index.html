@@ -86,19 +86,24 @@
 </h1>
 
 <div class="fixed xl:hidden left-0 top-7 z-10 flex w-screen min-h-18 justify-center">
-  <div class="flex flex-col h-full w-[calc(100%-60px)] items-stretch rounded-[10px] bg-[#f5f5f5] px-5 py-3 shadow-[7px_7px_10px_rgba(125,125,125,0.15)] inset-shadow-[0px_-2px_10px_rgba(125,125,125,0.25)]">
+  <div class="flex flex-col h-full w-[calc(100%-60px)] items-stretch rounded-[10px] bg-[#f5f5f5] py-3 pl-4 pr-3 shadow-[7px_7px_10px_rgba(125,125,125,0.15)] inset-shadow-[0px_-2px_10px_rgba(125,125,125,0.25)]">
     <div class="flex items-center justify-between gap-2">
       <a href="/" class="flex h-full items-center">
         <img src="/img/common/header-logo.webp" class="w-full max-w-[250px] max-h-full" alt="DojoCon Japan 2025 Inspire Next." />
       </a>
-      <button id="menu-btn" type="button" aria-label="メニューを開く" class="flex p-2 shrink-0 flex-col items-center justify-center rounded border border-gray-300 bg-white cursor-pointer">
-        <i class="fa-solid fa-bars"></i>
-      </button>
+      <div class="flex items-cetner gap-x-2 shrink-0">
+        <a href="/registration/" class="px-3 py-2 rounded-sm text-center bg-[#cc8f2e] text-[#f5f5f5] justify-center">
+          参加申込
+        </a>
+        <button id="menu-btn" type="button" aria-label="メニューを開く" class="flex p-2 size-10 shrink-0 flex-col items-center justify-center rounded border border-gray-300 bg-white cursor-pointer">
+          <i class="fa-solid fa-bars"></i>
+        </button>
+      </div>
     </div>
     <nav id="menu-nav" class="hidden my-2 flex-col items-stretch transition-all duration-300">
       <ul class="flex flex-col min-h-20 items-stretch gap-2 *:px-6 *:text-center *:text-[20px] *:leading-[1.75] *:text-[#cc8f2e] [&amp;_a]:block">
-        <li><a href="#outline">開催概要</a></li>
-        <li><a href="#session">セッション</a></li>
+        <li><a href="/#outline">開催概要</a></li>
+        <li><a href="/#session">セッション</a></li>
         <li><a href="/events/">企画</a></li>
         <li><a href="/contests/">コンテスト</a></li>
         <li><a href="https://suzuri.jp/DojoConJapan" target="_blank">グッズ</a></li>
@@ -144,8 +149,8 @@
 </div>
 
 <div class="hidden xl:block sticky mx-4 top-4 z-10">
-  <nav class="rounded-[40px] w-fit mx-auto bg-[#f5f5f5] mt-8 inset-shadow-[0px_-2px_10px_rgba(125,125,125,0.25)] shadow-[7px_7px_10px_rgba(125,125,125,0.15)]">
-    <ul class="flex flex-wrap min-h-20 items-center p-5 justify-center divide-x-2 gap-y-2 *:text-[#cc8f2e] *:px-6">
+  <nav class="rounded-[40px] w-fit mx-auto bg-[#f5f5f5] mt-8 inset-shadow-[0px_-2px_10px_rgba(125,125,125,0.25)] shadow-[7px_7px_10px_rgba(125,125,125,0.15)] flex items-stretch">
+    <ul class="flex flex-wrap min-h-20 items-center p-5 pr-0 justify-center divide-x-2 gap-y-2 *:text-[#cc8f2e] *:px-6">
       <li><a href="/#outline">開催概要</a></li>
       <li><a href="/#session">セッション</a></li>
       <li><a href="/events/">企画</a></li>
@@ -154,6 +159,9 @@
       <li><a href="/sponsorship/">スポンサー募集</a></li>
       <li><a href="https://forms.gle/t9ctDcuZZ8cqqFtR6" target="_blank">お問い合わせ</a></li>
     </ul>
+    <a href="/registration/" class="text-xl px-8 py-4 rounded-r-[40px] bg-[#cc8f2e] text-[#f5f5f5] inset-shadow-[0px_-2px_10px_rgba(125,125,125,0.25)] flex items-center">
+      参加申込
+    </a>
   </nav>
 </div>
 
@@ -311,7 +319,17 @@
         <time class="block min-w-24 mr-2">2025.08.30</time>
         <span class="block min-w-36 mr-6 px-4 py-px rounded-xs bg-[#cc8f2e] text-white text-center">当日スタッフ</span>
         
-          DojoCon Japan 2025の当日スタッフを募集します
+          DojoCon Japan 2025 の当日スタッフを募集します
+        
+      </a>
+    </li>
+    
+    <li>
+      <a href="/registration/" class="text-sm flex items-center py-4 flex-wrap sm:flex-nowrap gap-y-1">
+        <time class="block min-w-24 mr-2">2025.08.30</time>
+        <span class="block min-w-36 mr-6 px-4 py-px rounded-xs bg-[#cc8f2e] text-white text-center">参加受付</span>
+        
+          DojoCon Japan 2025 一般参加の受付を開始しました
         
       </a>
     </li>
