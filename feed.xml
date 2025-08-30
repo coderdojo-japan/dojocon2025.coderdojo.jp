@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-08-30T17:38:38+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">当日スタッフ募集</title><link href="https://dojocon2025.coderdojo.jp/staff/" rel="alternate" type="text/html" title="当日スタッフ募集" /><published>2025-08-30T00:00:00+09:00</published><updated>2025-08-30T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/staff</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/staff/"><![CDATA[<style>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-08-30T17:50:23+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">当日スタッフ募集</title><link href="https://dojocon2025.coderdojo.jp/staff/" rel="alternate" type="text/html" title="当日スタッフ募集" /><published>2025-08-30T00:00:00+09:00</published><updated>2025-08-30T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/staff</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/staff/"><![CDATA[<style>
   @media (max-width: 640px) {
     h2 {
       font-size: 2em;
@@ -93,7 +93,37 @@
     <li><a href="https://dojocon2017.coderdojo.jp/">DojoCon Japan 2017</a></li>
     <li><a href="https://dojocon2016.coderdojo.jp/">DojoCon Japan 2016</a></li>
   </ul>
-</div>]]></content><author><name></name></author><category term="news" /><category term="当日スタッフ" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">ぼくのかんがえたさいきょうのCoderDojoワークショップ</title><link href="https://dojocon2025.coderdojo.jp/events/saikyo-coderdojo/" rel="alternate" type="text/html" title="ぼくのかんがえたさいきょうのCoderDojoワークショップ" /><published>2025-08-28T00:00:00+09:00</published><updated>2025-08-28T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/saikyo-coderdojo</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/saikyo-coderdojo/"><![CDATA[<h2 id="対象者">対象者</h2>
+</div>]]></content><author><name></name></author><category term="news" /><category term="当日スタッフ" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">基調講演</title><link href="https://dojocon2025.coderdojo.jp/sessions/keynote1/" rel="alternate" type="text/html" title="基調講演" /><published>2025-08-28T00:00:00+09:00</published><updated>2025-08-28T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/keynote1</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/keynote1/"><![CDATA[<h1 id="プログラミング教育の脱構築生成ai時代における学びを再考する">プログラミング教育の脱構築——生成AI時代における〈学び〉を再考する</h1>
+
+<h2 id="宮島-衣瑛みやじま-きりえ">宮島 衣瑛（みやじま きりえ）</h2>
+<p>CoderDojo Japan 理事<br />
+広島大学大学院 特命助教</p>
+
+<div class="flex max-w-100 mx-auto my-4 justify-center">
+  <img class="w-full" src="/img/sessions/profile/miyajima-kirie.webp" />
+</div>
+
+<h2 id="登壇者紹介">登壇者紹介</h2>
+<p>「テクノロジーを基盤とした未来のための教育をデザインする」をモットーに、全国各地で様々な立場から実践・研究を行っている教育研究者。2015年1月に教育分野のR&amp;D（研究開発）などを行う株式会社 Innovation Power を立ち上げ、現在に至るまで代表取締役社兼CEOを務める。2017年11月より子どものためのプログラミング道場一般社団法人 CoderDojo Japan 理事。また、文部科学省調査研究企画推進委員会委員や柏市図書館協議会委員、小学校学校運営協議会委員などの社会的活動も精力的に行っている。2023年より、逗子オルタナティブスクール FRASCO のカリキュラムディレクター（理事）、2024年より白梅学園大学・千葉大学・武蔵野大学で非常勤講師も務めている。2025年4月より広島大学大学院特命助教。</p>
+
+<h2 id="概要">概要</h2>
+<p>生成AIの急速な進展により、「プログラミングを学ぶこと」の意味や価値そのものが、根本から問い直される時代がきています。<br />
+だからこそ今、子どもたちが〈つくる〉ことを楽しみ、世代を超えた仲間と学び合う CoderDojo コミュニティのような学びの場が、これまで以上に重要な意味を持ってきます。<br />
+本講演では、「教育・学びとは何か」を根底から問い直す視点から、プログラミング教育の脱構築を提案し、これからの CoderDojo のあり方も皆さんと考えていきたいと思います。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[プログラミング教育の脱構築——生成AI時代における〈学び〉を再考する]]></summary></entry><entry><title type="html">招待講演</title><link href="https://dojocon2025.coderdojo.jp/sessions/keynote2/" rel="alternate" type="text/html" title="招待講演" /><published>2025-08-28T00:00:00+09:00</published><updated>2025-08-28T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/keynote2</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/keynote2/"><![CDATA[<h1 id="生成ai時代における子どもたちに必要な力とは">生成AI時代における子どもたちに必要な力とは？</h1>
+
+<h2 id="小宮山-利恵子こみやま-りえこ">小宮山 利恵子（こみやま りえこ）</h2>
+<p>株式会社リクルート スタディサプリ教育AI研究所所長<br />
+国立大学法人 東京学芸大学大学院教育学研究科教授</p>
+
+<div class="flex max-w-100 mx-auto my-4 justify-center">
+  <img class="w-full" src="/img/sessions/profile/komiyama-rieko.webp" />
+</div>
+
+<h2 id="登壇者紹介">登壇者紹介</h2>
+<p>1977年東京都生まれ。早稲田大学大学院修了後、衆議院にて国会議員秘書。その後、株式会社ベネッセコーポレーションにて会長秘書等を経て、2015年よりリクルート教育研究所所長。教育とテクノロジー、アントレプレナーシップ（起業家精神）領域を探究。AI時代における「人間にしかできない力」をテーマに、現場体験や五感、身体知を重視した教育実践を推進。「鮨 銀座おのでら」で修行、「鮨 銀座おのでら 鮨アカデミー」寿司職人コース修了。著書に『好奇心を学びに変える「なぜ？どうして？」の伸ばし方』（ディスカヴァー・トゥエンティワン、2025年）、『教育AIが変える21世紀の学び』（共訳、北大路出版、2020年）等。</p>
+
+<h2 id="概要">概要</h2>
+<p>生成AIが瞬時に答えを導く時代において、子どもたちに本当に必要なのは「問いを立てる力」です。本講演では、AIに頼るだけでは得られない学びとして、現場体験や五感を通じた身体知、そしてアナログとデジタルをつなぐ教育の可能性を探ります。効率化の先にある“人間ならではの学び”をどう育むのかを考えます。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[生成AI時代における子どもたちに必要な力とは？]]></summary></entry><entry><title type="html">ぼくのかんがえたさいきょうのCoderDojoワークショップ</title><link href="https://dojocon2025.coderdojo.jp/events/saikyo-coderdojo/" rel="alternate" type="text/html" title="ぼくのかんがえたさいきょうのCoderDojoワークショップ" /><published>2025-08-28T00:00:00+09:00</published><updated>2025-08-28T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/saikyo-coderdojo</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/saikyo-coderdojo/"><![CDATA[<h2 id="対象者">対象者</h2>
 <ul>
   <li>CoderDojoの運営に口を出せる人（チャンピオン、メンター、その他協力者）</li>
   <li>これからCoderDojoを立ち上げたいと思っている人</li>
