@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  {% include head.html %}
+
+  <body>
+    <h1>Redirecting&hellip;</h1>
+    <a href="{{ page.redirect.to }}">Click here if you are not redirected.</a>
+  </body>
+
+  <script>location = "{{ page.redirect.to }}"</script>
+</html>
