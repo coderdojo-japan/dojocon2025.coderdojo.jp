@@ -15,6 +15,7 @@ foobar/baz.html
 
 class Parser(HTMLParser):
     """
+    <h1>Redirecting&hellip;</h1> または
     <meta http-equiv="refresh"> を含むファイルを検査の対象から除外する
     """
 
@@ -33,6 +34,10 @@ class Parser(HTMLParser):
             if attr_name == "http-equiv" and attr_value == "refresh":
                 self.is_redirect = True
                 break
+
+    def handle_data(self, data: str) -> None:
+        if "Redirecting" in data:
+            self.is_redirect = True
 
 
 def is_redirect(path: str) -> bool:
