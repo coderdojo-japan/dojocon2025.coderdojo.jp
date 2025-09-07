@@ -97,7 +97,7 @@
       <ul class="flex flex-col min-h-20 items-stretch gap-2 *:px-6 *:text-center *:text-[20px] *:leading-[1.75] *:text-[#cc8f2e] [&amp;_a]:block">
         <li><a href="/#outline">開催概要</a></li>
         <li><a href="/#session">セッション</a></li>
-        <li><a href="/events/">企画</a></li>
+        <li><a href="/events/">イベント</a></li>
         <li><a href="/contests/">コンテスト</a></li>
         <li><a href="https://suzuri.jp/DojoConJapan" target="_blank">グッズ</a></li>
         <li><a href="/sponsorship/">スポンサー募集</a></li>
@@ -146,7 +146,7 @@
     <ul class="flex flex-wrap min-h-20 items-center p-5 pr-0 justify-center divide-x-2 gap-y-2 *:text-[#cc8f2e] *:px-6">
       <li><a href="/#outline">開催概要</a></li>
       <li><a href="/#session">セッション</a></li>
-      <li><a href="/events/">企画</a></li>
+      <li><a href="/events/">イベント</a></li>
       <li><a href="/contests/">コンテスト</a></li>
       <li><a href="https://suzuri.jp/DojoConJapan" target="_blank">グッズ</a></li>
       <li><a href="/sponsorship/">スポンサー募集</a></li>
@@ -344,7 +344,7 @@
     <li>
       <a href="/contests/how-to-apply/" class="text-sm flex items-center py-4 flex-wrap sm:flex-nowrap gap-y-1">
         <time class="block min-w-24 mr-2">2025.08.02</time>
-        <span class="block min-w-36 mr-6 px-4 py-px rounded-xs bg-[#cc8f2e] text-white text-center">企画</span>
+        <span class="block min-w-36 mr-6 px-4 py-px rounded-xs bg-[#cc8f2e] text-white text-center">イベント</span>
         
           『DojoCon Japan 2025 プログラミングコンテスト』の応募方法を公開しました
         
@@ -354,7 +354,7 @@
     <li>
       <a href="/sponsorship/" class="text-sm flex items-center py-4 flex-wrap sm:flex-nowrap gap-y-1">
         <time class="block min-w-24 mr-2">2025.08.02</time>
-        <span class="block min-w-36 mr-6 px-4 py-px rounded-xs bg-[#cc8f2e] text-white text-center">企画</span>
+        <span class="block min-w-36 mr-6 px-4 py-px rounded-xs bg-[#cc8f2e] text-white text-center">スポンサー</span>
         
           DojoCon Japan 2025 スポンサー募集のお知らせを掲載しました
         
@@ -364,7 +364,7 @@
     <li>
       <a href="/contests/" class="text-sm flex items-center py-4 flex-wrap sm:flex-nowrap gap-y-1">
         <time class="block min-w-24 mr-2">2025.07.21</time>
-        <span class="block min-w-36 mr-6 px-4 py-px rounded-xs bg-[#cc8f2e] text-white text-center">企画</span>
+        <span class="block min-w-36 mr-6 px-4 py-px rounded-xs bg-[#cc8f2e] text-white text-center">イベント</span>
         
           『DojoCon Japan 2025 プログラミングコンテスト』の募集要項を掲載しました
         
@@ -473,23 +473,51 @@
   </div>
 </div>
 
-<div class="max-w-3xl lg:max-w-[1800px] px-8 mx-auto mb-16 flex flex-col lg:flex-row-reverse items-center lg:items-start">
-  <div class="w-full lg:w-2/5 mb-8 lg:mt-15">
+<div class="max-w-3xl lg:max-w-[1800px] px-8 mx-auto mt-20 lg:mt-48 mb-16 flex flex-col lg:flex-row-reverse items-center lg:items-start">
+  <div class="w-full lg:w-2/5 mb-8">
     <div class="lg:max-w-sm lg:place-self-start lg:ml-[10%]">
       <h2 class="text-4xl mb-4 text-center lg:text-left">
-        ワークショップ
-        <span class="block mt-2 text-2xl">WORKSHOP</span>
+        イベント
+        <span class="block mt-2 text-2xl">EVENT</span>
       </h2>
       <p class="leading-7 mb-10">
-        実際にプログラミングやものづくりを体験できるコーナーです。<br />
-        気になっていたことにチャレンジしたり、新しい道具や考え方にふれるチャンス！
+        コンテストや体験型のワークショップ等を企画しています。<br />
+        気になっていたことにチャレンジしたり、新しい道具や考え方にふれるチャンス！<br />
+        詳細は<a href="/events/" class="underline">イベント一覧</a>をご覧ください。
       </p>
     </div>
   </div>
-
-  <div class=" flex item-center justify-center h-[150px] lg:h-[300px] w-full lg:w-3/5">
-    <p class="size-full lg:text-7xl text-2xl text-gray-500 opacity-50 text-center flex items-center justify-center">Coming soon...</p>
-  </div>
+  <ul class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-x-6 gap-y-12 lg:-mt-16 lg:w-3/5">
+    
+    
+    <li class="flex flex-col min-w-0">
+      <a href="/events/nandemo-sodan-cafe/" class="block hover:opacity-80 transition grow">
+      <img class="w-full md:max-h-[160px] md:object-contain " src="/img/events/nandemo-sodan-cafe.webp" alt="CoderDojoなんでも相談カフェ" />
+      <p class="mt-2">CoderDojoなんでも相談カフェ</p>
+      <p class="text-xs mb-2 leading-5">CoderDojoに関わる事であればなんでも相談できるカフェ</p>
+      </a>
+    </li>
+    
+    <li class="flex flex-col min-w-0">
+      <a href="/events/saikyo-coderdojo/" class="block hover:opacity-80 transition grow">
+      <img class="w-full md:max-h-[160px] md:object-contain " src="/img/events/saikyo-coderdojo.webp" alt="ぼくのかんがえたさいきょうのCoderDojoワークショップ" />
+      <p class="mt-2">ぼくのかんがえたさいきょうのCoderDojoワークショップ</p>
+      <p class="text-xs mb-2 leading-5">理想のCoderDojoをみんなで考えるワークショップです。ワークシートに自分が考える理想のCoderDojoを書いて、他の参加者とシェアしましょう。</p>
+      </a>
+    </li>
+    
+    <li class="flex flex-col min-w-0">
+      <a href="/contests/" class="block hover:opacity-80 transition grow">
+      <img class="w-full md:max-h-[160px] md:object-contain " src="/img/contests/cover.webp" alt="DojoCon Japan 2025 プログラミングコンテスト" />
+      <p class="mt-2">DojoCon Japan 2025 プログラミングコンテスト</p>
+      <p class="text-xs mb-2 leading-5">プログラミングコンテストのファイナリストによる発表・来場者による投票・授賞式を行います。<br />
+当日はぜひ白帯・黒帯ニンジャの作品をご覧になり、投票してください！<br />
+※なお、作品応募期間（一次審査）は～9/7まで受け付けています
+</p>
+      </a>
+    </li>
+    
+  </ul>
 </div>
 
 <div class="-mx-4">
