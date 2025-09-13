@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-09-07T23:06:05+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">CoderDojoなんでも相談カフェ</title><link href="https://dojocon2025.coderdojo.jp/events/nandemo-sodan-cafe/" rel="alternate" type="text/html" title="CoderDojoなんでも相談カフェ" /><published>2025-09-05T00:00:00+09:00</published><updated>2025-09-05T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/nandemo-sodan-cafe</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/nandemo-sodan-cafe/"><![CDATA[<p><img src="/img/events/nandemo-sodan-cafe.webp" alt="" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-09-13T23:35:46+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">CoderDojoなんでも相談カフェ</title><link href="https://dojocon2025.coderdojo.jp/events/nandemo-sodan-cafe/" rel="alternate" type="text/html" title="CoderDojoなんでも相談カフェ" /><published>2025-09-05T00:00:00+09:00</published><updated>2025-09-05T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/nandemo-sodan-cafe</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/nandemo-sodan-cafe/"><![CDATA[<p><img src="/img/events/nandemo-sodan-cafe.webp" alt="" /></p>
 
 <p class="my-8">
   「CoderDojoなんでも相談カフェ」は、<strong>CoderDojoに関わるあらゆることを気軽に相談できる交流スペースです。</strong><br />
@@ -553,7 +553,14 @@ li {
 <p>
   ぜひ、多くの方々と一緒に DojoCon の熱気を九州の地で感じられるよう、
   ご支援・ご協賛をお待ちしております。
-</p>]]></content><author><name></name></author><category term="news" /><category term="スポンサー" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">DojoCon Japan 2025 プログラミングコンテスト</title><link href="https://dojocon2025.coderdojo.jp/contests/" rel="alternate" type="text/html" title="DojoCon Japan 2025 プログラミングコンテスト" /><published>2025-07-21T00:00:00+09:00</published><updated>2025-07-21T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/contest-outline</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/contests/"><![CDATA[<p>
+</p>]]></content><author><name></name></author><category term="news" /><category term="スポンサー" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">DojoCon Japan 2025 プログラミングコンテスト</title><link href="https://dojocon2025.coderdojo.jp/contests/" rel="alternate" type="text/html" title="DojoCon Japan 2025 プログラミングコンテスト" /><published>2025-07-21T00:00:00+09:00</published><updated>2025-07-21T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/contest-outline</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/contests/"><![CDATA[<p class="border rounded px-5 py-3 mb-5">
+  DojoCon Japan 2025 プログラミングコンテストの作品募集は2025年9月7日をもって終了しました。<br />
+  たくさんのご応募ありがとうございました。<br />
+  応募作品の一覧は下記のページをご覧ください。<br />
+  <a href="https://protopedia.net/event/dojocon2025" target="_blank">DojoCon Japan 2025 応募作品</a>
+</p>
+
+<p>
   子ども達に他の地域の文化やコミュニティーにふれてもらいたい。
   プログラミングを通じて様々な経験をしてもらいたい。
   その思いから、『 DojoCon Japan 2025 プログラミングコンテスト 』を開催いたします。
@@ -772,7 +779,7 @@ li {
 
 <p>
   コンテストに関するお問い合わせは <a href="https://forms.gle/t9ctDcuZZ8cqqFtR6" target="_blank">DojoCon Japan 2025 お問い合わせフォーム</a> にお願いいたします。
-</p>]]></content><author><name></name></author><category term="news" /><category term="イベント" /><summary type="html"><![CDATA[子ども達に他の地域の文化やコミュニティーにふれてもらいたい。 プログラミングを通じて様々な経験をしてもらいたい。 その思いから、『 DojoCon Japan 2025 プログラミングコンテスト 』を開催いたします。 一次審査で選ばれた作品は 2025年10月25日(土) に福岡県久留米市で行われる DojoCon Japan 2025 で作品発表していただきます。]]></summary></entry><entry><title type="html">DojoCon Japan 2025 プログラミングコンテスト 参加規約</title><link href="https://dojocon2025.coderdojo.jp/contests/terms/" rel="alternate" type="text/html" title="DojoCon Japan 2025 プログラミングコンテスト 参加規約" /><published>2025-07-21T00:00:00+09:00</published><updated>2025-07-21T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/contests/contest-terms</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/contests/terms/"><![CDATA[<p><img src="/img/common/coderdojo-nameplate.webp" loading="lazy" alt="DojoCon Japan Cover Photo" title="DojoCon Japan Cover Photo" class="mb-4" /></p>
+</p>]]></content><author><name></name></author><category term="news" /><category term="イベント" /><summary type="html"><![CDATA[DojoCon Japan 2025 プログラミングコンテストの作品募集は2025年9月7日をもって終了しました。 たくさんのご応募ありがとうございました。 応募作品の一覧は下記のページをご覧ください。 DojoCon Japan 2025 応募作品]]></summary></entry><entry><title type="html">DojoCon Japan 2025 プログラミングコンテスト 参加規約</title><link href="https://dojocon2025.coderdojo.jp/contests/terms/" rel="alternate" type="text/html" title="DojoCon Japan 2025 プログラミングコンテスト 参加規約" /><published>2025-07-21T00:00:00+09:00</published><updated>2025-07-21T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/contests/contest-terms</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/contests/terms/"><![CDATA[<p><img src="/img/common/coderdojo-nameplate.webp" loading="lazy" alt="DojoCon Japan Cover Photo" title="DojoCon Japan Cover Photo" class="mb-4" /></p>
 
 <p>
   「DojoCon Japan 2025プログラミングコンテスト」（以下「本⼤会」といいます）は、DojoCon Japan実⾏委員会（併せて以下「主催者」といいます）が主催するプログラミングコンテストです。
