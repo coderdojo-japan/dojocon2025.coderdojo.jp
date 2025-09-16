@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-09-13T23:35:46+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">CoderDojoなんでも相談カフェ</title><link href="https://dojocon2025.coderdojo.jp/events/nandemo-sodan-cafe/" rel="alternate" type="text/html" title="CoderDojoなんでも相談カフェ" /><published>2025-09-05T00:00:00+09:00</published><updated>2025-09-05T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/nandemo-sodan-cafe</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/nandemo-sodan-cafe/"><![CDATA[<p><img src="/img/events/nandemo-sodan-cafe.webp" alt="" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-09-16T16:58:38+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">Blenderでシマエナガを作ろう！</title><link href="https://dojocon2025.coderdojo.jp/events/blender-shimaenaga/" rel="alternate" type="text/html" title="Blenderでシマエナガを作ろう！" /><published>2025-09-14T09:00:00+09:00</published><updated>2025-09-14T09:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/blender-shimaenaga</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/blender-shimaenaga/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/blender-shimaenaga.webp" alt="カバー画像 Blenderでシマエナガを作ろう！" /></p>
+
+<p>無料で使える3Dソフト「Blender」を使って、かわいい鳥“シマエナガ”をモデリングします。<br />
+初めてでも大丈夫。みんなで楽しく基本操作を身につけて、オリジナルのシマエナガを作っていきましょう！</p>
+
+<h3 id="ワークショップの内容">ワークショップの内容</h3>
+
+<ul>
+  <li>Blenderの紹介
+    <ul>
+      <li>Blenderってなに？</li>
+      <li>画面の見方をサクッと確認</li>
+    </ul>
+  </li>
+  <li>題材説明（シマエナガ）
+    <ul>
+      <li>まるい体</li>
+      <li>くりっと目</li>
+      <li>ふわっと羽</li>
+    </ul>
+  </li>
+  <li>実践
+    <ul>
+      <li>からだを作る</li>
+      <li>顔・目・羽を作る</li>
+      <li>色と明るさを整える</li>
+    </ul>
+  </li>
+  <li>発表・感想
+    <ul>
+      <li>みんなの作品を見せ合う</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="対象">対象</h3>
+
+<p>PCの基本操作ができる方</p>
+
+<h3 id="持ち物">持ち物</h3>
+
+<ul>
+  <li>BlenderがインストールされたPC
+    <ul>
+      <li>Blenderは v4.5.3 （最新安定版）を使用します</li>
+    </ul>
+  </li>
+  <li>PCの電源アダプタ</li>
+  <li>ホイール付きマウス</li>
+</ul>
+
+<p>貸出PCも用意しています</p>
+
+<h3 id="申し込み">申し込み</h3>
+
+<p>本ワークショップは事前の申し込みが必要です<br />
+定員 6 名</p>
+
+<p><a href="https://dojocon-japan.doorkeeper.jp/events/189856" target="_blank">参加申込（Doorkeeper）</a></p>]]></content><author><name></name></author><category term="event" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">CoderDojoなんでも相談カフェ</title><link href="https://dojocon2025.coderdojo.jp/events/nandemo-sodan-cafe/" rel="alternate" type="text/html" title="CoderDojoなんでも相談カフェ" /><published>2025-09-05T00:00:00+09:00</published><updated>2025-09-05T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/nandemo-sodan-cafe</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/nandemo-sodan-cafe/"><![CDATA[<p><img src="/img/events/nandemo-sodan-cafe.webp" alt="" /></p>
 
 <p class="my-8">
   「CoderDojoなんでも相談カフェ」は、<strong>CoderDojoに関わるあらゆることを気軽に相談できる交流スペースです。</strong><br />
