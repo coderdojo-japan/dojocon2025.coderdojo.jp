@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-09-24T12:09:15+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/1/" rel="alternate" type="text/html" title="セッション" /><published>2025-09-20T00:00:00+09:00</published><updated>2025-09-20T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session1</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/1/"><![CDATA[<h1 id="エンジニアではない私がcoderdojoを立ち上げた">エンジニアではない私がCoderDojoを立ち上げた</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-09-25T05:32:11+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">Gold, Silver, Bronze スポンサーの募集を終了しました</title><link href="https://dojocon2025.coderdojo.jp/news/sponsorship-closed/" rel="alternate" type="text/html" title="Gold, Silver, Bronze スポンサーの募集を終了しました" /><published>2025-09-24T09:00:00+09:00</published><updated>2025-09-24T09:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/news/sponsorship-closed</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/news/sponsorship-closed/"><![CDATA[<p>
+  DojoCon Japan 2025 Gold, Silver, Bronze スポンサーの募集は 2025年9月24日 をもって終了しました。<br />
+  ご検討頂いた方を含め、多数のご応募頂きありがとうございました。<br />
+  スポンサーの一覧は下記のページをご覧ください。<br />
+  <a href="/sponsorship/list/">スポンサー紹介</a>
+</p>
+
+<p class="mt-6">
+  また、引き続き個人スポンサーは募集を継続していますので、ご検討頂いている方はお早めにご登録ください。<br />
+  <a href="https://dojocon-japan.doorkeeper.jp/events/188180" target="_blank">個人スポンサーの応募</a>
+</p>]]></content><author><name></name></author><category term="news" /><category term="スポンサー" /><summary type="html"><![CDATA[DojoCon Japan 2025 Gold, Silver, Bronze スポンサーの募集は 2025年9月24日 をもって終了しました。 ご検討頂いた方を含め、多数のご応募頂きありがとうございました。 スポンサーの一覧は下記のページをご覧ください。 スポンサー紹介]]></summary></entry><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/1/" rel="alternate" type="text/html" title="セッション" /><published>2025-09-20T00:00:00+09:00</published><updated>2025-09-20T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session1</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/1/"><![CDATA[<h1 id="エンジニアではない私がcoderdojoを立ち上げた">エンジニアではない私がCoderDojoを立ち上げた</h1>
 <h2 id="吉田彩よしだ-あや">吉田彩（よしだ あや）</h2>
 <p>CoderDojo早良 チャンピオン</p>
 <div class="flex max-w-100 mx-auto my-4 justify-center">
@@ -614,6 +624,13 @@ li {
 </div>
 
 <p>不明点があれば、お問い合わせフォーム（<a target="_blank" href="https://forms.gle/t9ctDcuZZ8cqqFtR6">https://forms.gle/t9ctDcuZZ8cqqFtR6</a>）にてお知らせください。</p>]]></content><author><name></name></author><category term="news" /><category term="イベント" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">DojoCon Japan 2025 スポンサー募集のお知らせ</title><link href="https://dojocon2025.coderdojo.jp/sponsorship/" rel="alternate" type="text/html" title="DojoCon Japan 2025 スポンサー募集のお知らせ" /><published>2025-08-02T00:00:00+09:00</published><updated>2025-08-02T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sponsor-recruit-started</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sponsorship/"><![CDATA[<p><img src="/img/common/coderdojo-nameplate.webp" class="mb-4" loading="lazy" alt="DojoCon Japan Cover Photo" title="DojoCon Japan Cover Photo" /></p>
+
+<p class="border rounded px-5 py-3 mb-5">
+  DojoCon Japan 2025 Gold, Silver, Bronze スポンサーの募集は 2025年9月24日 をもって終了しました。<br />
+  ご検討頂いた方を含め、多数のご応募頂きありがとうございました。<br />
+  スポンサーの一覧は下記のページをご覧ください。<br />
+  <a href="/sponsorship/list/">スポンサー紹介</a>
+</p>
 
 <p class="mb-4">DojoCon Japan 2025 のスポンサー募集を開始いたしました。</p>
 
