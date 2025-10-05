@@ -55,3 +55,11 @@
   tag: イベント
   url: /events/local-tech-communities/
   date: 2025-10-02
+
+- title: <ruby>micro:bit<rt>マイクロビット</rt></ruby> でフルカラーLED <ruby>NeoPixel<rt>ネオピクセル</rt></ruby> を自在にコントロール！
+  outline: |
+    小さなコンピュータ micro:bit を使って、フルカラーLED NeoPixel をコントロールし光らせます。
+  img: /img/events/microbit-neopixel-control.webp
+  tag: ワークショップ
+  url: /events/microbit-neopixel-control/
+  date: 2025-10-04
