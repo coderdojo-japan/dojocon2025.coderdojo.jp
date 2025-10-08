@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-09T01:42:54+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">個人スポンサーの募集を終了しました</title><link href="https://dojocon2025.coderdojo.jp/news/individual-sponsor-closed/" rel="alternate" type="text/html" title="個人スポンサーの募集を終了しました" /><published>2025-10-09T00:00:00+09:00</published><updated>2025-10-09T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/news/individual-sponsor-closed</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/news/individual-sponsor-closed/"><![CDATA[<p><img src="/img/common/coderdojo-nameplate.webp" class="mb-4" loading="lazy" alt="DojoCon Japan Cover Photo" title="DojoCon Japan Cover Photo" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-09T01:46:08+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう</title><link href="https://dojocon2025.coderdojo.jp/events/doodle3d/" rel="alternate" type="text/html" title="Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう" /><published>2025-10-09T00:00:00+09:00</published><updated>2025-10-09T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/doodle3d</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/doodle3d/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/doodle3d.webp" alt="Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう" /></p>
+
+<p>お絵描きするように3Dモデルを作ることができる「Doodle3D」の使い方を学びましょう。<br />
+3Dプリンタの動く様子も見ることができる楽しいワークショップです。</p>
+
+<p>印刷した作品はお持ち帰りいただけます。</p>
+
+<h2 id="持ち物">持ち物</h2>
+
+<p>iPad をお持ちの方はご持参ください。<br />
+iPad は貸し出しも可能です。</p>
+
+<h2 id="申し込み">申し込み</h2>
+
+<p>本ワークショップには事前申込と当日受付の2枠をご用意しています。</p>
+
+<table class="border-separate border-spacing-x-1 sm:border-spacing-x-4">
+  <tr>
+    <td>11:00-12:00</td>
+    <td>事前申込 (<a href="https://dojocon-japan.doorkeeper.jp/events/191552" target="_blank">Doorkeeper</a>)</td>
+  </tr>
+  <tr>
+    <td>12:00-13:00</td>
+    <td>当日受付</td>
+  </tr>
+</table>]]></content><author><name></name></author><category term="event" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">個人スポンサーの募集を終了しました</title><link href="https://dojocon2025.coderdojo.jp/news/individual-sponsor-closed/" rel="alternate" type="text/html" title="個人スポンサーの募集を終了しました" /><published>2025-10-09T00:00:00+09:00</published><updated>2025-10-09T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/news/individual-sponsor-closed</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/news/individual-sponsor-closed/"><![CDATA[<p><img src="/img/common/coderdojo-nameplate.webp" class="mb-4" loading="lazy" alt="DojoCon Japan Cover Photo" title="DojoCon Japan Cover Photo" /></p>
 
 <p>DojoCon Japan 2025 個人スポンサーの募集は 2025年10月9日 をもって終了しました。<br />
 ご検討頂いた方を含め、多数のご応募頂きありがとうございました。</p>
