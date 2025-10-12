@@ -101,7 +101,7 @@
     {% for sponsor in inkind_sponsors %}
       {% if sponsor.link %}
         <a
-          class="max-w-[{{270 | times:sponsor.logo_scale | round}}px] w-full flex flex-col transition-all duration-200 hover:scale-105 cursor-pointer"
+          class="w-[270px] flex flex-col transition-all duration-200 hover:scale-105 cursor-pointer"
           style="transform-style: preserve-3d;"
           href="{{ sponsor.link }}"
           target="_blank" rel="noopener noreferrer"
@@ -112,7 +112,7 @@
           <p class="w-full text-center break-keep">{{ sponsor.tool }}<wbr>のご提供</p>
         </a>
       {% else %}
-        <div class="max-w-[{{270 | times:sponsor.logo_scale | round}}px] w-full flex flex-col">
+        <div class="w-[270px] flex flex-col">
           <div class="flex-grow w-full flex items-center justify-center">
             <img class="w-full mx-auto mb-3" src="{{ sponsor.logo }}" alt="{{ sponsor.name | append: "(" | append: sponsor.tool | append:")" | strip_html }}のロゴ">
           </div>
@@ -122,6 +122,23 @@
     {% endfor %}
   </div>
 
+  <h3 class="text-2xl mt-20 mb-8 text-center">個人スポンサー
+    <span class="block text-base mt-1">INDIVIDUAL SPONSOR</span>
+  </h3>
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-xl mx-auto mb-16">
+    {% for sponsor in individual_sponsors %}
+      <div class="flex items-center justify-center">
+        {% if sponsor.link %}
+          <a href="{{ sponsor.link }}" target="_blank" rel="noopener noreferrer"
+            class="block text-2xl font-bold text-center transition-transform duration-200 hover:scale-110 cursor-pointer">
+            {{ sponsor.name }}
+          </a>
+        {% else %}
+          <span class="block text-2xl font-bold text-center">{{ sponsor.name }}</span>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
   <div class="mx-auto mb-8">
     {% include button.html href="/sponsorship/list/" label="スポンサーの紹介を見る" %}
   </div>
