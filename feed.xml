@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-11T10:02:39+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう</title><link href="https://dojocon2025.coderdojo.jp/events/doodle3d/" rel="alternate" type="text/html" title="Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう" /><published>2025-10-09T00:00:00+09:00</published><updated>2025-10-09T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/doodle3d</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/doodle3d/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/doodle3d.webp" alt="Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-12T14:05:29+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/3/" rel="alternate" type="text/html" title="セッション" /><published>2025-10-25T00:00:00+09:00</published><updated>2025-10-25T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session3</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/3/"><![CDATA[<h1 id="みんなのセッション">みんなのセッション</h1>
+<h2 id="宮島-衣瑛進行役">宮島 衣瑛(進行役)</h2>
+<p>CoderDojo Japan 理事</p>
+<div class="flex max-w-100 mx-auto my-4 justify-center">
+  <img class="w-full" src="/img/sessions/profile/miyajima-kirie.webp" alt="宮島 衣瑛" />
+</div>
+
+<h2 id="概要">概要</h2>
+<p>DojoCon Japan 2025 では、一昨年、昨年に引き続き CoderDojo に参加するみなさんが中心のセッション「みんなのセッション」を開催します！</p>
+
+<p>みんなのセッションは、スピーカーさんの話を聞くのではなく、みなさんが体験したこと、やってみたこと、感じたことをシェアする場です。</p>
+
+<p>セッションを通して聴いたこと、感じたことの中から皆さんそれぞれの答えを見つけてください。そして、それらがご自身や CoderDojo での活動の中で活かせるものになれば幸いです。</p>
+
+<p>自分の体験や考えをシェアしたい、他の人の意見を聞きたい、どちらのスタンスでの参加も歓迎です。お気軽にご参加ください。</p>
+
+<h3 id="テーマ">テーマ</h3>
+
+<h4 id="生成aiとプログラミング教育ぶっちゃけどう思う">「生成AIとプログラミング教育、ぶっちゃけどう思う？」</h4>
+
+<p>基調講演で宮島がお話したことを肴に、日頃の CoderDojo でどのような AI の使い方をしているか、子どもたちの様子はどう変わっているか、などなど、多様な視点から議論を深めていければと思います。</p>
+
+<div class="flex max-w-100 mx-auto my-8 justify-center">
+  <img class="w-full" src="/img/sessions/thumbnails/session3.webp" alt="みんなのセッション" />
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[みんなのセッション 宮島 衣瑛(進行役) CoderDojo Japan 理事]]></summary></entry><entry><title type="html">Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう</title><link href="https://dojocon2025.coderdojo.jp/events/doodle3d/" rel="alternate" type="text/html" title="Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう" /><published>2025-10-09T00:00:00+09:00</published><updated>2025-10-09T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/doodle3d</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/doodle3d/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/doodle3d.webp" alt="Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう" /></p>
 
 <p>お絵描きするように3Dモデルを作ることができる「Doodle3D」の使い方を学びましょう。<br />
 3Dプリンタの動く様子も見ることができる楽しいワークショップです。</p>
