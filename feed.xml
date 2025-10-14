@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-14T10:42:42+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/3/" rel="alternate" type="text/html" title="セッション" /><published>2025-10-25T00:00:00+09:00</published><updated>2025-10-25T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session3</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/3/"><![CDATA[<h1 id="みんなのセッション">みんなのセッション</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-14T22:00:35+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/3/" rel="alternate" type="text/html" title="セッション" /><published>2025-10-25T00:00:00+09:00</published><updated>2025-10-25T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session3</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/3/"><![CDATA[<h1 id="みんなのセッション">みんなのセッション</h1>
 <h2 id="宮島-衣瑛進行役">宮島 衣瑛(進行役)</h2>
 <p>CoderDojo Japan 理事</p>
 <div class="flex max-w-100 mx-auto my-4 justify-center">
@@ -22,7 +22,30 @@
 
 <div class="flex max-w-100 mx-auto my-8 justify-center">
   <img class="w-full" src="/img/sessions/thumbnails/session3.webp" alt="みんなのセッション" />
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[みんなのセッション 宮島 衣瑛(進行役) CoderDojo Japan 理事]]></summary></entry><entry><title type="html">懇親会募集の開始とLT募集のお知らせ</title><link href="https://dojocon2025.coderdojo.jp/news/party-and-lt-announcement/" rel="alternate" type="text/html" title="懇親会募集の開始とLT募集のお知らせ" /><published>2025-10-14T00:00:00+09:00</published><updated>2025-10-14T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/news/party-and-lt-announcement</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/news/party-and-lt-announcement/"><![CDATA[<p>DojoCon Japan 2025の夜、会場と同じ久留米シティプラザ4階にて懇親会を開催します！<br />
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[みんなのセッション 宮島 衣瑛(進行役) CoderDojo Japan 理事]]></summary></entry><entry><title type="html">Coolest Projects Japan 2026 のご紹介</title><link href="https://dojocon2025.coderdojo.jp/events/coolest-projects/" rel="alternate" type="text/html" title="Coolest Projects Japan 2026 のご紹介" /><published>2025-10-15T00:00:00+09:00</published><updated>2025-10-15T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/coolest-projects</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/coolest-projects/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/coolest-projects.webp" alt="Coolest Projects Japan 2026 のご紹介" /></p>
+
+<p>
+  2026年3月29日（日）、愛知県名古屋市の なごのキャンパス にて、「Coolest Projects Japan 2026」を開催します！
+</p>
+
+<p class="mt-4">
+  このイベントは、18歳以下の若者による作品展示会です。<br />
+  子どもや学生たちが自分のアイデアや技術をかたちにし、お互いの作品を見せ合って楽しむ、テクノロジー版の文化祭のようなイベントです。
+</p>
+
+<p class="mt-4">
+  作品の完成度や優劣を競うものではなく、創作を通じて出会い、学び、刺激し合うことを目的としています。<br />
+  同世代の参加者同士が自然につながれる雰囲気づくりを大切にしています。
+</p>
+
+<p class="mt-4">
+  Coolest Projects Japan は、英国 Raspberry Pi Foundation （ラズベリーパイ財団） の公式ライセンスのもとで開催され、世界各地で行われている Coolest Projects の 日本版 です。
+</p>
+
+<p class="mt-4">
+  Coolest Projects Japan は DojoCon Japan 2025 にブースを出展します。<br />
+  イベントや応募要項の詳細についてご興味のある方はぜひブースにお越しください。
+</p>]]></content><author><name></name></author><category term="event" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">懇親会募集の開始とLT募集のお知らせ</title><link href="https://dojocon2025.coderdojo.jp/news/party-and-lt-announcement/" rel="alternate" type="text/html" title="懇親会募集の開始とLT募集のお知らせ" /><published>2025-10-14T00:00:00+09:00</published><updated>2025-10-14T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/news/party-and-lt-announcement</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/news/party-and-lt-announcement/"><![CDATA[<p>DojoCon Japan 2025の夜、会場と同じ久留米シティプラザ4階にて懇親会を開催します！<br />
 全国から集まった仲間と、食事を楽しみながら交流を深めましょう！</p>
 
 <p>また、懇親会内では<strong>ライトニングトーク（LT）</strong>も実施予定です。<br />
