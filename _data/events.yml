@@ -3,7 +3,7 @@
     無料で使える3Dソフト「Blender」を使って、かわいい鳥“シマエナガ”をモデリングします。<br>
     初めてでも大丈夫。みんなで楽しく基本操作を身につけて、オリジナルのシマエナガを作っていきましょう！
   img: /img/events/blender-shimaenaga.webp
-  tag: イベント
+  tag: ワークショップ
   url: /events/blender-shimaenaga/
   date: 2025-09-14
 
@@ -36,7 +36,7 @@
     DojoCon Japan 2025 では LT 大会を開催します。<br>
     好奇心をくすぐるような「好き」を共有しましょう。
   img: /img/events/dojocon-lt-junior.webp
-  tag: ワークショップ
+  tag: イベント
   url: /events/dojocon-lt-junior/
   date: 2025-09-28
 
@@ -45,14 +45,14 @@
     DojoCon Japan 2025 では LT 大会を開催します。<br>
     好奇心をくすぐるような「好き」を共有しましょう。
   img: /img/events/dojocon-lt-senior.webp
-  tag: ワークショップ
+  tag: イベント
   url: /events/dojocon-lt-senior/
   date: 2025-09-28
 
 - title: 地域の技術コミュニティ紹介展示
   outline: DojoCon九州初開催！開催地である久留米の周辺で活動する技術コミュニティを展示でご紹介します。
   img: /img/events/local-tech-communities/thumbnail.webp
-  tag: イベント
+  tag: ブース
   url: /events/local-tech-communities/
   date: 2025-10-02
 
@@ -79,3 +79,19 @@
   tag: ワークショップ
   url: /events/ai-picture-books/
   date: 2025-10-11
+
+- title: プログラミングロボット Root で遊ぼう
+  outline: |
+    <ruby>Root<rt>ルート</rt></ruby>というロボットを動かします。<br>
+    プログラミングでミッションをクリアーしよう！
+  img: /img/events/irobot-root.webp
+  tag: ワークショップ
+  url: /events/irobot-root/
+  date: 2025-10-13
+
+- title: Coolest Projects Japan 2026 のご紹介
+  outline: 世界最大級の U18 テックフェス Coolest Projects を日本初開催します！
+  img: /img/events/coolest-projects.webp
+  tag: ブース
+  url: /events/coolest-projects/
+  date: 2025-10-15
