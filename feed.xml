@@ -1,28 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-16T23:15:30+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/3/" rel="alternate" type="text/html" title="セッション" /><published>2025-10-25T00:00:00+09:00</published><updated>2025-10-25T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session3</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/3/"><![CDATA[<h1 id="みんなのセッション">みんなのセッション</h1>
-<h2 id="宮島-衣瑛進行役">宮島 衣瑛(進行役)</h2>
-<p>CoderDojo Japan 理事</p>
-<div class="flex max-w-100 mx-auto my-4 justify-center">
-  <img class="w-full" src="/img/sessions/profile/miyajima-kirie.webp" alt="宮島 衣瑛" />
-</div>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-18T16:28:44+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/4/" rel="alternate" type="text/html" title="セッション" /><published>2025-10-17T00:00:00+09:00</published><updated>2025-10-17T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session4</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/4/"><![CDATA[<h1 id="九州dojo座談会">九州Dojo座談会</h1>
 
 <h2 id="概要">概要</h2>
-<p>DojoCon Japan 2025 では、一昨年、昨年に引き続き CoderDojo に参加するみなさんが中心のセッション「みんなのセッション」を開催します！</p>
+<p>九州には各地にDojoがあるのですが、それぞれのDojoは距離が遠かったり、日程が合わないなどの理由でなかなかコラボしにくかったりします。<br />
+DojoConの場を使って、九州Dojoの特徴や雰囲気などを語り合います！</p>
 
-<p>みんなのセッションは、スピーカーさんの話を聞くのではなく、みなさんが体験したこと、やってみたこと、感じたことをシェアする場です。</p>
-
-<p>セッションを通して聴いたこと、感じたことの中から皆さんそれぞれの答えを見つけてください。そして、それらがご自身や CoderDojo での活動の中で活かせるものになれば幸いです。</p>
-
-<p>自分の体験や考えをシェアしたい、他の人の意見を聞きたい、どちらのスタンスでの参加も歓迎です。お気軽にご参加ください。</p>
-
-<h3 id="テーマ">テーマ</h3>
-
-<h4 id="生成aiとプログラミング教育ぶっちゃけどう思う">「生成AIとプログラミング教育、ぶっちゃけどう思う？」</h4>
-
-<p>基調講演で宮島がお話したことを肴に、日頃の CoderDojo でどのような AI の使い方をしているか、子どもたちの様子はどう変わっているか、などなど、多様な視点から議論を深めていければと思います。</p>
-
-<div class="flex max-w-100 mx-auto my-8 justify-center">
-  <img class="w-full" src="/img/sessions/thumbnails/session3.webp" alt="みんなのセッション" />
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[みんなのセッション 宮島 衣瑛(進行役) CoderDojo Japan 理事]]></summary></entry><entry><title type="html">タイムテーブルの公開</title><link href="https://dojocon2025.coderdojo.jp/news/time-table/" rel="alternate" type="text/html" title="タイムテーブルの公開" /><published>2025-10-16T00:00:00+09:00</published><updated>2025-10-16T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/news/time-table</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/news/time-table/"><![CDATA[<p>お待たせしました。DojoCon Japan 2025 のタイムテーブルを公開しました。<br />
+<div class="flex max-w-150 mx-auto my-8 justify-center">
+  <img class="w-full" src="/img/sessions/thumbnails/session4.webp" alt="九州Dojo座談会" />
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[九州Dojo座談会]]></summary></entry><entry><title type="html">タイムテーブルの公開</title><link href="https://dojocon2025.coderdojo.jp/news/time-table/" rel="alternate" type="text/html" title="タイムテーブルの公開" /><published>2025-10-16T00:00:00+09:00</published><updated>2025-10-16T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/news/time-table</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/news/time-table/"><![CDATA[<p>お待たせしました。DojoCon Japan 2025 のタイムテーブルを公開しました。<br />
 各セッション、ワークショップの詳細ページも順次公開していますので、ぜひご覧ください。</p>
 <p class="mt-6">
   <a href="/time-table/">タイムテーブル</a>
@@ -74,7 +58,31 @@
 <h3 id="申し込み">申し込み</h3>
 
 <p>本ワークショップは事前の申し込みは不要です。<br />
-会場にて 13:30 から 14:40 まで随時受付</p>]]></content><author><name></name></author><category term="event" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう</title><link href="https://dojocon2025.coderdojo.jp/events/doodle3d/" rel="alternate" type="text/html" title="Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう" /><published>2025-10-09T00:00:00+09:00</published><updated>2025-10-09T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/doodle3d</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/doodle3d/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/doodle3d.webp" alt="Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう" /></p>
+会場にて 13:30 から 14:40 まで随時受付</p>]]></content><author><name></name></author><category term="event" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/3/" rel="alternate" type="text/html" title="セッション" /><published>2025-10-12T00:00:00+09:00</published><updated>2025-10-12T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session3</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/3/"><![CDATA[<h1 id="みんなのセッション">みんなのセッション</h1>
+<h2 id="宮島-衣瑛進行役">宮島 衣瑛(進行役)</h2>
+<p>CoderDojo Japan 理事</p>
+<div class="flex max-w-100 mx-auto my-4 justify-center">
+  <img class="w-full" src="/img/sessions/profile/miyajima-kirie.webp" alt="宮島 衣瑛" />
+</div>
+
+<h2 id="概要">概要</h2>
+<p>DojoCon Japan 2025 では、一昨年、昨年に引き続き CoderDojo に参加するみなさんが中心のセッション「みんなのセッション」を開催します！</p>
+
+<p>みんなのセッションは、スピーカーさんの話を聞くのではなく、みなさんが体験したこと、やってみたこと、感じたことをシェアする場です。</p>
+
+<p>セッションを通して聴いたこと、感じたことの中から皆さんそれぞれの答えを見つけてください。そして、それらがご自身や CoderDojo での活動の中で活かせるものになれば幸いです。</p>
+
+<p>自分の体験や考えをシェアしたい、他の人の意見を聞きたい、どちらのスタンスでの参加も歓迎です。お気軽にご参加ください。</p>
+
+<h3 id="テーマ">テーマ</h3>
+
+<h4 id="生成aiとプログラミング教育ぶっちゃけどう思う">「生成AIとプログラミング教育、ぶっちゃけどう思う？」</h4>
+
+<p>基調講演で宮島がお話したことを肴に、日頃の CoderDojo でどのような AI の使い方をしているか、子どもたちの様子はどう変わっているか、などなど、多様な視点から議論を深めていければと思います。</p>
+
+<div class="flex max-w-150 mx-auto my-8 justify-center">
+  <img class="w-full" src="/img/sessions/thumbnails/session3.webp" alt="みんなのセッション" />
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[みんなのセッション 宮島 衣瑛(進行役) CoderDojo Japan 理事]]></summary></entry><entry><title type="html">Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう</title><link href="https://dojocon2025.coderdojo.jp/events/doodle3d/" rel="alternate" type="text/html" title="Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう" /><published>2025-10-09T00:00:00+09:00</published><updated>2025-10-09T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/doodle3d</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/doodle3d/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/doodle3d.webp" alt="Doodle3Dでお絵描きしたものを3Dプリンタで印刷してみよう" /></p>
 
 <p>お絵描きするように3Dモデルを作ることができる「Doodle3D」の使い方を学びましょう。<br />
 3Dプリンタの動く様子も見ることができる楽しいワークショップです。</p>
@@ -377,7 +385,7 @@ iPad は貸し出しも可能です。</p>
 
 <h2 id="概要">概要</h2>
 <p>プログラミングも出来ない、PCのことも詳しくない、8歳と4歳の子どものママでしかなかった私が、CoderDojo久留米と出会い、息子と通い、そこで出会った人達に憧れ、自分も新しい事にチャレンジしたい、そしてその姿を子どもに見せたいと思いCoderDojo 早良を立ち上げました。しかし知識がない私は立ち上げと運営に苦戦する日々、そんな時に息子がメンターとして助けてくれるように。初回から参加応募30人を超え、チャンピオンに知識がなくとも、みんなで探求する唯一無二のCoderDojo早良です。</p>
-<div class="flex max-w-100 mx-auto my-8 justify-center">
+<div class="flex max-w-150 mx-auto my-8 justify-center">
   <img class="w-full" src="/img/sessions/thumbnails/session1.webp" alt="" />
 </div>]]></content><author><name></name></author><summary type="html"><![CDATA[エンジニアではない私がCoderDojoを立ち上げた 吉田彩（よしだ あや） CoderDojo早良 チャンピオン]]></summary></entry><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/2/" rel="alternate" type="text/html" title="セッション" /><published>2025-09-20T00:00:00+09:00</published><updated>2025-09-20T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session2</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/2/"><![CDATA[<h1 id="coderdojoに救われて現在親子でメンターをやっている話">CoderDojoに救われて現在親子でメンターをやっている話</h1>
 <h2 id="とり子memetan">とり子・memetan</h2>
@@ -398,7 +406,7 @@ memetan（息子）：コンテスト受賞歴多数、13歳で未踏Jr採択、
 好奇心が強すぎる子への関わりについて、母親の立場から自身の経験をお話します。
 偉そうに言える立場ではないですが経験談として参考程度に聞いていただければ幸いです。<br />
 息子本人からも開発の楽しさについて語ります。</p>
-<div class="flex max-w-100 mx-auto my-8 justify-center">
+<div class="flex max-w-150 mx-auto my-8 justify-center">
   <img class="w-full" src="/img/sessions/thumbnails/session2.webp" alt="CoderDojoに救われて現在親子でメンターをやっている話" />
 </div>]]></content><author><name></name></author><summary type="html"><![CDATA[CoderDojoに救われて現在親子でメンターをやっている話 とり子・memetan とり子：CoderDojo香椎 CoderDojoさが メンター memetan：CoderDojo香椎 CoderDojoさが ユースメンター]]></summary></entry><entry><title type="html">Blenderでシマエナガを作ろう！</title><link href="https://dojocon2025.coderdojo.jp/events/blender-shimaenaga/" rel="alternate" type="text/html" title="Blenderでシマエナガを作ろう！" /><published>2025-09-14T00:00:00+09:00</published><updated>2025-09-14T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/blender-shimaenaga</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/blender-shimaenaga/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/blender-shimaenaga.webp" alt="カバー画像 Blenderでシマエナガを作ろう！" /></p>
 
