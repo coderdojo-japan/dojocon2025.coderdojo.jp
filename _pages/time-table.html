@@ -30,7 +30,7 @@ title: タイムテーブル
           {% comment %} ルーム単位でヘッダーを描画 {% endcomment %}
           {% for room in rooms %}
             <th scope="col"
-                class="ttable__th ttable__th--room"
+                class="ttable__th ttable__th--room text-sm"
                 style="--room-color: {{ room.style.color | default: '#c43b3b' }};">
               <span class="ttable__room-cap">{{ room.name }}</span>
             </th>
