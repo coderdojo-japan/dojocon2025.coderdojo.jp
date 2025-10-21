@@ -9,10 +9,17 @@ tags: イベント
 ---
 
 <p class="border rounded px-5 py-3 mb-5">
+  DojoCOn Japan 2025 プログラミングコンテストの受賞作品が決定しました。<br>
+  受賞細工品の一覧は下記のページをご覧ください。<br>
+  <a href="/contests/winners/">DojoCon Japan 2025 プログラミングコンテスト受賞作品</a>
+</p>
+
+
+<p class="border rounded px-5 py-3 mb-5">
   DojoCon Japan 2025 プログラミングコンテストの作品募集は2025年9月7日をもって終了しました。<br>
   たくさんのご応募ありがとうございました。<br>
   応募作品の一覧は下記のページをご覧ください。<br>
-  <a href="https://protopedia.net/event/dojocon2025" target="_blank">DojoCon Japan 2025 応募作品</a>
+  <a href="https://protopedia.net/event/dojocon2025" target="_blank">DojoCon Japan 2025 プログラミングコンテスト 応募作品</a>
 </p>
 
 <p>
