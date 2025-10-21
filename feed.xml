@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-21T01:41:47+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/5/" rel="alternate" type="text/html" title="セッション" /><published>2025-10-18T00:00:00+09:00</published><updated>2025-10-18T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session5</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/5/"><![CDATA[<h1 id="coderdojo-japan-活動報告">CoderDojo Japan 活動報告</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-21T09:02:06+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">九州 Dojo 展示会</title><link href="https://dojocon2025.coderdojo.jp/events/kyushu-dojo-expo/" rel="alternate" type="text/html" title="九州 Dojo 展示会" /><published>2025-10-20T00:00:00+09:00</published><updated>2025-10-20T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/kyushu-dojo-expo</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/kyushu-dojo-expo/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/kyushu-dojo-expo/thumbnail.webp" alt="九州 Dojo 展示会" /></p>
+
+<p>九州各地の Dojo からいろんなものを展示します</p>
+
+<h3 id="toio-と-microbit-で遊ぼう">toio と micro:bit で遊ぼう！</h3>
+
+<p>ちいさなロボット toio をちいさなコンピューター micro:bit で操縦します。<br />
+ボールをゴールに運びましょう！</p>
+
+<p><img class="sm:w-4/5 w-full mx-auto py-3" src="/img/events/kyushu-dojo-expo/toio-microbit.webp" alt="toio と micro:bit で遊ぼう！" /></p>
+
+<h3 id="minecraft-九州ワールド">Minecraft 九州ワールド</h3>
+
+<p>ニンジャが作った九州各地の建物や場所を紹介します。</p>
+
+<p>パネルでの展示のほか、実際にパソコンを操作してワールドを見学することもできます。</p>
+
+<p><img class="sm:w-4/5 w-full mx-auto py-3" src="/img/events/kyushu-dojo-expo/minecraft-kyushu-world.webp" alt="Minecraft 九州ワールド" /></p>
+
+<h3 id="九州-dojo-紹介">九州 Dojo 紹介</h3>
+
+<p>九州各地の Dojo をパネルで紹介します。</p>
+
+<p><img class="sm:w-4/5 w-full mx-auto py-3" src="/img/events/kyushu-dojo-expo/kyushu-dojos.webp" alt="九州 Dojo 紹介" /></p>]]></content><author><name></name></author><category term="event" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/5/" rel="alternate" type="text/html" title="セッション" /><published>2025-10-18T00:00:00+09:00</published><updated>2025-10-18T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session5</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/5/"><![CDATA[<h1 id="coderdojo-japan-活動報告">CoderDojo Japan 活動報告</h1>
 
 <h2 id="安川-要平やすかわ-ようへい">安川 要平（やすかわ ようへい）</h2>
 
