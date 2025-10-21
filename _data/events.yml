@@ -96,6 +96,13 @@
   url: /events/coolest-projects/
   date: 2025-10-15
 
+- title: DojoWall
+  outline: みんなのひらめきをシェアしよう！
+  img: /img/events/dojo-wall.webp
+  tag: イベント
+  url: /events/dojo-wall/
+  date: 2025-10-20
+
 - title: 九州 Dojo 展示会
   outline: 九州各地の Dojo からいろんなものを展示します
   img: /img/events/kyushu-dojo-expo/thumbnail.webp
