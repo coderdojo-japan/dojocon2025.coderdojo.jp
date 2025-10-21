@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-21T09:11:56+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">DojoWall</title><link href="https://dojocon2025.coderdojo.jp/events/dojo-wall/" rel="alternate" type="text/html" title="DojoWall" /><published>2025-10-20T00:00:00+09:00</published><updated>2025-10-20T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/dojo-wall</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/dojo-wall/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/dojo-wall.webp" alt="DojoWall - みんなのひらめきをシェアしよう！" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-21T23:14:53+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">DojoWall</title><link href="https://dojocon2025.coderdojo.jp/events/dojo-wall/" rel="alternate" type="text/html" title="DojoWall" /><published>2025-10-20T00:00:00+09:00</published><updated>2025-10-20T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/dojo-wall</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/dojo-wall/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/dojo-wall.webp" alt="DojoWall - みんなのひらめきをシェアしよう！" /></p>
 
 <p>
   みんなの「ひらめき」をシェアしよう！
@@ -687,6 +687,11 @@ memetan（息子）：コンテスト受賞歴多数、13歳で未踏Jr採択、
   }
 </style>
 
+<p class="border rounded px-5 py-3 mb-5">
+  DojoCon Japan 2025 当日スタッフの受付は 2025年10月21日 をもって終了しました。<br />
+  たくさんのご応募ありがとうございました。
+</p>
+
 <h3>当日お手伝いしてくださる方を募集します</h3>
 
 <p class="leading-6">
@@ -753,13 +758,6 @@ memetan（息子）：コンテスト受賞歴多数、13歳で未踏Jr採択、
     </tr>
   </table>
 </div>
-
-<h3 id="当日スタッフ応募">当日スタッフ応募</h3>
-
-<p class="leading-6">
-  応募は以下のフォームよりご連絡ください。<br />
-  <a href="https://forms.gle/Gd3zqTbcDix8nDuK7" target="_blank">応募フォーム</a>
-</p>
 
 <h3 id="過去のdojocon-japan">過去のDojoCon Japan</h3>
 
