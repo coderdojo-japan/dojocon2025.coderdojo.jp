@@ -17,13 +17,13 @@ title: タイムテーブル
 {% assign total_slots = tte.total_slots %}
 {% assign total_rooms = tte.total_rooms %}
 
-<section class="w-[calc(100dvw-40px)] max-w-7xl mx-auto mt-25 xl:mt-15">
+<section class="w-full mt-25 xl:mt-15">
   <h2 class="text-4xl text-center mb-8">
     タイムテーブル
     <span class="block mt-3 text-2xl">TIME TABLE</span>
   </h2>
-  <div class="overflow-x-auto border-[1px] border-[#e6e6e9]" aria-label="タイムテーブル（横スクロール可）">
-    <table class="ttable" style="--room-count: {{ rooms | size }};">
+  <div class="overflow-x-auto w-[calc(100dvw-2rem)] mx-auto" aria-label="タイムテーブル（横スクロール可）">
+    <table class="ttable border-[1px] border-[#e6e6e9]" style="--room-count: {{ rooms | size }};">
       <thead>
         <tr>
           <th scope="col" class="ttable__th ttable__th--start">時間</th>

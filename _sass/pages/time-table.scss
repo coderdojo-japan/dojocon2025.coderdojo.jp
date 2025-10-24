@@ -1,16 +1,3 @@
-/* ====== スクロール容器 ====== */
-.ttable-wrap{
-  position: relative;
-  width: 100%;
-  max-width: 100%;
-  overflow-x: auto;
-  overflow-y: visible;
-  -webkit-overflow-scrolling: touch;
-  overscroll-behavior-x: contain;
-  contain: content;
-  scrollbar-gutter: stable both-edges;
-}
-
 /* ====== テーブル ======
    PCでも「時間は4桁」「会場は全文表示」できるように
    table-layout: fixed と最小幅制約を組み合わせる
