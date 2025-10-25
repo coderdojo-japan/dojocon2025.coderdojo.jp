@@ -1,4 +1,129 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-25T02:26:30+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">DojoWall</title><link href="https://dojocon2025.coderdojo.jp/events/dojo-wall/" rel="alternate" type="text/html" title="DojoWall" /><published>2025-10-20T00:00:00+09:00</published><updated>2025-10-20T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/dojo-wall</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/dojo-wall/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/dojo-wall.webp" alt="DojoWall - みんなのひらめきをシェアしよう！" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-10-25T17:59:44+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">DojoCon Japan 2025 プログラミングコンテスト受賞作品一覧</title><link href="https://dojocon2025.coderdojo.jp/contests/winners/" rel="alternate" type="text/html" title="DojoCon Japan 2025 プログラミングコンテスト受賞作品一覧" /><published>2025-10-25T00:00:00+09:00</published><updated>2025-10-25T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/contests/contest-winners</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/contests/winners/"><![CDATA[<div class="xl:block hidden sticky mx-4 top-4 z-10">
+  <nav class="rounded-[40px] w-fit mx-auto bg-[#f5f5f5] mt-8 inset-shadow-[0px_-2px_10px_rgba(125,125,125,0.25)] shadow-[7px_7px_10px_rgba(125,125,125,0.15)] flex items-stretch">
+    <ul class="flex flex-wrap min-h-20 items-center p-5 pr-0 justify-center divide-x-2 gap-y-2 *:text-[#cc8f2e] *:px-5">
+      <li><a href="/#outline">開催概要</a></li>
+      <li><a href="/sessions/">セッション</a></li>
+      <li><a href="/events/">イベント</a></li>
+      <li><a href="/contests/">コンテスト</a></li>
+      <li><a href="https://suzuri.jp/DojoConJapan" target="_blank">グッズ</a></li>
+      <li><a href="/sponsorship/list/">スポンサー紹介</a></li>
+      <li><a href="https://forms.gle/t9ctDcuZZ8cqqFtR6" target="_blank">お問い合わせ</a></li>
+    </ul>
+    <a href="/time-table/" class="px-8 py-4 rounded-r-[40px] bg-[#cc8f2e] text-[#f5f5f5] inset-shadow-[0px_-2px_10px_rgba(125,125,125,0.25)] flex items-center">
+      タイムテーブル
+    </a>
+  </nav>
+</div>
+
+<h2 class="mx-auto text-4xl text-center mb-2 mt-30 px-4 sm:px-8 xl:mt-15 break-keep">
+  プログラミング<wbr />コンテスト 受賞作品一覧
+</h2>
+
+<div class="max-w-2xl mx-auto px-4 sm:px-8 my-15">
+  <section class="w-full mx-auto">
+    <div class="space-y-15">
+      
+        
+        <article>
+          <div>
+            <h3 class="text-3xl mb-4">白帯 最優秀賞</h3>
+            <h4 class="text-2xl mb-2">スペース・サイクリング</h4>
+          </div>
+
+          <div class="flex justify-center mb-2">
+            <img src="/img/contests/winners/7434.webp" alt="スペース・サイクリング の画像" class="max-h-90 w-auto max-w-full object-contain rounded-md" />
+          </div>
+          <p class="text-base mb-1">作: <strong>内田湘悟</strong></p>
+          <a class="underline text-[#cc8f2e]" href="https://protopedia.net/prototype/7434" target="_blank" rel="noopener">ProtoPedia で見る</a>
+        </article>
+      
+        
+        <article>
+          <div>
+            <h3 class="text-3xl mb-4">白帯 優秀賞</h3>
+            <h4 class="text-2xl mb-2">ひらめきゲーム</h4>
+          </div>
+
+          <div class="flex justify-center mb-2">
+            <img src="/img/contests/winners/7110.webp" alt="ひらめきゲーム の画像" class="max-h-90 w-auto max-w-full object-contain rounded-md" />
+          </div>
+          <p class="text-base mb-1">作: <strong>奥村総司</strong></p>
+          <a class="underline text-[#cc8f2e]" href="https://protopedia.net/prototype/7110" target="_blank" rel="noopener">ProtoPedia で見る</a>
+        </article>
+      
+        
+        <article>
+          <div>
+            <h3 class="text-3xl mb-4">白帯 優秀賞</h3>
+            <h4 class="text-2xl mb-2">初心者ねこのお手伝い</h4>
+          </div>
+
+          <div class="flex justify-center mb-2">
+            <img src="/img/contests/winners/7425.webp" alt="初心者ねこのお手伝い の画像" class="max-h-90 w-auto max-w-full object-contain rounded-md" />
+          </div>
+          <p class="text-base mb-1">作: <strong>松尾太耀</strong></p>
+          <a class="underline text-[#cc8f2e]" href="https://protopedia.net/prototype/7425" target="_blank" rel="noopener">ProtoPedia で見る</a>
+        </article>
+      
+        
+        <article>
+          <div>
+            <h3 class="text-3xl mb-4">黒帯 最優秀賞</h3>
+            <h4 class="text-2xl mb-2">Egg Beat</h4>
+          </div>
+
+          <div class="flex justify-center mb-2">
+            <img src="/img/contests/winners/7466.webp" alt="Egg Beat の画像" class="max-h-90 w-auto max-w-full object-contain rounded-md" />
+          </div>
+          <p class="text-base mb-1">作: <strong>花田勘太郎</strong></p>
+          <a class="underline text-[#cc8f2e]" href="https://protopedia.net/prototype/7466" target="_blank" rel="noopener">ProtoPedia で見る</a>
+        </article>
+      
+        
+        <article>
+          <div>
+            <h3 class="text-3xl mb-4">黒帯 優秀賞</h3>
+            <h4 class="text-2xl mb-2">ヤモリゲーム</h4>
+          </div>
+
+          <div class="flex justify-center mb-2">
+            <img src="/img/contests/winners/7404.webp" alt="ヤモリゲーム の画像" class="max-h-90 w-auto max-w-full object-contain rounded-md" />
+          </div>
+          <p class="text-base mb-1">作: <strong>伊藤碧</strong></p>
+          <a class="underline text-[#cc8f2e]" href="https://protopedia.net/prototype/7404" target="_blank" rel="noopener">ProtoPedia で見る</a>
+        </article>
+      
+        
+        <article>
+          <div>
+            <h3 class="text-3xl mb-4">黒帯 優秀賞</h3>
+            <h4 class="text-2xl mb-2">ピタへび！！</h4>
+          </div>
+
+          <div class="flex justify-center mb-2">
+            <img src="/img/contests/winners/7430.webp" alt="ピタへび！！ の画像" class="max-h-90 w-auto max-w-full object-contain rounded-md" />
+          </div>
+          <p class="text-base mb-1">作: <strong>秋穂遥斗</strong></p>
+          <a class="underline text-[#cc8f2e]" href="https://protopedia.net/prototype/7430" target="_blank" rel="noopener">ProtoPedia で見る</a>
+        </article>
+      
+        
+        <article>
+          <div>
+            <h3 class="text-3xl mb-4">九州賞</h3>
+            <h4 class="text-2xl mb-2">To my parents　〜直接渡せない時用マシーン〜</h4>
+          </div>
+
+          <div class="flex justify-center mb-2">
+            <img src="/img/contests/winners/7098.webp" alt="To my parents　〜直接渡せない時用マシーン〜 の画像" class="max-h-90 w-auto max-w-full object-contain rounded-md" />
+          </div>
+          <p class="text-base mb-1">作: <strong>yutokome</strong></p>
+          <a class="underline text-[#cc8f2e]" href="https://protopedia.net/prototype/7098" target="_blank" rel="noopener">ProtoPedia で見る</a>
+        </article>
+      
+    </div>
+  </section>
+</div>]]></content><author><name></name></author><category term="news" /><category term="コンテスト" /><summary type="html"><![CDATA[開催概要 セッション イベント コンテスト グッズ スポンサー紹介 お問い合わせ タイムテーブル]]></summary></entry><entry><title type="html">DojoWall</title><link href="https://dojocon2025.coderdojo.jp/events/dojo-wall/" rel="alternate" type="text/html" title="DojoWall" /><published>2025-10-20T00:00:00+09:00</published><updated>2025-10-20T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/dojo-wall</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/dojo-wall/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/dojo-wall.webp" alt="DojoWall - みんなのひらめきをシェアしよう！" /></p>
 
 <p>
   みんなの「ひらめき」をシェアしよう！
@@ -1113,16 +1238,22 @@ li {
   ぜひ、多くの方々と一緒に DojoCon の熱気を九州の地で感じられるよう、
   ご支援・ご協賛をお待ちしております。
 </p>]]></content><author><name></name></author><category term="news" /><category term="スポンサー" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">DojoCon Japan 2025 プログラミングコンテスト</title><link href="https://dojocon2025.coderdojo.jp/contests/" rel="alternate" type="text/html" title="DojoCon Japan 2025 プログラミングコンテスト" /><published>2025-07-21T00:00:00+09:00</published><updated>2025-07-21T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/contest-outline</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/contests/"><![CDATA[<p class="border rounded px-5 py-3 mb-5">
+  DojoCon Japan 2025 プログラミングコンテストの受賞作品が決定しました。<br />
+  受賞作品の一覧は下記のページをご覧ください。<br />
+  <a href="/contests/winners/">DojoCon Japan 2025 プログラミングコンテスト 受賞作品</a>
+</p>
+
+<p class="border rounded px-5 py-3 mb-5">
   DojoCon Japan 2025 プログラミングコンテストの作品募集は2025年9月7日をもって終了しました。<br />
   たくさんのご応募ありがとうございました。<br />
   応募作品の一覧は下記のページをご覧ください。<br />
-  <a href="https://protopedia.net/event/dojocon2025" target="_blank">DojoCon Japan 2025 応募作品</a>
+  <a href="https://protopedia.net/event/dojocon2025" target="_blank">DojoCon Japan 2025 プログラミングコンテスト 応募作品</a>
 </p>
 
 <p>
   子ども達に他の地域の文化やコミュニティーにふれてもらいたい。
   プログラミングを通じて様々な経験をしてもらいたい。
-  その思いから、『 DojoCon Japan 2025 プログラミングコンテスト 』を開催いたします。
+  その思いから、『DojoCon Japan 2025 プログラミングコンテスト』を開催いたします。
   一次審査で選ばれた作品は 2025年10月25日(土) に福岡県久留米市で行われる DojoCon Japan 2025 で作品発表していただきます。
 </p>
 
@@ -1338,7 +1469,7 @@ li {
 
 <p>
   コンテストに関するお問い合わせは <a href="https://forms.gle/t9ctDcuZZ8cqqFtR6" target="_blank">DojoCon Japan 2025 お問い合わせフォーム</a> にお願いいたします。
-</p>]]></content><author><name></name></author><category term="news" /><category term="イベント" /><summary type="html"><![CDATA[DojoCon Japan 2025 プログラミングコンテストの作品募集は2025年9月7日をもって終了しました。 たくさんのご応募ありがとうございました。 応募作品の一覧は下記のページをご覧ください。 DojoCon Japan 2025 応募作品]]></summary></entry><entry><title type="html">DojoCon Japan 2025 プログラミングコンテスト 参加規約</title><link href="https://dojocon2025.coderdojo.jp/contests/terms/" rel="alternate" type="text/html" title="DojoCon Japan 2025 プログラミングコンテスト 参加規約" /><published>2025-07-21T00:00:00+09:00</published><updated>2025-07-21T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/contests/contest-terms</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/contests/terms/"><![CDATA[<p><img src="/img/common/coderdojo-nameplate.webp" loading="lazy" alt="DojoCon Japan Cover Photo" title="DojoCon Japan Cover Photo" class="mb-4" /></p>
+</p>]]></content><author><name></name></author><category term="news" /><category term="イベント" /><summary type="html"><![CDATA[DojoCon Japan 2025 プログラミングコンテストの受賞作品が決定しました。 受賞作品の一覧は下記のページをご覧ください。 DojoCon Japan 2025 プログラミングコンテスト 受賞作品]]></summary></entry><entry><title type="html">DojoCon Japan 2025 プログラミングコンテスト 参加規約</title><link href="https://dojocon2025.coderdojo.jp/contests/terms/" rel="alternate" type="text/html" title="DojoCon Japan 2025 プログラミングコンテスト 参加規約" /><published>2025-07-21T00:00:00+09:00</published><updated>2025-07-21T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/contests/contest-terms</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/contests/terms/"><![CDATA[<p><img src="/img/common/coderdojo-nameplate.webp" loading="lazy" alt="DojoCon Japan Cover Photo" title="DojoCon Japan Cover Photo" class="mb-4" /></p>
 
 <p>
   「DojoCon Japan 2025プログラミングコンテスト」（以下「本⼤会」といいます）は、DojoCon Japan実⾏委員会（併せて以下「主催者」といいます）が主催するプログラミングコンテストです。
