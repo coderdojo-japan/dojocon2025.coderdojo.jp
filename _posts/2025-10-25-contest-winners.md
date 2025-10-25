@@ -18,8 +18,7 @@ categories: news
   <section class="w-full mx-auto">
     <div class="space-y-15">
       {% for w in site.data.contests_winners.winners %}
-        {% assign work_key = w.work %}
-        {% assign work = site.data.contests_winners.works[work_key] %}
+        {% assign work = site.data.contests_winners.works[w.work] %}
         <article>
           <div>
             <h3 class="text-3xl mb-4">{{ w.award }}</h3>
