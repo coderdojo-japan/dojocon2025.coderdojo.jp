@@ -11,7 +11,7 @@ categories: news
 {% include navbar.html %}
 
 <h2 class="mx-auto text-4xl text-center mb-2 mt-30 px-4 sm:px-8 xl:mt-15 break-keep">
-  プログラミング<wbr>コンテスト<wbr>受賞作品一覧
+  プログラミング<wbr>コンテスト 受賞作品一覧
 </h2>
 
 <div class="max-w-2xl mx-auto px-4 sm:px-8 my-15">
