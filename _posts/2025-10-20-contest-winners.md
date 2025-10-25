@@ -3,6 +3,9 @@ layout: default
 date: 2025-10-20
 permalink: /contests/winners/
 title: DojoCon Japan 2025 プログラミングコンテスト受賞作品一覧
+title-in-news-list: プログラミングコンテストの受賞作品が決定しました
+tag: コンテスト
+categories: news
 ---
 
 {% include navbar.html %}
