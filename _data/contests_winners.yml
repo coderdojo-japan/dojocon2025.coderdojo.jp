@@ -5,12 +5,12 @@ works:
     protopedia: "https://protopedia.net/prototype/7110"
 
   "初心者ねこのお手伝い":
-    author: "松尾　太耀"
+    author: "松尾太耀"
     image: "/img/contests/winners/7425.webp"
     protopedia: "https://protopedia.net/prototype/7425"
 
   "スペース・サイクリング":
-    author: "内田 湘悟"
+    author: "内田湘悟"
     image: "/img/contests/winners/7434.webp"
     protopedia: "https://protopedia.net/prototype/7434"
 
@@ -20,12 +20,12 @@ works:
     protopedia: "https://protopedia.net/prototype/7404"
 
   "ピタへび！！":
-    author: "秋穂　遥斗"
+    author: "秋穂遥斗"
     image: "/img/contests/winners/7430.webp"
     protopedia: "https://protopedia.net/prototype/7430"
 
   "Egg Beat":
-    author: "花田 勘太郎"
+    author: "花田勘太郎"
     image: "/img/contests/winners/7466.webp"
     protopedia: "https://protopedia.net/prototype/7466"
 
@@ -36,22 +36,22 @@ works:
 
 winners:
   - award: "白帯 最優秀賞"
+    work: "スペース・サイクリング"
+
+  - award: "白帯 優秀賞"
     work: "ひらめきゲーム"
 
   - award: "白帯 優秀賞"
     work: "初心者ねこのお手伝い"
 
-  - award: "白帯 優秀賞"
-    work: "スペース・サイクリング"
-
   - award: "黒帯 最優秀賞"
+    work: "Egg Beat"
+
+  - award: "黒帯 優秀賞"
     work: "ヤモリゲーム"
 
   - award: "黒帯 優秀賞"
     work: "ピタへび！！"
-
-  - award: "黒帯 優秀賞"
-    work: "Egg Beat"
 
   - award: "九州賞"
     work: "To my parents　〜直接渡せない時用マシーン〜"
