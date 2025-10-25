@@ -68,6 +68,7 @@ events:
     start: "16:00"
     end:   "16:10"
     title: "コンテスト結果発表"
+    link: "/contests/winners/"
 
   - room:  "5F 大会議室（セッション）"
     start: "16:10"

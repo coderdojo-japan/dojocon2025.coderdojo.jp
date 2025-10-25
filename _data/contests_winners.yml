@@ -1,0 +1,59 @@
+works:
+  "ひらめきゲーム":
+    author: "奥村総司"
+    image: "/img/contests/winners/7110.webp"
+    protopedia: "https://protopedia.net/prototype/7110"
+
+  "初心者ねこのお手伝い":
+    author: "松尾太耀"
+    image: "/img/contests/winners/7425.webp"
+    protopedia: "https://protopedia.net/prototype/7425"
+
+  "スペース・サイクリング":
+    author: "内田湘悟"
+    image: "/img/contests/winners/7434.webp"
+    protopedia: "https://protopedia.net/prototype/7434"
+
+  "ヤモリゲーム":
+    author: "伊藤碧"
+    image: "/img/contests/winners/7404.webp"
+    protopedia: "https://protopedia.net/prototype/7404"
+
+  "ピタへび！！":
+    author: "秋穂遥斗"
+    image: "/img/contests/winners/7430.webp"
+    protopedia: "https://protopedia.net/prototype/7430"
+
+  "Egg Beat":
+    author: "花田勘太郎"
+    image: "/img/contests/winners/7466.webp"
+    protopedia: "https://protopedia.net/prototype/7466"
+
+  "To my parents　〜直接渡せない時用マシーン〜":
+    author: "yutokome"
+    image: "/img/contests/winners/7098.webp"
+    protopedia: "https://protopedia.net/prototype/7098"
+
+winners:
+  - award: "白帯 最優秀賞"
+    work: "スペース・サイクリング"
+
+  - award: "白帯 優秀賞"
+    work: "ひらめきゲーム"
+
+  - award: "白帯 優秀賞"
+    work: "初心者ねこのお手伝い"
+
+  - award: "黒帯 最優秀賞"
+    work: "Egg Beat"
+
+  - award: "黒帯 優秀賞"
+    work: "ヤモリゲーム"
+
+  - award: "黒帯 優秀賞"
+    work: "ピタへび！！"
+
+  - award: "九州賞"
+    work: "To my parents　〜直接渡せない時用マシーン〜"
+
+
