@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-11-02T19:01:35+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">DojoCon Japan 2025 プログラミングコンテスト受賞作品一覧</title><link href="https://dojocon2025.coderdojo.jp/contests/winners/" rel="alternate" type="text/html" title="DojoCon Japan 2025 プログラミングコンテスト受賞作品一覧" /><published>2025-10-25T00:00:00+09:00</published><updated>2025-10-25T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/contests/contest-winners</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/contests/winners/"><![CDATA[<div class="xl:block hidden sticky mx-4 top-4 z-10">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://dojocon2025.coderdojo.jp/feed.xml" rel="self" type="application/atom+xml" /><link href="https://dojocon2025.coderdojo.jp/" rel="alternate" type="text/html" /><updated>2025-11-19T23:16:49+09:00</updated><id>https://dojocon2025.coderdojo.jp/feed.xml</id><title type="html">DojoCon Japan</title><subtitle>DojoCon Japan は CoderDojo コミュニティのカンファレンスイベントです。CoderDojo 関係者を対象に運営ノウハウの共有や関係者同士の交流などを目的として毎年開催されています。</subtitle><entry><title type="html">DojoCon Japan 2025 プログラミングコンテスト受賞作品一覧</title><link href="https://dojocon2025.coderdojo.jp/contests/winners/" rel="alternate" type="text/html" title="DojoCon Japan 2025 プログラミングコンテスト受賞作品一覧" /><published>2025-10-25T00:00:00+09:00</published><updated>2025-10-25T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/contests/contest-winners</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/contests/winners/"><![CDATA[<div class="xl:block hidden sticky mx-4 top-4 z-10">
   <nav class="rounded-[40px] w-fit mx-auto bg-[#f5f5f5] mt-8 inset-shadow-[0px_-2px_10px_rgba(125,125,125,0.25)] shadow-[7px_7px_10px_rgba(125,125,125,0.15)] flex items-stretch">
     <ul class="flex flex-wrap min-h-20 items-center p-5 pr-0 justify-center divide-x-2 gap-y-2 *:text-[#cc8f2e] *:px-5">
       <li><a href="/#outline">開催概要</a></li>
@@ -201,7 +201,11 @@
 
 <p class="mt-4">
   本セッションではこの１年で行った活動実績をお伝えすると共に、これまで通り、これからも、CoderDojo が今後も楽しく活動できるよう進めていることについて皆さんと共有したいと考えています。
-</p>]]></content><author><name></name></author><summary type="html"><![CDATA[CoderDojo Japan 活動報告]]></summary></entry><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/4/" rel="alternate" type="text/html" title="セッション" /><published>2025-10-17T00:00:00+09:00</published><updated>2025-10-17T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session4</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/4/"><![CDATA[<h1 id="九州dojo座談会">九州Dojo座談会</h1>
+</p>
+
+<div class="mt-6 max-w-150 mx-auto">
+  <iframe class="w-full aspect-video" src="https://www.youtube-nocookie.com/embed/BYCk9PjlSO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[CoderDojo Japan 活動報告]]></summary></entry><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/4/" rel="alternate" type="text/html" title="セッション" /><published>2025-10-17T00:00:00+09:00</published><updated>2025-10-17T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session4</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/4/"><![CDATA[<h1 id="九州dojo座談会">九州Dojo座談会</h1>
 
 <h2 id="概要">概要</h2>
 <p>九州には各地にDojoがあるのですが、それぞれのDojoは距離が遠かったり、日程が合わないなどの理由でなかなかコラボしにくかったりします。<br />
@@ -209,6 +213,10 @@ DojoConの場を使って、九州Dojoの特徴や雰囲気などを語り合い
 
 <div class="flex max-w-150 mx-auto my-8 justify-center">
   <img class="w-full" src="/img/sessions/thumbnails/session4.webp" alt="九州Dojo座談会" />
+</div>
+
+<div class="max-w-150 mx-auto">
+  <iframe class="w-full aspect-video" src="https://www.youtube-nocookie.com/embed/zI8g2mS5xME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 </div>]]></content><author><name></name></author><summary type="html"><![CDATA[九州Dojo座談会]]></summary></entry><entry><title type="html">タイムテーブルの公開</title><link href="https://dojocon2025.coderdojo.jp/news/time-table/" rel="alternate" type="text/html" title="タイムテーブルの公開" /><published>2025-10-16T00:00:00+09:00</published><updated>2025-10-16T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/news/time-table</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/news/time-table/"><![CDATA[<p>お待たせしました。DojoCon Japan 2025 のタイムテーブルを公開しました。<br />
 各セッション、ワークショップの詳細ページも順次公開していますので、ぜひご覧ください。</p>
 <p class="mt-6">
@@ -583,6 +591,7 @@ iPad は貸し出しも可能です。</p>
 </p>]]></content><author><name></name></author><category term="news" /><category term="スポンサー" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/1/" rel="alternate" type="text/html" title="セッション" /><published>2025-09-20T00:00:00+09:00</published><updated>2025-09-20T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session1</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/1/"><![CDATA[<h1 id="エンジニアではない私がcoderdojoを立ち上げた">エンジニアではない私がCoderDojoを立ち上げた</h1>
 <h2 id="吉田彩よしだ-あや">吉田彩（よしだ あや）</h2>
 <p>CoderDojo早良 チャンピオン</p>
+
 <div class="flex max-w-100 mx-auto my-4 justify-center">
   <img class="w-full" src="/img/sessions/profile/yoshida-aya.webp" alt="吉田彩" />
 </div>
@@ -592,12 +601,18 @@ iPad は貸し出しも可能です。</p>
 
 <h2 id="概要">概要</h2>
 <p>プログラミングも出来ない、PCのことも詳しくない、8歳と4歳の子どものママでしかなかった私が、CoderDojo久留米と出会い、息子と通い、そこで出会った人達に憧れ、自分も新しい事にチャレンジしたい、そしてその姿を子どもに見せたいと思いCoderDojo 早良を立ち上げました。しかし知識がない私は立ち上げと運営に苦戦する日々、そんな時に息子がメンターとして助けてくれるように。初回から参加応募30人を超え、チャンピオンに知識がなくとも、みんなで探求する唯一無二のCoderDojo早良です。</p>
+
 <div class="flex max-w-150 mx-auto my-8 justify-center">
   <img class="w-full" src="/img/sessions/thumbnails/session1.webp" alt="" />
+</div>
+
+<div class="max-w-150 mx-auto">
+  <iframe class="w-full aspect-video" src="https://www.youtube-nocookie.com/embed/VVQaMbP1P1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 </div>]]></content><author><name></name></author><summary type="html"><![CDATA[エンジニアではない私がCoderDojoを立ち上げた 吉田彩（よしだ あや） CoderDojo早良 チャンピオン]]></summary></entry><entry><title type="html">セッション</title><link href="https://dojocon2025.coderdojo.jp/sessions/2/" rel="alternate" type="text/html" title="セッション" /><published>2025-09-20T00:00:00+09:00</published><updated>2025-09-20T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/session2</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/2/"><![CDATA[<h1 id="coderdojoに救われて現在親子でメンターをやっている話">CoderDojoに救われて現在親子でメンターをやっている話</h1>
 <h2 id="とり子memetan">とり子・memetan</h2>
 <p>とり子：CoderDojo香椎 CoderDojoさが メンター<br />
 memetan：CoderDojo香椎 CoderDojoさが ユースメンター</p>
+
 <div class="flex max-w-100 mx-auto my-4 justify-center">
   <img class="w-full" src="/img/sessions/profile/memetan-toriko.webp" alt="とり子・memetan" />
 </div>
@@ -613,8 +628,13 @@ memetan（息子）：コンテスト受賞歴多数、13歳で未踏Jr採択、
 好奇心が強すぎる子への関わりについて、母親の立場から自身の経験をお話します。
 偉そうに言える立場ではないですが経験談として参考程度に聞いていただければ幸いです。<br />
 息子本人からも開発の楽しさについて語ります。</p>
+
 <div class="flex max-w-150 mx-auto my-8 justify-center">
   <img class="w-full" src="/img/sessions/thumbnails/session2.webp" alt="CoderDojoに救われて現在親子でメンターをやっている話" />
+</div>
+
+<div class="max-w-150 mx-auto">
+  <iframe class="w-full aspect-video" src="https://www.youtube-nocookie.com/embed/t5PU8nx8Oe4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 </div>]]></content><author><name></name></author><summary type="html"><![CDATA[CoderDojoに救われて現在親子でメンターをやっている話 とり子・memetan とり子：CoderDojo香椎 CoderDojoさが メンター memetan：CoderDojo香椎 CoderDojoさが ユースメンター]]></summary></entry><entry><title type="html">Blenderでシマエナガを作ろう！</title><link href="https://dojocon2025.coderdojo.jp/events/blender-shimaenaga/" rel="alternate" type="text/html" title="Blenderでシマエナガを作ろう！" /><published>2025-09-14T00:00:00+09:00</published><updated>2025-09-14T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/events/blender-shimaenaga</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/events/blender-shimaenaga/"><![CDATA[<p><img class="w-full pb-8" src="/img/events/blender-shimaenaga.webp" alt="カバー画像 Blenderでシマエナガを作ろう！" /></p>
 
 <p>無料で使える3Dソフト「Blender」を使って、かわいい鳥“シマエナガ”をモデリングします。<br />
@@ -918,7 +938,11 @@ memetan（息子）：コンテスト受賞歴多数、13歳で未踏Jr採択、
 <h2 id="概要">概要</h2>
 <p>生成AIの急速な進展により、「プログラミングを学ぶこと」の意味や価値そのものが、根本から問い直される時代がきています。<br />
 だからこそ今、子どもたちが〈つくる〉ことを楽しみ、世代を超えた仲間と学び合う CoderDojo コミュニティのような学びの場が、これまで以上に重要な意味を持ってきます。<br />
-本講演では、「教育・学びとは何か」を根底から問い直す視点から、プログラミング教育の脱構築を提案し、これからの CoderDojo のあり方も皆さんと考えていきたいと思います。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[プログラミング教育の脱構築——生成AI時代における〈学び〉を再考する]]></summary></entry><entry><title type="html">招待講演</title><link href="https://dojocon2025.coderdojo.jp/sessions/keynote2/" rel="alternate" type="text/html" title="招待講演" /><published>2025-08-28T00:00:00+09:00</published><updated>2025-08-28T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/keynote2</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/keynote2/"><![CDATA[<h1 id="生成ai時代における子どもたちに必要な力とは">生成AI時代における子どもたちに必要な力とは？</h1>
+本講演では、「教育・学びとは何か」を根底から問い直す視点から、プログラミング教育の脱構築を提案し、これからの CoderDojo のあり方も皆さんと考えていきたいと思います。</p>
+
+<div class="mt-6 max-w-150 mx-auto">
+  <iframe class="w-full aspect-video" src="https://www.youtube-nocookie.com/embed/ZjO2udcmg0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[プログラミング教育の脱構築——生成AI時代における〈学び〉を再考する]]></summary></entry><entry><title type="html">招待講演</title><link href="https://dojocon2025.coderdojo.jp/sessions/keynote2/" rel="alternate" type="text/html" title="招待講演" /><published>2025-08-28T00:00:00+09:00</published><updated>2025-08-28T00:00:00+09:00</updated><id>https://dojocon2025.coderdojo.jp/sessions/keynote2</id><content type="html" xml:base="https://dojocon2025.coderdojo.jp/sessions/keynote2/"><![CDATA[<h1 id="生成ai時代における子どもたちに必要な力とは">生成AI時代における子どもたちに必要な力とは？</h1>
 
 <h2 id="小宮山-利恵子こみやま-りえこ">小宮山 利恵子（こみやま りえこ）</h2>
 <p>株式会社リクルート スタディサプリ教育AI研究所所長<br />
