@@ -158,7 +158,7 @@ tags: イベント
 <h2>審査員</h2>
 
 - 第１次審査
-  - DojoCon Japan 2025 実行委員会
+  - DojoCon Japan 実行委員会
 - 最終審査
   - DojoCon Japan 2025 参加者
 
